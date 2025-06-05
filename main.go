@@ -4,12 +4,14 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"html/template"
 	"io"
 	"log"
 	"net/http"
 	"os"
-	"slices"
+	"sort"
 	"strconv"
+	"strings"
 )
 
 type Player struct {
@@ -30,11 +32,19 @@ type LeaderboardRow struct {
 	LastName  string  `json:"lastName"`
 	Total     string  `json:"total"`
 	Rounds    []Round `json:"rounds"`
+	Position  string  `json:"position"`
 }
 
-type LeaderboardResponse struct {
+type Leaderboard struct {
+	CutLines []struct {
+		CutScore string `json:"cutScore"`
+	} `json:"cutLines"`
 	LeaderboardRows []LeaderboardRow `json:"leaderboardRows"`
 }
+
+var (
+	members = []string{"matt", "jr", "pat", "alex", "chuck"}
+)
 
 func main() {
 	refresh := flag.Bool("refresh", false, "Fetch latest leaderboard from API")
@@ -48,19 +58,26 @@ func main() {
 		log.Println("✅ Fetched latest leaderboard")
 	}
 
-	names, err := loadTeam("teams/matt.json")
-	if err != nil {
-		log.Fatal(err)
+	teams := make(map[string][]Player, len(members))
+	for _, member := range members {
+		playerNames, err := loadTeam(fmt.Sprintf("teams/%s.json", member))
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		team, err := getTeamScores("leaderboard.json", playerNames)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		teams[member] = team
 	}
 
-	team, err := getTeamScores("leaderboard.json", names)
+	err := renderScoreboard(teams)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatalf("render failed: %v", err)
 	}
 
-	for _, p := range team {
-		fmt.Printf("%s: R1=%d R2=%d R3=%d R4=%d Total=%s\n", p.FullName, p.R1, p.R2, p.R3, p.R4, p.Total)
-	}
 }
 
 func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
@@ -70,39 +87,87 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 	}
 	defer file.Close()
 
-	var leaderboard LeaderboardResponse
+	var leaderboard Leaderboard
 	if err := json.NewDecoder(file).Decode(&leaderboard); err != nil {
 		return nil, err
 	}
+	cutVal := 0
+	if len(leaderboard.CutLines) > 0 {
+		cutVal = parseCutScore(leaderboard.CutLines[0].CutScore) + 3 // decide a value to assign to cut players. here we are adding 3 to the cutline as their Round score
+	}
 
 	var team []Player
-	for _, row := range leaderboard.LeaderboardRows {
-		fullName := row.FirstName + " " + row.LastName
-		if !slices.Contains(teamNames, fullName) {
+
+	for _, name := range teamNames {
+		split := strings.SplitN(name, " ", 2)
+		if len(split) != 2 {
+			log.Printf("Skipping invalid name: %s", name)
+			continue
+		}
+		firstName, lastName := split[0], split[1]
+
+		var found *LeaderboardRow
+		for _, row := range leaderboard.LeaderboardRows {
+			if row.FirstName == firstName && row.LastName == lastName {
+				found = &row
+				break
+			}
+		}
+		if found == nil {
+			log.Printf("Player not found in leaderboard: %s", name)
 			continue
 		}
 
 		player := Player{
-			FullName: fullName,
-			Total:    row.Total,
+			FullName: name,
+			Total:    found.Total,
 		}
 
-		for i, round := range row.Rounds {
-			switch i {
-			case 0:
-				player.R1 = strokesInt(round.Strokes)
-			case 1:
-				player.R2 = strokesInt(round.Strokes)
-			case 2:
-				player.R3 = strokesInt(round.Strokes)
-			case 3:
-				player.R4 = strokesInt(round.Strokes)
+		isCut := strings.ToUpper(found.Position) == "CUT"
+
+		for i := 0; i < 4; i++ {
+			if i < len(found.Rounds) && !isCut {
+				strokes := strokesInt(found.Rounds[i].Strokes)
+				switch i {
+				case 0:
+					player.R1 = strokes
+				case 1:
+					player.R2 = strokes
+				case 2:
+					player.R3 = strokes
+				case 3:
+					player.R4 = strokes
+				}
+			} else if isCut && i >= 2 {
+				// Assign cut penalty strokes to R3 and R4
+				switch i {
+				case 2:
+					player.R3 = cutVal
+				case 3:
+					player.R4 = cutVal
+				}
 			}
 		}
 
 		team = append(team, player)
 	}
+	sort.Slice(team, func(i, j int) bool {
+		return playerTotal(team[i]) < playerTotal(team[j])
+	})
+
 	return team, nil
+}
+
+func playerTotal(p Player) int {
+	return p.R1 + p.R2 + p.R3 + p.R4
+}
+
+func parseCutScore(cut string) int {
+	val := strings.TrimPrefix(cut, "+")
+	val = strings.TrimPrefix(val, "-")
+	var score int
+	fmt.Sscanf(val, "%d", &score)
+	return score
 }
 
 func loadTeam(filePath string) ([]string, error) {
@@ -172,4 +237,19 @@ func fetchLeaderboard() error {
 func strokesInt(s string) int {
 	strokes, _ := strconv.Atoi(s)
 	return strokes
+}
+
+func renderScoreboard(teams map[string][]Player) error {
+	tmpl, err := template.ParseFiles("templates/scoreboard.html")
+	if err != nil {
+		return err
+	}
+
+	out, err := os.Create("docs/index.html")
+	if err != nil {
+		return err
+	}
+	defer out.Close()
+
+	return tmpl.Execute(out, teams)
 }

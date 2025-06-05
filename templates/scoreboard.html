@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ForeCast Scoreboard</title>
+    <style>
+        body { font-family: sans-serif; background: #f9f9f9; padding: 2rem; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; margin-bottom: 2rem; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        th { background-color: #eee; }
+        .team-name { margin-top: 2rem; font-size: 1.4rem; color: #222; }
+    </style>
+</head>
+<body>
+    <h1>Fantasy Golf Live Scoreboard </h1>
+    {{ range $teamName, $players := . }}
+        <div class="team-name">{{$teamName}}</div>
+        <table>
+            <tr>
+                <th>Player</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>Total</th>
+            </tr>
+            {{ range $players }}
+            <tr>
+                <td>{{.FullName}}</td>
+                <td>{{.R1}}</td>
+                <td>{{.R2}}</td>
+                <td>{{.R3}}</td>
+                <td>{{.R4}}</td>
+                <td>{{.Total}}</td>
+            </tr>
+            {{ end }}
+        </table>
+    {{ end }}
+</body>
+</html>
