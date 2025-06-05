@@ -20,7 +20,7 @@ type Player struct {
 	R2       int    `json:"r2"`
 	R3       int    `json:"r3"`
 	R4       int    `json:"r4"`
-	Total    string `json:"total"`
+	Total    int    `json:"total"`
 }
 
 type Round struct {
@@ -97,7 +97,11 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 	}
 
 	var team []Player
-
+	r1Total := 0
+	r2Total := 0
+	r3Total := 0
+	r4Total := 0
+	grandTotal := 0
 	for _, name := range teamNames {
 		split := strings.SplitN(name, " ", 2)
 		if len(split) != 2 {
@@ -117,10 +121,8 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 			log.Printf("Player not found in leaderboard: %s", name)
 			continue
 		}
-
 		player := Player{
 			FullName: name,
-			Total:    found.Total,
 		}
 
 		isCut := strings.ToUpper(found.Position) == "CUT"
@@ -131,29 +133,47 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 				switch i {
 				case 0:
 					player.R1 = strokes
+					r1Total += strokes
 				case 1:
 					player.R2 = strokes
+					r2Total += strokes
 				case 2:
 					player.R3 = strokes
+					r3Total += strokes
 				case 3:
 					player.R4 = strokes
+					r4Total += strokes
 				}
 			} else if isCut && i >= 2 {
 				// Assign cut penalty strokes to R3 and R4
 				switch i {
 				case 2:
 					player.R3 = cutVal
+					r3Total += cutVal
 				case 3:
 					player.R4 = cutVal
+					r4Total += cutVal
 				}
 			}
 		}
+		currentPlayerTotal := player.R1 + player.R2 + player.R3 + player.R4
+		player.Total = currentPlayerTotal
 
 		team = append(team, player)
 	}
 	sort.Slice(team, func(i, j int) bool {
 		return playerTotal(team[i]) < playerTotal(team[j])
 	})
+	grandTotal = r1Total + r2Total + r3Total + r4Total
+	total := Player{
+		FullName: "Total",
+		R1:    r1Total,
+		R2:    r2Total,
+		R3:    r3Total,
+		R4:    r4Total,
+		Total: grandTotal,
+	}
+	team = append(team, total)
 
 	return team, nil
 }
