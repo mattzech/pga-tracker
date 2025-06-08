@@ -1,19 +1,52 @@
+{{define "scoreboard"}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ForeCast Scoreboard</title>
+    <title>Fantasy Golf Scoreboard</title>
     <style>
-        body { font-family: sans-serif; background: #f9f9f9; padding: 2rem; }
-        h1 { color: #333; }
-        table { border-collapse: collapse; width: 100%; margin-bottom: 2rem; }
-        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
-        th { background-color: #eee; }
-        .team-name { margin-top: 2rem; font-size: 1.4rem; color: #222; }
+        body {
+            font-family: sans-serif;
+            background: url("static/straits.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: black;
+            padding: 2rem;
+        }
+        h1 {
+            color: #fff;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 2rem;
+            background-color: white;
+            color: black;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .team-name {
+            margin-top: 2rem;
+            font-size: 1.4rem;
+            color: #fff;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+        }
+        .bold-row td {
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
-    <h1>Fantasy Golf Live Scoreboard </h1>
+    <h1>Fantasy Golf Live Scoreboard</h1>
     {{ range $teamName, $players := . }}
         <div class="team-name">{{$teamName}}</div>
         <table>
@@ -21,7 +54,7 @@
                 <th>Player</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>Total</th>
             </tr>
             {{ range $players }}
-            <tr>
+            <tr {{if isTotal .FullName}}class="bold-row"{{end}}>
                 <td>{{.FullName}}</td>
                 <td>{{.R1}}</td>
                 <td>{{.R2}}</td>
@@ -34,3 +67,4 @@
     {{ end }}
 </body>
 </html>
+{{end}}

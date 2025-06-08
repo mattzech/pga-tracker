@@ -43,7 +43,7 @@ type Leaderboard struct {
 }
 
 var (
-	members = []string{"matt", "jr", "pat", "alex", "chuck"}
+	members = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
 )
 
 func main() {
@@ -260,10 +260,12 @@ func strokesInt(s string) int {
 }
 
 func renderScoreboard(teams map[string][]Player) error {
-	tmpl, err := template.ParseFiles("templates/scoreboard.html")
-	if err != nil {
-		return err
-	}
+	tmpl := template.Must(template.New("scoreboard").Funcs(template.FuncMap{
+		"isTotal": func(name string) bool {
+			return name == "Total"
+		},
+	}).ParseFiles("templates/scoreboard.html"))
+	
 
 	out, err := os.Create("docs/index.html")
 	if err != nil {
