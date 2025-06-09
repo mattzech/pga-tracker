@@ -40,7 +40,13 @@
             color: #fff;
             text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
         }
-        .bold-row td {
+        .strikethrough {
+            text-decoration: line-through;
+        }
+        .gray {
+            color: gray;
+        }
+        .bold-row {
             font-weight: bold;
         }
     </style>
@@ -55,14 +61,16 @@
                 <th>Player</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>Total</th>
             </tr>
             {{ range $players }}
-            <tr {{if isTotal .FullName}}class="bold-row"{{end}}>
-                <td>{{.FullName}}</td>
-                <td>{{.R1}}</td>
-                <td>{{.R2}}</td>
-                <td>{{.R3}}</td>
-                <td>{{.R4}}</td>
-                <td>{{.Total}}</td>
-            </tr>
+            <tr 
+            {{if isTotal .FullName}}class="bold-row"{{end}} 
+            {{if .Excluded}}class="strikethrough gray"{{end}}>
+            <td>{{.FullName}}</td>
+            <td>{{.R1}}</td>
+            <td>{{.R2}}</td>
+            <td>{{.R3}}</td>
+            <td>{{.R4}}</td>
+            <td>{{.Total}}</td>
+          </tr>
             {{ end }}
         </table>
     {{ end }}

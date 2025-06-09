@@ -20,6 +20,10 @@ type PageData struct {
     LastUpdated string
 }
 
+type Team struct {
+    TeamName string   `json:"teamName"`
+    Players  []string `json:"players"`
+}
 
 type Player struct {
 	FullName string `json:"name"`
@@ -28,6 +32,7 @@ type Player struct {
 	R3       int    `json:"r3"`
 	R4       int    `json:"r4"`
 	Total    int    `json:"total"`
+	Excluded bool
 }
 
 type Round struct {
@@ -72,12 +77,12 @@ func main() {
 			log.Fatal(err)
 		}
 
-		team, err := getTeamScores("leaderboard.json", playerNames)
+		team, err := getTeamScores("leaderboard.json", playerNames.Players)
 		if err != nil {
 			log.Fatal(err)
 		}
 
-		teams[member] = team
+		teams[playerNames.TeamName] = team
 	}
 
 	err := renderScoreboard(teams)
@@ -98,25 +103,15 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 	if err := json.NewDecoder(file).Decode(&leaderboard); err != nil {
 		return nil, err
 	}
+
 	cutVal := 0
 	if len(leaderboard.CutLines) > 0 {
-		cutVal = parseCutScore(leaderboard.CutLines[0].CutScore) + 3 // decide a value to assign to cut players. here we are adding 3 to the cutline as their Round score
+		cutVal = parseCutScore(leaderboard.CutLines[0].CutScore) + 3
 	}
 
 	var team []Player
-	r1Total := 0
-	r2Total := 0
-	r3Total := 0
-	r4Total := 0
-	grandTotal := 0
 	for _, name := range teamNames {
-		split := strings.SplitN(name, " ", 2)
-		if len(split) != 2 {
-			log.Printf("Skipping invalid name: %s", name)
-			continue
-		}
-		firstName, lastName := split[0], split[1]
-
+		firstName, lastName := splitName(name)
 		var found *LeaderboardRow
 		for _, row := range leaderboard.LeaderboardRows {
 			if row.FirstName == firstName && row.LastName == lastName {
@@ -128,10 +123,8 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 			log.Printf("Player not found in leaderboard: %s", name)
 			continue
 		}
-		player := Player{
-			FullName: name,
-		}
 
+		player := Player{FullName: name}
 		isCut := strings.ToUpper(found.Position) == "CUT"
 
 		for i := 0; i < 4; i++ {
@@ -140,49 +133,69 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 				switch i {
 				case 0:
 					player.R1 = strokes
-					r1Total += strokes
 				case 1:
 					player.R2 = strokes
-					r2Total += strokes
 				case 2:
 					player.R3 = strokes
-					r3Total += strokes
 				case 3:
 					player.R4 = strokes
-					r4Total += strokes
 				}
 			} else if isCut && i >= 2 {
-				// Assign cut penalty strokes to R3 and R4
 				switch i {
 				case 2:
 					player.R3 = cutVal
-					r3Total += cutVal
 				case 3:
 					player.R4 = cutVal
-					r4Total += cutVal
 				}
 			}
 		}
-		currentPlayerTotal := player.R1 + player.R2 + player.R3 + player.R4
-		player.Total = currentPlayerTotal
-
+		player.Total = player.R1 + player.R2 + player.R3 + player.R4
 		team = append(team, player)
 	}
+
 	sort.Slice(team, func(i, j int) bool {
-		return playerTotal(team[i]) < playerTotal(team[j])
+		return team[i].Total < team[j].Total
 	})
-	grandTotal = r1Total + r2Total + r3Total + r4Total
+
+	for i := 4; i < len(team); i++ {
+		team[i].Excluded = true
+	}
+
+	r1Total, r2Total, r3Total, r4Total, grandTotal := 0, 0, 0, 0, 0
+	for _, p := range team[:4] {
+		r1Total += p.R1
+		r2Total += p.R2
+		r3Total += p.R3
+		r4Total += p.R4
+		grandTotal += p.Total
+	}
+
 	total := Player{
 		FullName: "Total",
-		R1:    r1Total,
-		R2:    r2Total,
-		R3:    r3Total,
-		R4:    r4Total,
-		Total: grandTotal,
+		R1:       r1Total,
+		R2:       r2Total,
+		R3:       r3Total,
+		R4:       r4Total,
+		Total:    grandTotal,
 	}
 	team = append(team, total)
 
 	return team, nil
+}
+
+
+
+func splitName(name string) (string, string) {
+	switch name {
+	case "Min Woo Lee":
+		return "Min Woo", "Lee"
+	}
+	split := strings.SplitN(name, " ", 2)
+	if len(split) != 2 {
+		log.Printf("Skipping invalid name: %s", name)
+	}
+	firstName, lastName := split[0], split[1]
+	return firstName, lastName
 }
 
 func playerTotal(p Player) int {
@@ -197,24 +210,24 @@ func parseCutScore(cut string) int {
 	return score
 }
 
-func loadTeam(filePath string) ([]string, error) {
+func loadTeam(filePath string) (Team, error) {
 	file, err := os.Open(filePath)
 	if err != nil {
-		return nil, err
+		return Team{}, err
 	}
 	defer file.Close()
 
-	var names []string
-	if err := json.NewDecoder(file).Decode(&names); err != nil {
-		return nil, err
+	var team Team
+	if err := json.NewDecoder(file).Decode(&team); err != nil {
+		return Team{}, err
 	}
-	return names, nil
+	return team, nil
 }
 
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=023&year=2025"
+	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=026&year=2024"
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
@@ -226,12 +239,12 @@ func fetchLeaderboard() error {
 
 	res, err := http.DefaultClient.Do(req)
 	if err != nil {
-		return fmt.Errorf("Failed to make request: %v", err)
+		return fmt.Errorf("failed to make request: %v", err)
 	}
 	defer res.Body.Close()
 
 	if res.StatusCode != http.StatusOK {
-		return fmt.Errorf("Unexpected status code: %d %s", res.StatusCode, res.Status)
+		return fmt.Errorf("unexpected status code: %d %s", res.StatusCode, res.Status)
 	}
 
 	body, err := io.ReadAll(res.Body)

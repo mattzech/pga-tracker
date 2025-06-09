@@ -34,5 +34,5 @@ jobs:
           git config user.name "mattzech"
           git config user.email "matthewjzech@gmail.com"
           git add docs/index.html
-          git commit -m "refresh leaderboard"
+          git commit -m "[automation] refresh leaderboard"
           git push
