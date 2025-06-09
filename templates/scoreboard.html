@@ -47,7 +47,8 @@
 </head>
 <body>
     <h1>Fantasy Golf Live Scoreboard</h1>
-    {{ range $teamName, $players := . }}
+    <div class="updated-time">Last updated: {{ .LastUpdated }}</div>
+    {{ range $teamName, $players := .Teams }}
         <div class="team-name">{{$teamName}}</div>
         <table>
             <tr>

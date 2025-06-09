@@ -12,7 +12,14 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"time"
 )
+
+type PageData struct {
+    Teams       map[string][]Player
+    LastUpdated string
+}
+
 
 type Player struct {
 	FullName string `json:"name"`
@@ -273,5 +280,11 @@ func renderScoreboard(teams map[string][]Player) error {
 	}
 	defer out.Close()
 
-	return tmpl.Execute(out, teams)
+	data := PageData{
+		Teams:       teams,
+		LastUpdated: time.Now().Format("Jan 2, 2006 3:04PM MST"),
+	}
+	
+
+	return tmpl.Execute(out, data)
 }

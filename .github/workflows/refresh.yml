@@ -1,0 +1,31 @@
+name: Refresh Leaderboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'  # every 15 minutes (adjust as needed)
+
+jobs:
+  update-leaderboard:
+    runs-on: ubuntu-latest
+    env:
+      RAPID_GOLF_API_KEY: ${{ secrets.RAPID_GOLF_API_KEY }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+
+      - name: Run leaderboard refresh
+        run: go run main.go --refresh=true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/index.html
+          git commit -m "refresh leaderboard"
+          git push
