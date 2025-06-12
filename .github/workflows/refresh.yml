@@ -3,12 +3,7 @@ name: Refresh Leaderboard
 on:
   workflow_dispatch:
     schedule:
-    - cron: '0 13 * * *'   # 8 AM CST (13 UTC)
-    - cron: '0 16 * * *'   # 11 AM CST (16 UTC)
-    - cron: '0 19 * * *'   # 2 PM CST (19 UTC)
-    - cron: '0 22 * * *'   # 5 PM CST (22 UTC)
-    - cron: '0 0 * * *'    # 7 PM CST (00 UTC next day)
-
+    - cron: '*/5 2-13 * * *'   # every 5 mins between 8am and 7pm
 jobs:
   update-leaderboard:
     runs-on: ubuntu-latest
