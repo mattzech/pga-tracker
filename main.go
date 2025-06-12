@@ -227,7 +227,7 @@ func loadTeam(filePath string) (Team, error) {
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=026&year=2025"
+	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=026&year=2025"
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
