@@ -27,12 +27,13 @@ jobs:
           go-version: '1.23'
 
       - name: Run leaderboard refresh
-        run: go run main.go --refresh=true
+        run: go run main.go --refresh
 
       - name: Commit and push changes
         run: |
           git config user.name "mattzech"
           git config user.email "matthewjzech@gmail.com"
           git add docs/index.html
+          git add leaderboard.json
           git commit -m "[automation] refresh leaderboard"
           git push
