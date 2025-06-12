@@ -5,7 +5,7 @@
   "cutLines": [],
   "lastUpdated": {
     "$date": {
-      "$numberLong": "1749759689000"
+      "$numberLong": "1749763382000"
     }
   },
   "leaderboardRows": [
@@ -22,7 +22,7 @@
       "isAmateur": false,
       "lastName": "Spaun",
       "playerId": "39324",
-      "position": "1",
+      "position": "T1",
       "roundComplete": true,
       "rounds": [
         {
@@ -54,6 +54,35 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "4"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "-4",
+      "firstName": "Sungjae",
+      "isAmateur": false,
+      "lastName": "Im",
+      "playerId": "39971",
+      "position": "T1",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749749100000"
+        }
+      },
+      "thru": "12*",
+      "total": "-4"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "18"
       },
       "currentRound": {
@@ -64,7 +93,7 @@
       "isAmateur": false,
       "lastName": "Lawrence",
       "playerId": "45523",
-      "position": "T2",
+      "position": "T3",
       "roundComplete": true,
       "rounds": [
         {
@@ -96,36 +125,36 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "17"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "-3",
-      "firstName": "Sungjae",
+      "firstName": "Matthieu",
       "isAmateur": false,
-      "lastName": "Im",
-      "playerId": "39971",
-      "position": "T2",
+      "lastName": "Pavon",
+      "playerId": "48153",
+      "position": "T3",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "1:25pm",
+      "teeTime": "1:47pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749749100000"
+          "$numberLong": "1749750420000"
         }
       },
-      "thru": "8*",
+      "thru": "11*",
       "total": "-3"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "7"
+        "$numberInt": "10"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -135,7 +164,7 @@
       "isAmateur": false,
       "lastName": "Neergaard-Petersen",
       "playerId": "52689",
-      "position": "T2",
+      "position": "T3",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -148,7 +177,7 @@
           "$numberLong": "1749752400000"
         }
       },
-      "thru": "6",
+      "thru": "9",
       "total": "-3"
     },
     {
@@ -164,7 +193,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T5",
+      "position": "T6",
       "roundComplete": true,
       "rounds": [
         {
@@ -196,59 +225,30 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "9"
+        "$numberInt": "14"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "-2",
-      "firstName": "Patrick",
+      "firstName": "Sam",
       "isAmateur": false,
-      "lastName": "Reed",
-      "playerId": "34360",
-      "position": "T5",
+      "lastName": "Burns",
+      "playerId": "47504",
+      "position": "T6",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:36pm",
+      "teeTime": "1:14pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749749760000"
+          "$numberLong": "1749748440000"
         }
       },
-      "thru": "8",
-      "total": "-2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "16"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "-2",
-      "firstName": "Matthieu",
-      "isAmateur": false,
-      "lastName": "Pavon",
-      "playerId": "48153",
-      "position": "T5",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:47pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749750420000"
-        }
-      },
-      "thru": "7*",
+      "thru": "13",
       "total": "-2"
     },
     {
@@ -338,16 +338,16 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "11"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "-1",
-      "firstName": "Brooks",
+      "firstName": "Patrick",
       "isAmateur": false,
-      "lastName": "Koepka",
-      "playerId": "36689",
+      "lastName": "Reed",
+      "playerId": "34360",
       "position": "T8",
       "roundComplete": false,
       "rounds": [],
@@ -355,164 +355,48 @@
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:03pm",
+      "teeTime": "1:36pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749747780000"
+          "$numberLong": "1749749760000"
         }
       },
-      "thru": "10",
+      "thru": "11",
       "total": "-1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "11"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "-1",
-      "firstName": "Sam",
+      "firstName": "Cameron",
       "isAmateur": false,
-      "lastName": "Burns",
-      "playerId": "47504",
+      "lastName": "Young",
+      "playerId": "57366",
       "position": "T8",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "1:14pm",
+      "teeTime": "1:36pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749748440000"
+          "$numberLong": "1749749760000"
         }
       },
-      "thru": "10",
+      "thru": "11*",
       "total": "-1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "9"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "-1",
-      "firstName": "Bud",
-      "isAmateur": false,
-      "lastName": "Cauley",
-      "playerId": "34021",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:47pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749750420000"
-        }
-      },
-      "thru": "8",
-      "total": "-1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "9"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "-1",
-      "firstName": "Daniel",
-      "isAmateur": false,
-      "lastName": "Berger",
-      "playerId": "40026",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:47pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749750420000"
-        }
-      },
-      "thru": "8",
-      "total": "-1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "7"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "-1",
-      "firstName": "Rasmus",
-      "isAmateur": false,
-      "lastName": "Højgaard",
-      "playerId": "52686",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:09pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749751740000"
-        }
-      },
-      "thru": "6",
-      "total": "-1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "7"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "-1",
-      "firstName": "Justin",
-      "isAmateur": true,
-      "lastName": "Hastings",
-      "playerId": "66248",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:20pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749752400000"
-        }
-      },
-      "thru": "6",
-      "total": "-1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "17"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -535,7 +419,7 @@
           "$numberLong": "1749753060000"
         }
       },
-      "thru": "5*",
+      "thru": "8*",
       "total": "-1"
     },
     {
@@ -551,7 +435,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": true,
       "rounds": [
         {
@@ -593,7 +477,7 @@
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": true,
       "rounds": [
         {
@@ -625,36 +509,36 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Ryan",
+      "firstName": "Brooks",
       "isAmateur": false,
-      "lastName": "Fox",
-      "playerId": "29936",
-      "position": "T17",
+      "lastName": "Koepka",
+      "playerId": "36689",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "12:41pm",
+      "teeTime": "1:03pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749746460000"
+          "$numberLong": "1749747780000"
         }
       },
-      "thru": "11",
+      "thru": "14",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "2"
+        "$numberInt": "5"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -664,7 +548,7 @@
       "isAmateur": false,
       "lastName": "Henley",
       "playerId": "34098",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -677,42 +561,13 @@
           "$numberLong": "1749747780000"
         }
       },
-      "thru": "10*",
+      "thru": "13*",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "2"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "E",
-      "firstName": "Christiaan",
-      "isAmateur": false,
-      "lastName": "Bezuidenhout",
-      "playerId": "45522",
-      "position": "T17",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:03pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749747780000"
-        }
-      },
-      "thru": "10*",
-      "total": "E"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "1"
+        "$numberInt": "4"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -722,7 +577,7 @@
       "isAmateur": false,
       "lastName": "Spieth",
       "playerId": "34046",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -735,23 +590,52 @@
           "$numberLong": "1749748440000"
         }
       },
-      "thru": "9*",
+      "thru": "12*",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "10"
+        "$numberInt": "4"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Collin",
+      "firstName": "Jon",
       "isAmateur": false,
-      "lastName": "Morikawa",
-      "playerId": "50525",
-      "position": "T17",
+      "lastName": "Rahm",
+      "playerId": "46970",
+      "position": "T13",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:14pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749748440000"
+        }
+      },
+      "thru": "12*",
+      "total": "E"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "13"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "E",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "lastName": "Hovland",
+      "playerId": "46717",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -764,139 +648,52 @@
           "$numberLong": "1749749100000"
         }
       },
-      "thru": "9",
+      "thru": "12",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "9"
+        "$numberInt": "13"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Corey",
+      "firstName": "Collin",
       "isAmateur": false,
-      "lastName": "Conners",
-      "playerId": "39997",
-      "position": "T17",
+      "lastName": "Morikawa",
+      "playerId": "50525",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:36pm",
+      "teeTime": "1:25pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749749760000"
+          "$numberLong": "1749749100000"
         }
       },
-      "thru": "8",
+      "thru": "12",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "17"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Cameron",
+      "firstName": "Bud",
       "isAmateur": false,
-      "lastName": "Young",
-      "playerId": "57366",
-      "position": "T17",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:36pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749760000"
-        }
-      },
-      "thru": "8*",
-      "total": "E"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "17"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "E",
-      "firstName": "Tom",
-      "isAmateur": false,
-      "lastName": "Hoge",
-      "playerId": "35532",
-      "position": "T17",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:36pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749760000"
-        }
-      },
-      "thru": "8*",
-      "total": "E"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "17"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "E",
-      "firstName": "J.T.",
-      "isAmateur": false,
-      "lastName": "Poston",
-      "playerId": "49771",
-      "position": "T17",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:36pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749760000"
-        }
-      },
-      "thru": "8*",
-      "total": "E"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "9"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "E",
-      "firstName": "Joaquin",
-      "isAmateur": false,
-      "lastName": "Niemann",
-      "playerId": "45486",
-      "position": "T17",
+      "lastName": "Cauley",
+      "playerId": "34021",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -909,27 +706,27 @@
           "$numberLong": "1749750420000"
         }
       },
-      "thru": "8",
+      "thru": "11",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Jhonattan",
+      "firstName": "Daniel",
       "isAmateur": false,
-      "lastName": "Vegas",
-      "playerId": "27064",
-      "position": "T17",
+      "lastName": "Berger",
+      "playerId": "40026",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "10"
+        "$numberInt": "1"
       },
       "status": "active",
       "teeTime": "1:47pm",
@@ -938,52 +735,23 @@
           "$numberLong": "1749750420000"
         }
       },
-      "thru": "7*",
+      "thru": "11",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "E",
-      "firstName": "Aaron",
-      "isAmateur": false,
-      "lastName": "Rai",
-      "playerId": "46414",
-      "position": "T17",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
         "$numberInt": "10"
       },
-      "status": "active",
-      "teeTime": "1:58pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749751080000"
-        }
-      },
-      "thru": "7*",
-      "total": "E"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "7"
-      },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "E",
-      "firstName": "Laurie",
-      "isAmateur": false,
-      "lastName": "Canter",
-      "playerId": "34362",
-      "position": "T17",
+      "firstName": "Justin",
+      "isAmateur": true,
+      "lastName": "Hastings",
+      "playerId": "66248",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -996,13 +764,13 @@
           "$numberLong": "1749752400000"
         }
       },
-      "thru": "6",
+      "thru": "9",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1012,7 +780,7 @@
       "isAmateur": false,
       "lastName": "Cone",
       "playerId": "49453",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1025,13 +793,13 @@
           "$numberLong": "1749752400000"
         }
       },
-      "thru": "5*",
+      "thru": "9*",
       "total": "E"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1041,7 +809,7 @@
       "isAmateur": true,
       "lastName": "Pollo",
       "playerId": "68610",
-      "position": "T17",
+      "position": "T13",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1054,7 +822,7 @@
           "$numberLong": "1749752400000"
         }
       },
-      "thru": "5*",
+      "thru": "9*",
       "total": "E"
     },
     {
@@ -1070,7 +838,7 @@
       "isAmateur": false,
       "lastName": "Velo",
       "playerId": "58619",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": true,
       "rounds": [
         {
@@ -1112,7 +880,7 @@
       "isAmateur": false,
       "lastName": "Harman",
       "playerId": "27644",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": true,
       "rounds": [
         {
@@ -1154,7 +922,7 @@
       "isAmateur": false,
       "lastName": "Griffin",
       "playerId": "35310",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": true,
       "rounds": [
         {
@@ -1196,7 +964,7 @@
       "isAmateur": false,
       "lastName": "Stevens",
       "playerId": "55893",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": true,
       "rounds": [
         {
@@ -1228,7 +996,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "13"
+        "$numberInt": "17"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1238,7 +1006,7 @@
       "isAmateur": false,
       "lastName": "Grillo",
       "playerId": "31646",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1249,6 +1017,151 @@
       "teeTimeTimestamp": {
         "$date": {
           "$numberLong": "1749745800000"
+        }
+      },
+      "thru": "16",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "15"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Victor",
+      "isAmateur": false,
+      "lastName": "Perez",
+      "playerId": "47679",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "12:52pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747120000"
+        }
+      },
+      "thru": "14",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "7"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "Wallace",
+      "playerId": "48887",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "12:52pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747120000"
+        }
+      },
+      "thru": "15*",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "5"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Christiaan",
+      "isAmateur": false,
+      "lastName": "Bezuidenhout",
+      "playerId": "45522",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:03pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747780000"
+        }
+      },
+      "thru": "13*",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "14"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Denny",
+      "isAmateur": false,
+      "lastName": "McCarthy",
+      "playerId": "47993",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:14pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749748440000"
+        }
+      },
+      "thru": "13",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "13"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Scottie",
+      "isAmateur": false,
+      "lastName": "Scheffler",
+      "playerId": "46046",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749749100000"
         }
       },
       "thru": "12",
@@ -1263,82 +1176,24 @@
         "$numberInt": "1"
       },
       "currentRoundScore": "+1",
-      "firstName": "Guido",
+      "firstName": "Tyrrell",
       "isAmateur": false,
-      "lastName": "Migliozzi",
-      "playerId": "39834",
-      "position": "T34",
+      "lastName": "Hatton",
+      "playerId": "34363",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "12:41pm",
+      "teeTime": "1:25pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749746460000"
+          "$numberLong": "1749749100000"
         }
       },
       "thru": "12*",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "12"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Victor",
-      "isAmateur": false,
-      "lastName": "Perez",
-      "playerId": "47679",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "12:52pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749747120000"
-        }
-      },
-      "thru": "11",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "12"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Jacob",
-      "isAmateur": false,
-      "lastName": "Bridgeman",
-      "playerId": "60004",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "12:52pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749747120000"
-        }
-      },
-      "thru": "11",
       "total": "+1"
     },
     {
@@ -1350,21 +1205,21 @@
         "$numberInt": "1"
       },
       "currentRoundScore": "+1",
-      "firstName": "Matt",
+      "firstName": "J.T.",
       "isAmateur": false,
-      "lastName": "Wallace",
-      "playerId": "48887",
-      "position": "T34",
+      "lastName": "Poston",
+      "playerId": "49771",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "12:52pm",
+      "teeTime": "1:36pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749747120000"
+          "$numberLong": "1749749760000"
         }
       },
       "thru": "11*",
@@ -1373,123 +1228,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "11"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Denny",
-      "isAmateur": false,
-      "lastName": "McCarthy",
-      "playerId": "47993",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:14pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749748440000"
-        }
-      },
-      "thru": "10",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "1"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Jon",
-      "isAmateur": false,
-      "lastName": "Rahm",
-      "playerId": "46970",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:14pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749748440000"
-        }
-      },
-      "thru": "9*",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "8"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Mackenzie",
-      "isAmateur": false,
-      "lastName": "Hughes",
-      "playerId": "35506",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:58pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749751080000"
-        }
-      },
-      "thru": "7",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "8"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Tony",
-      "isAmateur": false,
-      "lastName": "Finau",
-      "playerId": "29725",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:58pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749751080000"
-        }
-      },
-      "thru": "7",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "16"
+        "$numberInt": "2"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1499,7 +1238,7 @@
       "isAmateur": false,
       "lastName": "Leishman",
       "playerId": "26851",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1512,23 +1251,52 @@
           "$numberLong": "1749751080000"
         }
       },
-      "thru": "7*",
+      "thru": "10*",
       "total": "+1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "8"
+        "$numberInt": "2"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+1",
-      "firstName": "Benjamin",
-      "isAmateur": true,
-      "lastName": "James",
-      "playerId": "57869",
-      "position": "T34",
+      "firstName": "Aaron",
+      "isAmateur": false,
+      "lastName": "Rai",
+      "playerId": "46414",
+      "position": "T26",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:58pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749751080000"
+        }
+      },
+      "thru": "10*",
+      "total": "+1"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "10"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+1",
+      "firstName": "Rasmus",
+      "isAmateur": false,
+      "lastName": "Højgaard",
+      "playerId": "52686",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1541,13 +1309,13 @@
           "$numberLong": "1749751740000"
         }
       },
-      "thru": "7",
+      "thru": "9",
       "total": "+1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "15"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1557,7 +1325,7 @@
       "isAmateur": false,
       "lastName": "Jordan",
       "playerId": "55955",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1570,23 +1338,23 @@
           "$numberLong": "1749751740000"
         }
       },
-      "thru": "6*",
+      "thru": "9*",
       "total": "+1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "15"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+1",
-      "firstName": "Yuta",
+      "firstName": "Carlos",
       "isAmateur": false,
-      "lastName": "Sugiura",
-      "playerId": "54218",
-      "position": "T34",
+      "lastName": "Ortiz",
+      "playerId": "33667",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1599,13 +1367,13 @@
           "$numberLong": "1749751740000"
         }
       },
-      "thru": "6*",
+      "thru": "9*",
       "total": "+1"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1615,7 +1383,7 @@
       "isAmateur": false,
       "lastName": "McCormick",
       "playerId": "46113",
-      "position": "T34",
+      "position": "T26",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -1628,65 +1396,7 @@
           "$numberLong": "1749752400000"
         }
       },
-      "thru": "5*",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "14"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Tyler",
-      "isAmateur": true,
-      "lastName": "Weaver",
-      "playerId": "68612",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "2:31pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753060000"
-        }
-      },
-      "thru": "5*",
-      "total": "+1"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "13"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Harrison",
-      "isAmateur": false,
-      "lastName": "Ott",
-      "playerId": "60567",
-      "position": "T34",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "2:42pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753720000"
-        }
-      },
-      "thru": "4*",
+      "thru": "9*",
       "total": "+1"
     },
     {
@@ -1702,7 +1412,7 @@
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "46464",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1744,7 +1454,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "55182",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1786,7 +1496,7 @@
       "isAmateur": false,
       "lastName": "Pendrith",
       "playerId": "40250",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1828,7 +1538,7 @@
       "isAmateur": false,
       "lastName": "Åberg",
       "playerId": "52955",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1870,7 +1580,7 @@
       "isAmateur": false,
       "lastName": "Schauffele",
       "playerId": "48081",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1912,7 +1622,7 @@
       "isAmateur": false,
       "lastName": "Gerard",
       "playerId": "59018",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1954,7 +1664,7 @@
       "isAmateur": true,
       "lastName": "Koivun",
       "playerId": "66701",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": true,
       "rounds": [
         {
@@ -1986,7 +1696,36 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "16"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+2",
+      "firstName": "Ryan",
+      "isAmateur": false,
+      "lastName": "Fox",
+      "playerId": "29936",
+      "position": "T44",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "12:41pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749746460000"
+        }
+      },
+      "thru": "15",
+      "total": "+2"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -1996,7 +1735,7 @@
       "isAmateur": false,
       "lastName": "Schenk",
       "playerId": "47347",
-      "position": "T54",
+      "position": "T44",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2009,168 +1748,23 @@
           "$numberLong": "1749747120000"
         }
       },
-      "thru": "11",
+      "thru": "14",
       "total": "+2"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "3"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+2",
-      "firstName": "Erik",
+      "firstName": "Corey",
       "isAmateur": false,
-      "lastName": "van Rooyen",
-      "playerId": "40006",
-      "position": "T54",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "12:52pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749747120000"
-        }
-      },
-      "thru": "11*",
-      "total": "+2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "2"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Nick",
-      "isAmateur": false,
-      "lastName": "Taylor",
-      "playerId": "25493",
-      "position": "T54",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:03pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749747780000"
-        }
-      },
-      "thru": "10*",
-      "total": "+2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "10"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Viktor",
-      "isAmateur": false,
-      "lastName": "Hovland",
-      "playerId": "46717",
-      "position": "T54",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749100000"
-        }
-      },
-      "thru": "9",
-      "total": "+2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "10"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Scottie",
-      "isAmateur": false,
-      "lastName": "Scheffler",
-      "playerId": "46046",
-      "position": "T54",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749100000"
-        }
-      },
-      "thru": "9",
-      "total": "+2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "1"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Tyrrell",
-      "isAmateur": false,
-      "lastName": "Hatton",
-      "playerId": "34363",
-      "position": "T54",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749100000"
-        }
-      },
-      "thru": "9*",
-      "total": "+2"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "9"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Jason",
-      "isAmateur": false,
-      "lastName": "Day",
-      "playerId": "28089",
-      "position": "T54",
+      "lastName": "Conners",
+      "playerId": "39997",
+      "position": "T44",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2183,52 +1777,52 @@
           "$numberLong": "1749749760000"
         }
       },
-      "thru": "8",
+      "thru": "11",
       "total": "+2"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "7"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+2",
-      "firstName": "Stephan",
+      "firstName": "Joaquin",
       "isAmateur": false,
-      "lastName": "Jaeger",
-      "playerId": "36799",
-      "position": "T54",
+      "lastName": "Niemann",
+      "playerId": "45486",
+      "position": "T44",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "2:09pm",
+      "teeTime": "1:47pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749751740000"
+          "$numberLong": "1749750420000"
         }
       },
-      "thru": "6",
+      "thru": "11",
       "total": "+2"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "15"
+        "$numberInt": "1"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+2",
-      "firstName": "Carlos",
+      "firstName": "Yuta",
       "isAmateur": false,
-      "lastName": "Ortiz",
-      "playerId": "33667",
-      "position": "T54",
+      "lastName": "Sugiura",
+      "playerId": "54218",
+      "position": "T44",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2241,23 +1835,23 @@
           "$numberLong": "1749751740000"
         }
       },
-      "thru": "6*",
+      "thru": "9*",
       "total": "+2"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "17"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+2",
-      "firstName": "Riki",
-      "isAmateur": false,
-      "lastName": "Kawamoto",
-      "playerId": "51366",
-      "position": "T54",
+      "firstName": "Tyler",
+      "isAmateur": true,
+      "lastName": "Weaver",
+      "playerId": "68612",
+      "position": "T44",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2270,7 +1864,36 @@
           "$numberLong": "1749753060000"
         }
       },
-      "thru": "5*",
+      "thru": "8*",
+      "total": "+2"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "16"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+2",
+      "firstName": "Harrison",
+      "isAmateur": false,
+      "lastName": "Ott",
+      "playerId": "60567",
+      "position": "T44",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "2:42pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749753720000"
+        }
+      },
+      "thru": "7*",
       "total": "+2"
     },
     {
@@ -2286,7 +1909,7 @@
       "isAmateur": false,
       "lastName": "Kruyswijk",
       "playerId": "37446",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": true,
       "rounds": [
         {
@@ -2328,7 +1951,7 @@
       "isAmateur": false,
       "lastName": "English",
       "playerId": "34099",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": true,
       "rounds": [
         {
@@ -2370,7 +1993,7 @@
       "isAmateur": false,
       "lastName": "Bradley",
       "playerId": "33141",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": true,
       "rounds": [
         {
@@ -2412,7 +2035,7 @@
       "isAmateur": false,
       "lastName": "DeChambeau",
       "playerId": "47959",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": true,
       "rounds": [
         {
@@ -2454,7 +2077,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": true,
       "rounds": [
         {
@@ -2486,75 +2109,46 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "13"
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+3",
-      "firstName": "Frederic",
+      "firstName": "Jacob",
       "isAmateur": false,
-      "lastName": "LaCroix",
-      "playerId": "52585",
-      "position": "T71",
+      "lastName": "Bridgeman",
+      "playerId": "60004",
+      "position": "T58",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "12:30pm",
+      "teeTime": "12:52pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749745800000"
+          "$numberLong": "1749747120000"
         }
       },
-      "thru": "12",
+      "thru": "14",
       "total": "+3"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
+        "$numberInt": "7"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+3",
-      "firstName": "Takumi",
+      "firstName": "Erik",
       "isAmateur": false,
-      "lastName": "Kanaya",
-      "playerId": "47917",
-      "position": "T71",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "12:30pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749745800000"
-        }
-      },
-      "thru": "13*",
-      "total": "+3"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "3"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "Greyserman",
-      "playerId": "51977",
-      "position": "T71",
+      "lastName": "van Rooyen",
+      "playerId": "40006",
+      "position": "T58",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2567,23 +2161,110 @@
           "$numberLong": "1749747120000"
         }
       },
+      "thru": "15*",
+      "total": "+3"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "5"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+3",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Taylor",
+      "playerId": "25493",
+      "position": "T58",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:03pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747780000"
+        }
+      },
+      "thru": "13*",
+      "total": "+3"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "14"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+3",
+      "firstName": "Nico",
+      "isAmateur": false,
+      "lastName": "Echavarria",
+      "playerId": "51349",
+      "position": "T58",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:14pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749748440000"
+        }
+      },
+      "thru": "13",
+      "total": "+3"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "3"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+3",
+      "firstName": "Tom",
+      "isAmateur": false,
+      "lastName": "Hoge",
+      "playerId": "35532",
+      "position": "T58",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:36pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749749760000"
+        }
+      },
       "thru": "11*",
       "total": "+3"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+3",
-      "firstName": "Michael",
+      "firstName": "Jhonattan",
       "isAmateur": false,
-      "lastName": "Kim",
-      "playerId": "39975",
-      "position": "T71",
+      "lastName": "Vegas",
+      "playerId": "27064",
+      "position": "T58",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2596,13 +2277,13 @@
           "$numberLong": "1749750420000"
         }
       },
-      "thru": "7*",
+      "thru": "11*",
       "total": "+3"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "6"
+        "$numberInt": "9"
       },
       "currentRound": {
         "$numberInt": "1"
@@ -2612,7 +2293,7 @@
       "isAmateur": false,
       "lastName": "Gonzalez R.",
       "playerId": "59567",
-      "position": "T71",
+      "position": "T58",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -2625,65 +2306,7 @@
           "$numberLong": "1749753060000"
         }
       },
-      "thru": "5",
-      "total": "+3"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "6"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Grant",
-      "isAmateur": false,
-      "lastName": "Haefner",
-      "playerId": "59601",
-      "position": "T71",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:42pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753720000"
-        }
-      },
-      "thru": "5",
-      "total": "+3"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "13"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Austen",
-      "isAmateur": false,
-      "lastName": "Truslow",
-      "playerId": "45733",
-      "position": "T71",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "2:42pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753720000"
-        }
-      },
-      "thru": "4*",
+      "thru": "8",
       "total": "+3"
     },
     {
@@ -2699,7 +2322,7 @@
       "isAmateur": false,
       "lastName": "Blair",
       "playerId": "40058",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2741,7 +2364,7 @@
       "isAmateur": false,
       "lastName": "Fleetwood",
       "playerId": "30911",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2783,7 +2406,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2825,7 +2448,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "40098",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2867,7 +2490,7 @@
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2909,7 +2532,7 @@
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2951,7 +2574,7 @@
       "isAmateur": false,
       "lastName": "Glover",
       "playerId": "25900",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2993,7 +2616,7 @@
       "isAmateur": false,
       "lastName": "Davis",
       "playerId": "45157",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -3035,7 +2658,7 @@
       "isAmateur": false,
       "lastName": "Mickelson",
       "playerId": "01810",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -3077,7 +2700,7 @@
       "isAmateur": false,
       "lastName": "Molinari",
       "playerId": "23814",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -3119,7 +2742,7 @@
       "isAmateur": false,
       "lastName": "Buchanan",
       "playerId": "66742",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -3161,7 +2784,7 @@
       "isAmateur": true,
       "lastName": "Simpson",
       "playerId": "68614",
-      "position": "T83",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -3193,21 +2816,21 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "8"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+4",
-      "firstName": "Byeong Hun",
+      "firstName": "Guido",
       "isAmateur": false,
-      "lastName": "An",
-      "playerId": "33948",
-      "position": "T83",
+      "lastName": "Migliozzi",
+      "playerId": "39834",
+      "position": "T70",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "10"
       },
       "status": "active",
       "teeTime": "12:41pm",
@@ -3216,33 +2839,120 @@
           "$numberLong": "1749746460000"
         }
       },
+      "thru": "16*",
+      "total": "+4"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "7"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "Greyserman",
+      "playerId": "51977",
+      "position": "T70",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "12:52pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747120000"
+        }
+      },
+      "thru": "15*",
+      "total": "+4"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "12"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Jason",
+      "isAmateur": false,
+      "lastName": "Day",
+      "playerId": "28089",
+      "position": "T70",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:36pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749749760000"
+        }
+      },
       "thru": "11",
       "total": "+4"
     },
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "3"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Michael",
+      "isAmateur": false,
+      "lastName": "Kim",
+      "playerId": "39975",
+      "position": "T70",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:47pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749750420000"
+        }
+      },
+      "thru": "11*",
+      "total": "+4"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "11"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+4",
-      "firstName": "Min Woo",
+      "firstName": "Mackenzie",
       "isAmateur": false,
-      "lastName": "Lee",
-      "playerId": "37378",
-      "position": "T83",
+      "lastName": "Hughes",
+      "playerId": "35506",
+      "position": "T70",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:03pm",
+      "teeTime": "1:58pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749747780000"
+          "$numberLong": "1749751080000"
         }
       },
       "thru": "10",
@@ -3251,27 +2961,56 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "11"
+        "$numberInt": "10"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+4",
-      "firstName": "Nico",
-      "isAmateur": false,
-      "lastName": "Echavarria",
-      "playerId": "51349",
-      "position": "T83",
+      "firstName": "Benjamin",
+      "isAmateur": true,
+      "lastName": "James",
+      "playerId": "57869",
+      "position": "T70",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:14pm",
+      "teeTime": "2:09pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749748440000"
+          "$numberLong": "1749751740000"
+        }
+      },
+      "thru": "9",
+      "total": "+4"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "11"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Stephan",
+      "isAmateur": false,
+      "lastName": "Jaeger",
+      "playerId": "36799",
+      "position": "T70",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "2:09pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749751740000"
         }
       },
       "thru": "10",
@@ -3280,59 +3019,30 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "1"
+        "$numberInt": "10"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+4",
-      "firstName": "Sepp",
+      "firstName": "Laurie",
       "isAmateur": false,
-      "lastName": "Straka",
-      "playerId": "49960",
-      "position": "T83",
+      "lastName": "Canter",
+      "playerId": "34362",
+      "position": "T70",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749749100000"
-        }
-      },
-      "thru": "9*",
-      "total": "+4"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "13"
-      },
-      "currentRound": {
         "$numberInt": "1"
       },
-      "currentRoundScore": "+4",
-      "firstName": "George",
-      "isAmateur": false,
-      "lastName": "Duangmanee",
-      "playerId": "58186",
-      "position": "T83",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
       "status": "active",
-      "teeTime": "2:42pm",
+      "teeTime": "2:20pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749753720000"
+          "$numberLong": "1749752400000"
         }
       },
-      "thru": "4*",
+      "thru": "9",
       "total": "+4"
     },
     {
@@ -3348,7 +3058,7 @@
       "isAmateur": false,
       "lastName": "Phillips",
       "playerId": "57625",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3390,7 +3100,7 @@
       "isAmateur": false,
       "lastName": "Vincent",
       "playerId": "34126",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3432,7 +3142,7 @@
       "isAmateur": false,
       "lastName": "Blanchet",
       "playerId": "54788",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3474,7 +3184,7 @@
       "isAmateur": false,
       "lastName": "Ortiz",
       "playerId": "39262",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3516,7 +3226,7 @@
       "isAmateur": false,
       "lastName": "Thompson",
       "playerId": "58168",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3558,7 +3268,7 @@
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "35891",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3600,7 +3310,7 @@
       "isAmateur": true,
       "lastName": "La Sasso",
       "playerId": "68384",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3642,7 +3352,7 @@
       "isAmateur": false,
       "lastName": "Kozuma",
       "playerId": "33689",
-      "position": "T100",
+      "position": "T90",
       "roundComplete": true,
       "rounds": [
         {
@@ -3674,17 +3384,17 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
+        "$numberInt": "8"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+5",
-      "firstName": "Will",
+      "firstName": "Takumi",
       "isAmateur": false,
-      "lastName": "Chandler",
-      "playerId": "58933",
-      "position": "T100",
+      "lastName": "Kanaya",
+      "playerId": "47917",
+      "position": "T90",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -3697,81 +3407,52 @@
           "$numberLong": "1749745800000"
         }
       },
-      "thru": "13*",
+      "thru": "16*",
       "total": "+5"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "4"
+        "$numberInt": "16"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+5",
-      "firstName": "Bryan",
-      "isAmateur": true,
+      "firstName": "Byeong Hun",
+      "isAmateur": false,
+      "lastName": "An",
+      "playerId": "33948",
+      "position": "T90",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "12:41pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749746460000"
+        }
+      },
+      "thru": "15",
+      "total": "+5"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "15"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+5",
+      "firstName": "Min Woo",
+      "isAmateur": false,
       "lastName": "Lee",
-      "playerId": "68608",
-      "position": "T100",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "12:41pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749746460000"
-        }
-      },
-      "thru": "12*",
-      "total": "+5"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "4"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+5",
-      "firstName": "Preston",
-      "isAmateur": false,
-      "lastName": "Summerhays",
-      "playerId": "57298",
-      "position": "T100",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "12:41pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749746460000"
-        }
-      },
-      "thru": "12*",
-      "total": "+5"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "11"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+5",
-      "firstName": "Justin",
-      "isAmateur": false,
-      "lastName": "Thomas",
-      "playerId": "33448",
-      "position": "T100",
+      "playerId": "37378",
+      "position": "T90",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
@@ -3784,36 +3465,94 @@
           "$numberLong": "1749747780000"
         }
       },
-      "thru": "10",
+      "thru": "14",
       "total": "+5"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "1"
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+5",
-      "firstName": "Dustin",
+      "firstName": "Justin",
       "isAmateur": false,
-      "lastName": "Johnson",
-      "playerId": "30925",
-      "position": "T100",
+      "lastName": "Thomas",
+      "playerId": "33448",
+      "position": "T90",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:03pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749747780000"
+        }
+      },
+      "thru": "14",
+      "total": "+5"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "4"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+5",
+      "firstName": "Sepp",
+      "isAmateur": false,
+      "lastName": "Straka",
+      "playerId": "49960",
+      "position": "T90",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "1:14pm",
+      "teeTime": "1:25pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749748440000"
+          "$numberLong": "1749749100000"
         }
       },
-      "thru": "9*",
+      "thru": "12*",
+      "total": "+5"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "17"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+5",
+      "firstName": "Riki",
+      "isAmateur": false,
+      "lastName": "Kawamoto",
+      "playerId": "51366",
+      "position": "T90",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "2:31pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749753060000"
+        }
+      },
+      "thru": "8*",
       "total": "+5"
     },
     {
@@ -3825,21 +3564,21 @@
         "$numberInt": "1"
       },
       "currentRoundScore": "+5",
-      "firstName": "Chris",
+      "firstName": "Joey",
       "isAmateur": false,
-      "lastName": "Kirk",
-      "playerId": "30926",
-      "position": "T100",
+      "lastName": "Herrera",
+      "playerId": "59657",
+      "position": "T90",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "1:58pm",
+      "teeTime": "2:42pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749751080000"
+          "$numberLong": "1749753720000"
         }
       },
       "thru": "7",
@@ -3848,50 +3587,21 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "6"
+        "$numberInt": "16"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+5",
-      "firstName": "Frankie",
-      "isAmateur": true,
-      "lastName": "Harris",
-      "playerId": "68606",
-      "position": "T100",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:31pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753060000"
-        }
-      },
-      "thru": "5",
-      "total": "+5"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "6"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+5",
-      "firstName": "Joey",
+      "firstName": "Austen",
       "isAmateur": false,
-      "lastName": "Herrera",
-      "playerId": "59657",
-      "position": "T100",
+      "lastName": "Truslow",
+      "playerId": "45733",
+      "position": "T90",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "10"
       },
       "status": "active",
       "teeTime": "2:42pm",
@@ -3900,36 +3610,7 @@
           "$numberLong": "1749753720000"
         }
       },
-      "thru": "5",
-      "total": "+5"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "6"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+5",
-      "firstName": "George",
-      "isAmateur": false,
-      "lastName": "Kneiser",
-      "playerId": "59283",
-      "position": "T100",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:42pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753720000"
-        }
-      },
-      "thru": "5",
+      "thru": "7*",
       "total": "+5"
     },
     {
@@ -3945,7 +3626,7 @@
       "isAmateur": false,
       "lastName": "Cole",
       "playerId": "47591",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -3987,7 +3668,7 @@
       "isAmateur": false,
       "lastName": "Moldovan",
       "playerId": "57860",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4029,7 +3710,7 @@
       "isAmateur": false,
       "lastName": "Ballester",
       "playerId": "60165",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4071,7 +3752,7 @@
       "isAmateur": false,
       "lastName": "Novak",
       "playerId": "51997",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4113,7 +3794,7 @@
       "isAmateur": false,
       "lastName": "McNealy",
       "playerId": "46442",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4155,7 +3836,7 @@
       "isAmateur": false,
       "lastName": "Bhatia",
       "playerId": "56630",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4197,7 +3878,7 @@
       "isAmateur": false,
       "lastName": "Cantlay",
       "playerId": "35450",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4239,7 +3920,7 @@
       "isAmateur": false,
       "lastName": "Bland",
       "playerId": "45836",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4281,7 +3962,7 @@
       "isAmateur": false,
       "lastName": "Norgaard",
       "playerId": "35706",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4323,7 +4004,7 @@
       "isAmateur": false,
       "lastName": "Keefer",
       "playerId": "63454",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4365,7 +4046,7 @@
       "isAmateur": false,
       "lastName": "Olesen",
       "playerId": "33968",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4407,7 +4088,7 @@
       "isAmateur": false,
       "lastName": "Hubbard",
       "playerId": "36801",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4449,7 +4130,7 @@
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4491,7 +4172,7 @@
       "isAmateur": false,
       "lastName": "Barbaree, Jr.",
       "playerId": "50157",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4533,7 +4214,7 @@
       "isAmateur": false,
       "lastName": "Lewis",
       "playerId": "65469",
-      "position": "T117",
+      "position": "T106",
       "roundComplete": true,
       "rounds": [
         {
@@ -4565,6 +4246,180 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "17"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "Frederic",
+      "isAmateur": false,
+      "lastName": "LaCroix",
+      "playerId": "52585",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749745800000"
+        }
+      },
+      "thru": "16",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "Will",
+      "isAmateur": false,
+      "lastName": "Chandler",
+      "playerId": "58933",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749745800000"
+        }
+      },
+      "thru": "16*",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "11"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "Tony",
+      "isAmateur": false,
+      "lastName": "Finau",
+      "playerId": "29725",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:58pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749751080000"
+        }
+      },
+      "thru": "10",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "11"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "Chris",
+      "isAmateur": false,
+      "lastName": "Kirk",
+      "playerId": "30926",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "1:58pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749751080000"
+        }
+      },
+      "thru": "10",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "9"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "Frankie",
+      "isAmateur": true,
+      "lastName": "Harris",
+      "playerId": "68606",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "2:31pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749753060000"
+        }
+      },
+      "thru": "8",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+6",
+      "firstName": "George",
+      "isAmateur": false,
+      "lastName": "Kneiser",
+      "playerId": "59283",
+      "position": "T106",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "2:42pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749753720000"
+        }
+      },
+      "thru": "7",
+      "total": "+6"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "9"
       },
       "currentRound": {
@@ -4575,7 +4430,7 @@
       "isAmateur": false,
       "lastName": "Rose",
       "playerId": "22405",
-      "position": "T132",
+      "position": "T127",
       "roundComplete": true,
       "rounds": [
         {
@@ -4617,7 +4472,7 @@
       "isAmateur": true,
       "lastName": "Howell",
       "playerId": "68607",
-      "position": "T132",
+      "position": "T127",
       "roundComplete": true,
       "rounds": [
         {
@@ -4649,21 +4504,21 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "8"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+7",
-      "firstName": "Joe",
-      "isAmateur": false,
-      "lastName": "Highsmith",
-      "playerId": "60067",
-      "position": "T132",
+      "firstName": "Bryan",
+      "isAmateur": true,
+      "lastName": "Lee",
+      "playerId": "68608",
+      "position": "T127",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "10"
       },
       "status": "active",
       "teeTime": "12:41pm",
@@ -4672,7 +4527,94 @@
           "$numberLong": "1749746460000"
         }
       },
-      "thru": "11",
+      "thru": "16*",
+      "total": "+7"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+7",
+      "firstName": "Preston",
+      "isAmateur": false,
+      "lastName": "Summerhays",
+      "playerId": "57298",
+      "position": "T127",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "12:41pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749746460000"
+        }
+      },
+      "thru": "16*",
+      "total": "+7"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "4"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+7",
+      "firstName": "Dustin",
+      "isAmateur": false,
+      "lastName": "Johnson",
+      "playerId": "30925",
+      "position": "T127",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:14pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749748440000"
+        }
+      },
+      "thru": "12*",
+      "total": "+7"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+7",
+      "firstName": "Grant",
+      "isAmateur": false,
+      "lastName": "Haefner",
+      "playerId": "59601",
+      "position": "T127",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "2:42pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749753720000"
+        }
+      },
+      "thru": "7",
       "total": "+7"
     },
     {
@@ -4684,53 +4626,24 @@
         "$numberInt": "1"
       },
       "currentRoundScore": "+7",
-      "firstName": "Nick",
+      "firstName": "George",
       "isAmateur": false,
-      "lastName": "Dunlap",
-      "playerId": "59866",
-      "position": "T132",
+      "lastName": "Duangmanee",
+      "playerId": "58186",
+      "position": "T127",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "10"
       },
       "status": "active",
-      "teeTime": "1:58pm",
+      "teeTime": "2:42pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749751080000"
+          "$numberLong": "1749753720000"
         }
       },
       "thru": "7*",
-      "total": "+7"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "6"
-      },
-      "currentRound": {
-        "$numberInt": "1"
-      },
-      "currentRoundScore": "+7",
-      "firstName": "Roberto",
-      "isAmateur": false,
-      "lastName": "Díaz",
-      "playerId": "35376",
-      "position": "T132",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "2:31pm",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749753060000"
-        }
-      },
-      "thru": "5",
       "total": "+7"
     },
     {
@@ -4746,7 +4659,7 @@
       "isAmateur": false,
       "lastName": "Riley",
       "playerId": "47995",
-      "position": "T137",
+      "position": "T134",
       "roundComplete": true,
       "rounds": [
         {
@@ -4788,7 +4701,7 @@
       "isAmateur": false,
       "lastName": "Hahn",
       "playerId": "32448",
-      "position": "T137",
+      "position": "T134",
       "roundComplete": true,
       "rounds": [
         {
@@ -4830,7 +4743,7 @@
       "isAmateur": false,
       "lastName": "Bauchou",
       "playerId": "48001",
-      "position": "T137",
+      "position": "T134",
       "roundComplete": true,
       "rounds": [
         {
@@ -4862,6 +4775,35 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "2"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+8",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Dunlap",
+      "playerId": "59866",
+      "position": "T134",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "1:58pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749751080000"
+        }
+      },
+      "thru": "10*",
+      "total": "+8"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "18"
       },
       "currentRound": {
@@ -4872,7 +4814,7 @@
       "isAmateur": false,
       "lastName": "Ghim",
       "playerId": "52375",
-      "position": "T140",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -4914,7 +4856,7 @@
       "isAmateur": true,
       "lastName": "Beck",
       "playerId": "45618",
-      "position": "T140",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -4956,7 +4898,7 @@
       "isAmateur": false,
       "lastName": "Lowry",
       "playerId": "33204",
-      "position": "T140",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -4998,7 +4940,7 @@
       "isAmateur": false,
       "lastName": "Campbell",
       "playerId": "46443",
-      "position": "T140",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -5040,7 +4982,7 @@
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "54869",
-      "position": "T140",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -5072,59 +5014,59 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "13"
+        "$numberInt": "16"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+9",
-      "firstName": "Sam",
+      "firstName": "Joe",
       "isAmateur": false,
-      "lastName": "Bairstow",
-      "playerId": "60369",
-      "position": "T140",
+      "lastName": "Highsmith",
+      "playerId": "60067",
+      "position": "T138",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
         "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "12:30pm",
+      "teeTime": "12:41pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749745800000"
+          "$numberLong": "1749746460000"
         }
       },
-      "thru": "12",
+      "thru": "15",
       "total": "+9"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
+        "$numberInt": "9"
       },
       "currentRound": {
         "$numberInt": "1"
       },
       "currentRoundScore": "+9",
-      "firstName": "Andrea",
+      "firstName": "Roberto",
       "isAmateur": false,
-      "lastName": "Pavan",
-      "playerId": "30756",
-      "position": "T140",
+      "lastName": "Díaz",
+      "playerId": "35376",
+      "position": "T138",
       "roundComplete": false,
       "rounds": [],
       "startingHole": {
-        "$numberInt": "10"
+        "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "12:30pm",
+      "teeTime": "2:31pm",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749745800000"
+          "$numberLong": "1749753060000"
         }
       },
-      "thru": "13*",
+      "thru": "8",
       "total": "+9"
     },
     {
@@ -5140,7 +5082,7 @@
       "isAmateur": false,
       "lastName": "Docherty",
       "playerId": "51680",
-      "position": "T147",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -5182,7 +5124,7 @@
       "isAmateur": true,
       "lastName": "Gutschewski",
       "playerId": "67203",
-      "position": "T147",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -5224,7 +5166,7 @@
       "isAmateur": true,
       "lastName": "Kent",
       "playerId": "68084",
-      "position": "T147",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -5266,7 +5208,7 @@
       "isAmateur": true,
       "lastName": "Tankersley",
       "playerId": "59865",
-      "position": "T147",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -5308,7 +5250,7 @@
       "isAmateur": false,
       "lastName": "Lagergren",
       "playerId": "34317",
-      "position": "T147",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -5336,6 +5278,64 @@
       "thru": "F*",
       "total": "+10",
       "totalStrokesFromCompletedRounds": "80"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "17"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+10",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Bairstow",
+      "playerId": "60369",
+      "position": "T145",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749745800000"
+        }
+      },
+      "thru": "16",
+      "total": "+10"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "1"
+      },
+      "currentRoundScore": "+11",
+      "firstName": "Andrea",
+      "isAmateur": false,
+      "lastName": "Pavan",
+      "playerId": "30756",
+      "position": "151",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749745800000"
+        }
+      },
+      "thru": "16*",
+      "total": "+11"
     },
     {
       "courseId": "608",
@@ -5554,6 +5554,11 @@
   },
   "roundStatus": "In Progress",
   "status": "In Progress",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1749763402490"
+    }
+  },
   "tournId": "026",
   "year": "2025"
 }
