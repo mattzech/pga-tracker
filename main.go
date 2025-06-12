@@ -149,6 +149,9 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 				}
 			}
 		}
+  if len(found.Rounds) == 0 {
+    player.R1 = found.Total
+  }
 		player.Total = player.R1 + player.R2 + player.R3 + player.R4
 		team = append(team, player)
 	}
