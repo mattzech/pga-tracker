@@ -5,7 +5,7 @@
   "cutLines": [],
   "lastUpdated": {
     "$date": {
-      "$numberLong": "1749830574000"
+      "$numberLong": "1749831303000"
     }
   },
   "leaderboardRows": [
@@ -54,7 +54,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "6"
+        "$numberInt": "7"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -89,9 +89,51 @@
           "$numberLong": "1749814140000"
         }
       },
-      "thru": "14*",
+      "thru": "15*",
       "total": "-3",
       "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "6"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "-4",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "lastName": "Hovland",
+      "playerId": "46717",
+      "position": "T2",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+1",
+          "strokes": {
+            "$numberInt": "71"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749814800000"
+        }
+      },
+      "thru": "14*",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
@@ -138,48 +180,6 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "-3",
-      "firstName": "Viktor",
-      "isAmateur": false,
-      "lastName": "Hovland",
-      "playerId": "46717",
-      "position": "T4",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+1",
-          "strokes": {
-            "$numberInt": "71"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749814800000"
-        }
-      },
-      "thru": "13*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
         "$numberInt": "1"
       },
       "currentRound": {
@@ -190,7 +190,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T4",
+      "position": "5",
       "roundComplete": false,
       "rounds": [
         {
@@ -222,7 +222,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "2"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -257,7 +257,7 @@
           "$numberLong": "1749818100000"
         }
       },
-      "thru": "10*",
+      "thru": "11*",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "69"
     },
@@ -474,7 +474,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "7"
+        "$numberInt": "8"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -509,14 +509,14 @@
           "$numberLong": "1749812820000"
         }
       },
-      "thru": "15*",
+      "thru": "16*",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
+        "$numberInt": "17"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -551,7 +551,7 @@
           "$numberLong": "1749813480000"
         }
       },
-      "thru": "15",
+      "thru": "16",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
@@ -768,7 +768,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "8"
+        "$numberInt": "9"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -803,14 +803,14 @@
           "$numberLong": "1749811500000"
         }
       },
-      "thru": "16*",
+      "thru": "17*",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
+        "$numberInt": "6"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -845,14 +845,14 @@
           "$numberLong": "1749814800000"
         }
       },
-      "thru": "13*",
+      "thru": "14*",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "4"
+        "$numberInt": "5"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -887,51 +887,9 @@
           "$numberLong": "1749815460000"
         }
       },
-      "thru": "12*",
+      "thru": "13*",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "3"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+1",
-      "firstName": "Rasmus",
-      "isAmateur": false,
-      "lastName": "Højgaard",
-      "playerId": "52686",
-      "position": "T19",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+1",
-          "strokes": {
-            "$numberInt": "71"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749817440000"
-        }
-      },
-      "thru": "11*",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
@@ -1230,7 +1188,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "7"
+        "$numberInt": "8"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -1240,7 +1198,7 @@
       "isAmateur": false,
       "lastName": "Schenk",
       "playerId": "47347",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1265,14 +1223,56 @@
           "$numberLong": "1749812820000"
         }
       },
-      "thru": "15*",
+      "thru": "16*",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "15"
+        "$numberInt": "17"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+3",
+      "firstName": "Russell",
+      "isAmateur": false,
+      "lastName": "Henley",
+      "playerId": "34098",
+      "position": "T29",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "E",
+          "strokes": {
+            "$numberInt": "70"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749813480000"
+        }
+      },
+      "thru": "16",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "16"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -1282,7 +1282,7 @@
       "isAmateur": false,
       "lastName": "Rahm",
       "playerId": "46970",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1307,7 +1307,7 @@
           "$numberLong": "1749814140000"
         }
       },
-      "thru": "14",
+      "thru": "15",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "69"
     },
@@ -1324,7 +1324,7 @@
       "isAmateur": false,
       "lastName": "Hatton",
       "playerId": "34363",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1366,7 +1366,7 @@
       "isAmateur": false,
       "lastName": "Im",
       "playerId": "39971",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1398,6 +1398,48 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "15"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+3",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "lastName": "Young",
+      "playerId": "57366",
+      "position": "T29",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "E",
+          "strokes": {
+            "$numberInt": "70"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749815460000"
+        }
+      },
+      "thru": "14",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "4"
       },
       "currentRound": {
@@ -1408,7 +1450,7 @@
       "isAmateur": false,
       "lastName": "Berger",
       "playerId": "40026",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1440,6 +1482,48 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "4"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+2",
+      "firstName": "Rasmus",
+      "isAmateur": false,
+      "lastName": "Højgaard",
+      "playerId": "52686",
+      "position": "T29",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+1",
+          "strokes": {
+            "$numberInt": "71"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749817440000"
+        }
+      },
+      "thru": "12*",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "1"
       },
       "currentRound": {
@@ -1450,7 +1534,7 @@
       "isAmateur": false,
       "lastName": "Kruyswijk",
       "playerId": "37446",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1492,7 +1576,7 @@
       "isAmateur": false,
       "lastName": "English",
       "playerId": "34099",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1534,7 +1618,7 @@
       "isAmateur": false,
       "lastName": "Bradley",
       "playerId": "33141",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1576,7 +1660,7 @@
       "isAmateur": false,
       "lastName": "DeChambeau",
       "playerId": "47959",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1618,7 +1702,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T30",
+      "position": "T29",
       "roundComplete": false,
       "rounds": [
         {
@@ -1660,7 +1744,7 @@
       "isAmateur": false,
       "lastName": "Greyserman",
       "playerId": "51977",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -1692,91 +1776,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+4",
-      "firstName": "Russell",
-      "isAmateur": false,
-      "lastName": "Henley",
-      "playerId": "34098",
-      "position": "T40",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "E",
-          "strokes": {
-            "$numberInt": "70"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749813480000"
-        }
-      },
-      "thru": "15",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "15"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+4",
-      "firstName": "Jordan",
-      "isAmateur": false,
-      "lastName": "Spieth",
-      "playerId": "34046",
-      "position": "T40",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "E",
-          "strokes": {
-            "$numberInt": "70"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749814140000"
-        }
-      },
-      "thru": "14",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "6"
+        "$numberInt": "7"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -1786,7 +1786,7 @@
       "isAmateur": false,
       "lastName": "McCarthy",
       "playerId": "47993",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -1811,14 +1811,14 @@
           "$numberLong": "1749814140000"
         }
       },
-      "thru": "14*",
+      "thru": "15*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "5"
+        "$numberInt": "6"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -1828,7 +1828,7 @@
       "isAmateur": false,
       "lastName": "Scheffler",
       "playerId": "46046",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -1853,56 +1853,14 @@
           "$numberLong": "1749814800000"
         }
       },
-      "thru": "13*",
+      "thru": "14*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+4",
-      "firstName": "Cameron",
-      "isAmateur": false,
-      "lastName": "Young",
-      "playerId": "57366",
-      "position": "T40",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "E",
-          "strokes": {
-            "$numberInt": "70"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749815460000"
-        }
-      },
-      "thru": "13",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "4"
+        "$numberInt": "5"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -1912,7 +1870,7 @@
       "isAmateur": false,
       "lastName": "Day",
       "playerId": "28089",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -1937,7 +1895,7 @@
           "$numberLong": "1749815460000"
         }
       },
-      "thru": "12*",
+      "thru": "13*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "76"
     },
@@ -1954,7 +1912,7 @@
       "isAmateur": false,
       "lastName": "Cauley",
       "playerId": "34021",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -1986,49 +1944,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Marc",
-      "isAmateur": false,
-      "lastName": "Leishman",
-      "playerId": "26851",
-      "position": "T40",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+1",
-          "strokes": {
-            "$numberInt": "71"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749816780000"
-        }
-      },
-      "thru": "11",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "13"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2038,7 +1954,7 @@
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2063,7 +1979,7 @@
           "$numberLong": "1749816780000"
         }
       },
-      "thru": "11",
+      "thru": "12",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "72"
     },
@@ -2080,7 +1996,7 @@
       "isAmateur": false,
       "lastName": "Hughes",
       "playerId": "35506",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2112,7 +2028,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "3"
+        "$numberInt": "4"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2122,7 +2038,7 @@
       "isAmateur": false,
       "lastName": "Finau",
       "playerId": "29725",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2147,14 +2063,14 @@
           "$numberLong": "1749816780000"
         }
       },
-      "thru": "11*",
+      "thru": "12*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "11"
+        "$numberInt": "12"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2164,7 +2080,7 @@
       "isAmateur": false,
       "lastName": "McCormick",
       "playerId": "46113",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2189,14 +2105,14 @@
           "$numberLong": "1749818100000"
         }
       },
-      "thru": "10",
+      "thru": "11",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "2"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2206,7 +2122,7 @@
       "isAmateur": true,
       "lastName": "Hastings",
       "playerId": "66248",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2231,7 +2147,7 @@
           "$numberLong": "1749818100000"
         }
       },
-      "thru": "10*",
+      "thru": "11*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "73"
     },
@@ -2248,7 +2164,7 @@
       "isAmateur": false,
       "lastName": "Blair",
       "playerId": "40058",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2290,7 +2206,7 @@
       "isAmateur": false,
       "lastName": "Fleetwood",
       "playerId": "30911",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2332,7 +2248,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2374,7 +2290,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "40098",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2416,7 +2332,7 @@
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2458,7 +2374,7 @@
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2500,7 +2416,7 @@
       "isAmateur": false,
       "lastName": "Glover",
       "playerId": "25900",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2542,7 +2458,7 @@
       "isAmateur": false,
       "lastName": "Davis",
       "playerId": "45157",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2584,7 +2500,7 @@
       "isAmateur": false,
       "lastName": "Mickelson",
       "playerId": "01810",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2626,7 +2542,7 @@
       "isAmateur": false,
       "lastName": "Molinari",
       "playerId": "23814",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2668,7 +2584,7 @@
       "isAmateur": false,
       "lastName": "Buchanan",
       "playerId": "66742",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2710,7 +2626,7 @@
       "isAmateur": true,
       "lastName": "Simpson",
       "playerId": "68614",
-      "position": "T40",
+      "position": "T42",
       "roundComplete": false,
       "rounds": [
         {
@@ -2752,7 +2668,7 @@
       "isAmateur": false,
       "lastName": "Fox",
       "playerId": "29936",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2794,7 +2710,7 @@
       "isAmateur": false,
       "lastName": "Wallace",
       "playerId": "48887",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2826,7 +2742,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "16"
+        "$numberInt": "17"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2836,7 +2752,7 @@
       "isAmateur": false,
       "lastName": "Taylor",
       "playerId": "25493",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2861,14 +2777,56 @@
           "$numberLong": "1749813480000"
         }
       },
-      "thru": "15",
+      "thru": "16",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "16"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+5",
+      "firstName": "Jordan",
+      "isAmateur": false,
+      "lastName": "Spieth",
+      "playerId": "34046",
+      "position": "T64",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "E",
+          "strokes": {
+            "$numberInt": "70"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749814140000"
+        }
+      },
+      "thru": "15",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2878,7 +2836,7 @@
       "isAmateur": false,
       "lastName": "Hoge",
       "playerId": "35532",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2903,14 +2861,14 @@
           "$numberLong": "1749815460000"
         }
       },
-      "thru": "13",
+      "thru": "14",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "4"
+        "$numberInt": "5"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2920,7 +2878,7 @@
       "isAmateur": false,
       "lastName": "Reed",
       "playerId": "34360",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2945,14 +2903,14 @@
           "$numberLong": "1749815460000"
         }
       },
-      "thru": "12*",
+      "thru": "13*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "13"
+        "$numberInt": "14"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -2962,7 +2920,7 @@
       "isAmateur": false,
       "lastName": "Vegas",
       "playerId": "27064",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2987,9 +2945,93 @@
           "$numberLong": "1749816120000"
         }
       },
-      "thru": "12",
+      "thru": "13",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "14"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Matthieu",
+      "isAmateur": false,
+      "lastName": "Pavon",
+      "playerId": "48153",
+      "position": "T64",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+1",
+          "strokes": {
+            "$numberInt": "71"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749816120000"
+        }
+      },
+      "thru": "13",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "13"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Marc",
+      "isAmateur": false,
+      "lastName": "Leishman",
+      "playerId": "26851",
+      "position": "T64",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+1",
+          "strokes": {
+            "$numberInt": "71"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749816780000"
+        }
+      },
+      "thru": "12",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
@@ -3004,7 +3046,7 @@
       "isAmateur": false,
       "lastName": "Ortiz",
       "playerId": "33667",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3036,7 +3078,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "3"
+        "$numberInt": "4"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -3046,7 +3088,7 @@
       "isAmateur": true,
       "lastName": "James",
       "playerId": "57869",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3071,7 +3113,7 @@
           "$numberLong": "1749817440000"
         }
       },
-      "thru": "11*",
+      "thru": "12*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
@@ -3088,7 +3130,7 @@
       "isAmateur": false,
       "lastName": "Cone",
       "playerId": "49453",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3120,7 +3162,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "2"
+        "$numberInt": "3"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -3130,7 +3172,7 @@
       "isAmateur": false,
       "lastName": "Canter",
       "playerId": "34362",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3155,7 +3197,7 @@
           "$numberLong": "1749818100000"
         }
       },
-      "thru": "10*",
+      "thru": "11*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "72"
     },
@@ -3172,7 +3214,7 @@
       "isAmateur": false,
       "lastName": "Phillips",
       "playerId": "57625",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3214,7 +3256,7 @@
       "isAmateur": false,
       "lastName": "Vincent",
       "playerId": "34126",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3256,7 +3298,7 @@
       "isAmateur": false,
       "lastName": "Blanchet",
       "playerId": "54788",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3298,7 +3340,7 @@
       "isAmateur": false,
       "lastName": "Ortiz",
       "playerId": "39262",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3340,7 +3382,7 @@
       "isAmateur": false,
       "lastName": "Thompson",
       "playerId": "58168",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3382,7 +3424,7 @@
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "35891",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3424,7 +3466,7 @@
       "isAmateur": true,
       "lastName": "La Sasso",
       "playerId": "68384",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3466,7 +3508,7 @@
       "isAmateur": false,
       "lastName": "Kozuma",
       "playerId": "33689",
-      "position": "T66",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -3498,7 +3540,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "14"
+        "$numberInt": "15"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -3508,7 +3550,7 @@
       "isAmateur": false,
       "lastName": "Poston",
       "playerId": "49771",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3533,51 +3575,9 @@
           "$numberLong": "1749815460000"
         }
       },
-      "thru": "13",
+      "thru": "14",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "13"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+5",
-      "firstName": "Matthieu",
-      "isAmateur": false,
-      "lastName": "Pavon",
-      "playerId": "48153",
-      "position": "T84",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+1",
-          "strokes": {
-            "$numberInt": "71"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749816120000"
-        }
-      },
-      "thru": "12",
-      "total": "+6",
-      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "608",
@@ -3592,7 +3592,7 @@
       "isAmateur": false,
       "lastName": "Cole",
       "playerId": "47591",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3634,7 +3634,7 @@
       "isAmateur": false,
       "lastName": "Moldovan",
       "playerId": "57860",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3676,7 +3676,7 @@
       "isAmateur": false,
       "lastName": "Ballester",
       "playerId": "60165",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3718,7 +3718,7 @@
       "isAmateur": false,
       "lastName": "Novak",
       "playerId": "51997",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3760,7 +3760,7 @@
       "isAmateur": false,
       "lastName": "McNealy",
       "playerId": "46442",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3802,7 +3802,7 @@
       "isAmateur": false,
       "lastName": "Bhatia",
       "playerId": "56630",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3844,7 +3844,7 @@
       "isAmateur": false,
       "lastName": "Cantlay",
       "playerId": "35450",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3886,7 +3886,7 @@
       "isAmateur": false,
       "lastName": "Bland",
       "playerId": "45836",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3928,7 +3928,7 @@
       "isAmateur": false,
       "lastName": "Norgaard",
       "playerId": "35706",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -3970,7 +3970,7 @@
       "isAmateur": false,
       "lastName": "Keefer",
       "playerId": "63454",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4012,7 +4012,7 @@
       "isAmateur": false,
       "lastName": "Olesen",
       "playerId": "33968",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4054,7 +4054,7 @@
       "isAmateur": false,
       "lastName": "Hubbard",
       "playerId": "36801",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4096,7 +4096,7 @@
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4138,7 +4138,7 @@
       "isAmateur": false,
       "lastName": "Barbaree, Jr.",
       "playerId": "50157",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4180,7 +4180,7 @@
       "isAmateur": false,
       "lastName": "Lewis",
       "playerId": "65469",
-      "position": "T84",
+      "position": "T85",
       "roundComplete": false,
       "rounds": [
         {
@@ -4296,91 +4296,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "15"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Dustin",
-      "isAmateur": false,
-      "lastName": "Johnson",
-      "playerId": "30925",
-      "position": "T101",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+5",
-          "strokes": {
-            "$numberInt": "75"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749814140000"
-        }
-      },
-      "thru": "14",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "13"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+2",
-      "firstName": "Michael",
-      "isAmateur": false,
-      "lastName": "Kim",
-      "playerId": "39975",
-      "position": "T101",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+5",
-          "strokes": {
-            "$numberInt": "75"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749816120000"
-        }
-      },
-      "thru": "12",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "4"
+        "$numberInt": "5"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -4415,7 +4331,7 @@
           "$numberLong": "1749816120000"
         }
       },
-      "thru": "12*",
+      "thru": "13*",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "75"
     },
@@ -4506,17 +4422,17 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "7"
+        "$numberInt": "14"
       },
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "+6",
-      "firstName": "Jacob",
+      "currentRoundScore": "+3",
+      "firstName": "Michael",
       "isAmateur": false,
-      "lastName": "Bridgeman",
-      "playerId": "60004",
-      "position": "T108",
+      "lastName": "Kim",
+      "playerId": "39975",
+      "position": "T106",
       "roundComplete": false,
       "rounds": [
         {
@@ -4525,30 +4441,30 @@
           "roundId": {
             "$numberInt": "1"
           },
-          "scoreToPar": "+2",
+          "scoreToPar": "+5",
           "strokes": {
-            "$numberInt": "72"
+            "$numberInt": "75"
           }
         }
       ],
       "startingHole": {
-        "$numberInt": "10"
+        "$numberInt": "1"
       },
       "status": "active",
-      "teeTime": "7:07am",
+      "teeTime": "8:02am",
       "teeTimeTimestamp": {
         "$date": {
-          "$numberLong": "1749812820000"
+          "$numberLong": "1749816120000"
         }
       },
-      "thru": "15*",
+      "thru": "13",
       "total": "+8",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "1"
+        "$numberInt": "2"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -4558,7 +4474,7 @@
       "isAmateur": false,
       "lastName": "Gonzalez R.",
       "playerId": "59567",
-      "position": "T108",
+      "position": "T106",
       "roundComplete": false,
       "rounds": [
         {
@@ -4583,7 +4499,7 @@
           "$numberLong": "1749818760000"
         }
       },
-      "thru": "9*",
+      "thru": "10*",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "75"
     },
@@ -4600,7 +4516,7 @@
       "isAmateur": false,
       "lastName": "Riley",
       "playerId": "47995",
-      "position": "T108",
+      "position": "T106",
       "roundComplete": false,
       "rounds": [
         {
@@ -4642,7 +4558,7 @@
       "isAmateur": false,
       "lastName": "Hahn",
       "playerId": "32448",
-      "position": "T108",
+      "position": "T106",
       "roundComplete": false,
       "rounds": [
         {
@@ -4684,7 +4600,7 @@
       "isAmateur": false,
       "lastName": "Bauchou",
       "playerId": "48001",
-      "position": "T108",
+      "position": "T106",
       "roundComplete": false,
       "rounds": [
         {
@@ -4716,6 +4632,48 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "8"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+7",
+      "firstName": "Jacob",
+      "isAmateur": false,
+      "lastName": "Bridgeman",
+      "playerId": "60004",
+      "position": "T111",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+2",
+          "strokes": {
+            "$numberInt": "72"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749812820000"
+        }
+      },
+      "thru": "16*",
+      "total": "+9",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "7"
       },
       "currentRound": {
@@ -4726,7 +4684,7 @@
       "isAmateur": false,
       "lastName": "Lee",
       "playerId": "37378",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4758,6 +4716,48 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "16"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+4",
+      "firstName": "Dustin",
+      "isAmateur": false,
+      "lastName": "Johnson",
+      "playerId": "30925",
+      "position": "T111",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+5",
+          "strokes": {
+            "$numberInt": "75"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749814140000"
+        }
+      },
+      "thru": "15",
+      "total": "+9",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "15"
       },
       "currentRound": {
@@ -4768,7 +4768,7 @@
       "isAmateur": false,
       "lastName": "Straka",
       "playerId": "49960",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4800,7 +4800,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "12"
+        "$numberInt": "13"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -4810,7 +4810,7 @@
       "isAmateur": false,
       "lastName": "Dunlap",
       "playerId": "59866",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4835,7 +4835,7 @@
           "$numberLong": "1749816780000"
         }
       },
-      "thru": "11",
+      "thru": "12",
       "total": "+9",
       "totalStrokesFromCompletedRounds": "77"
     },
@@ -4852,7 +4852,7 @@
       "isAmateur": false,
       "lastName": "Nicholas",
       "playerId": "58188",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4894,7 +4894,7 @@
       "isAmateur": true,
       "lastName": "Weaver",
       "playerId": "68612",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4926,7 +4926,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "1"
+        "$numberInt": "2"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -4936,7 +4936,7 @@
       "isAmateur": true,
       "lastName": "Harris",
       "playerId": "68606",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -4961,7 +4961,7 @@
           "$numberLong": "1749818760000"
         }
       },
-      "thru": "9*",
+      "thru": "10*",
       "total": "+9",
       "totalStrokesFromCompletedRounds": "79"
     },
@@ -4978,7 +4978,7 @@
       "isAmateur": false,
       "lastName": "Ott",
       "playerId": "60567",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5020,7 +5020,7 @@
       "isAmateur": false,
       "lastName": "Ghim",
       "playerId": "52375",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5062,7 +5062,7 @@
       "isAmateur": true,
       "lastName": "Beck",
       "playerId": "45618",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5104,7 +5104,7 @@
       "isAmateur": false,
       "lastName": "Lowry",
       "playerId": "33204",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5146,7 +5146,7 @@
       "isAmateur": false,
       "lastName": "Campbell",
       "playerId": "46443",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5188,7 +5188,7 @@
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "54869",
-      "position": "T113",
+      "position": "T111",
       "roundComplete": false,
       "rounds": [
         {
@@ -5304,7 +5304,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "3"
+        "$numberInt": "4"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -5339,7 +5339,7 @@
           "$numberLong": "1749817440000"
         }
       },
-      "thru": "11*",
+      "thru": "12*",
       "total": "+10",
       "totalStrokesFromCompletedRounds": "73"
     },
@@ -5724,48 +5724,6 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "6"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Nico",
-      "isAmateur": false,
-      "lastName": "Echavarria",
-      "playerId": "51349",
-      "position": "T136",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+8",
-          "strokes": {
-            "$numberInt": "78"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749814140000"
-        }
-      },
-      "thru": "14*",
-      "total": "+11",
-      "totalStrokesFromCompletedRounds": "78"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
         "$numberInt": "11"
       },
       "currentRound": {
@@ -5860,7 +5818,7 @@
       "isAmateur": true,
       "lastName": "Vogt",
       "playerId": "68613",
-      "position": "T140",
+      "position": "T139",
       "roundComplete": false,
       "rounds": [
         {
@@ -5902,7 +5860,7 @@
       "isAmateur": false,
       "lastName": "McCarty",
       "playerId": "59141",
-      "position": "T140",
+      "position": "T139",
       "roundComplete": false,
       "rounds": [
         {
@@ -5944,7 +5902,7 @@
       "isAmateur": false,
       "lastName": "Calkins",
       "playerId": "56742",
-      "position": "T140",
+      "position": "T139",
       "roundComplete": false,
       "rounds": [
         {
@@ -5976,6 +5934,90 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "9"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+2",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Bairstow",
+      "playerId": "60369",
+      "position": "T142",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+11",
+          "strokes": {
+            "$numberInt": "81"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "6:45am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749811500000"
+        }
+      },
+      "thru": "17*",
+      "total": "+13",
+      "totalStrokesFromCompletedRounds": "81"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
+        "$numberInt": "7"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+5",
+      "firstName": "Nico",
+      "isAmateur": false,
+      "lastName": "Echavarria",
+      "playerId": "51349",
+      "position": "T142",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+8",
+          "strokes": {
+            "$numberInt": "78"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "10"
+      },
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749814140000"
+        }
+      },
+      "thru": "15*",
+      "total": "+13",
+      "totalStrokesFromCompletedRounds": "78"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "1"
       },
       "currentRound": {
@@ -5986,7 +6028,7 @@
       "isAmateur": false,
       "lastName": "Lower",
       "playerId": "40162",
-      "position": "143",
+      "position": "T142",
       "roundComplete": false,
       "rounds": [
         {
@@ -6018,7 +6060,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "8"
+        "$numberInt": "9"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -6028,7 +6070,7 @@
       "isAmateur": false,
       "lastName": "LaCroix",
       "playerId": "52585",
-      "position": "T144",
+      "position": "T145",
       "roundComplete": false,
       "rounds": [
         {
@@ -6053,51 +6095,9 @@
           "$numberLong": "1749811500000"
         }
       },
-      "thru": "16*",
+      "thru": "17*",
       "total": "+14",
       "totalStrokesFromCompletedRounds": "76"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "8"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+3",
-      "firstName": "Sam",
-      "isAmateur": false,
-      "lastName": "Bairstow",
-      "playerId": "60369",
-      "position": "T144",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+11",
-          "strokes": {
-            "$numberInt": "81"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "10"
-      },
-      "status": "active",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749811500000"
-        }
-      },
-      "thru": "16*",
-      "total": "+14",
-      "totalStrokesFromCompletedRounds": "81"
     },
     {
       "courseId": "608",
@@ -6112,7 +6112,7 @@
       "isAmateur": false,
       "lastName": "Highsmith",
       "playerId": "60067",
-      "position": "T144",
+      "position": "T145",
       "roundComplete": false,
       "rounds": [
         {
@@ -6154,7 +6154,7 @@
       "isAmateur": false,
       "lastName": "Sugiura",
       "playerId": "54218",
-      "position": "T144",
+      "position": "T145",
       "roundComplete": false,
       "rounds": [
         {
@@ -6196,7 +6196,7 @@
       "isAmateur": false,
       "lastName": "Hicks",
       "playerId": "25444",
-      "position": "T144",
+      "position": "T145",
       "roundComplete": false,
       "rounds": [
         {
@@ -6228,6 +6228,48 @@
     {
       "courseId": "608",
       "currentHole": {
+        "$numberInt": "18"
+      },
+      "currentRound": {
+        "$numberInt": "2"
+      },
+      "currentRoundScore": "+7",
+      "firstName": "Bryan",
+      "isAmateur": true,
+      "lastName": "Lee",
+      "playerId": "68608",
+      "position": "T149",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "608",
+          "courseName": "Oakmont Country Club",
+          "roundId": {
+            "$numberInt": "1"
+          },
+          "scoreToPar": "+8",
+          "strokes": {
+            "$numberInt": "78"
+          }
+        }
+      ],
+      "startingHole": {
+        "$numberInt": "1"
+      },
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1749812160000"
+        }
+      },
+      "thru": "17",
+      "total": "+15",
+      "totalStrokesFromCompletedRounds": "78"
+    },
+    {
+      "courseId": "608",
+      "currentHole": {
         "$numberInt": "2"
       },
       "currentRound": {
@@ -6238,7 +6280,7 @@
       "isAmateur": false,
       "lastName": "Díaz",
       "playerId": "35376",
-      "position": "149",
+      "position": "T149",
       "roundComplete": false,
       "rounds": [
         {
@@ -6270,49 +6312,7 @@
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "17"
-      },
-      "currentRound": {
-        "$numberInt": "2"
-      },
-      "currentRoundScore": "+8",
-      "firstName": "Bryan",
-      "isAmateur": true,
-      "lastName": "Lee",
-      "playerId": "68608",
-      "position": "150",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "608",
-          "courseName": "Oakmont Country Club",
-          "roundId": {
-            "$numberInt": "1"
-          },
-          "scoreToPar": "+8",
-          "strokes": {
-            "$numberInt": "78"
-          }
-        }
-      ],
-      "startingHole": {
-        "$numberInt": "1"
-      },
-      "status": "active",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": {
-        "$date": {
-          "$numberLong": "1749812160000"
-        }
-      },
-      "thru": "16",
-      "total": "+16",
-      "totalStrokesFromCompletedRounds": "78"
-    },
-    {
-      "courseId": "608",
-      "currentHole": {
-        "$numberInt": "17"
+        "$numberInt": "18"
       },
       "currentRound": {
         "$numberInt": "2"
@@ -6322,7 +6322,7 @@
       "isAmateur": false,
       "lastName": "Migliozzi",
       "playerId": "39834",
-      "position": "T151",
+      "position": "151",
       "roundComplete": false,
       "rounds": [
         {
@@ -6347,24 +6347,24 @@
           "$numberLong": "1749812160000"
         }
       },
-      "thru": "16",
+      "thru": "17",
       "total": "+17",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "608",
       "currentHole": {
-        "$numberInt": "17"
+        "$numberInt": "18"
       },
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "+9",
+      "currentRoundScore": "+10",
       "firstName": "Preston",
       "isAmateur": false,
       "lastName": "Summerhays",
       "playerId": "57298",
-      "position": "T151",
+      "position": "T152",
       "roundComplete": false,
       "rounds": [
         {
@@ -6389,8 +6389,8 @@
           "$numberLong": "1749812160000"
         }
       },
-      "thru": "16",
-      "total": "+17",
+      "thru": "17",
+      "total": "+18",
       "totalStrokesFromCompletedRounds": "78"
     },
     {
@@ -6406,7 +6406,7 @@
       "isAmateur": false,
       "lastName": "Kneiser",
       "playerId": "59283",
-      "position": "153",
+      "position": "T152",
       "roundComplete": false,
       "rounds": [
         {
@@ -6570,7 +6570,7 @@
   "status": "In Progress",
   "timestamp": {
     "$date": {
-      "$numberLong": "1749830592682"
+      "$numberLong": "1749831312736"
     }
   },
   "tournId": "026",
