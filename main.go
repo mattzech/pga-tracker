@@ -16,13 +16,15 @@ import (
 )
 
 type PageData struct {
-    Teams       map[string][]Player
-    LastUpdated string
+	Teams       []Team
+	LastUpdated string
 }
 
 type Team struct {
-    TeamName string   `json:"teamName"`
-    Players  []string `json:"players"`
+	TeamName   string   `json:"teamName"`
+	Players    []string `json:"players"`
+	PlayerScores []Player `json:"-"`
+	History    []string `json:"history"`
 }
 
 type Player struct {
@@ -69,27 +71,26 @@ func main() {
 		}
 		log.Println("✅ Fetched latest leaderboard")
 	}
+   teams := make([]Team, len(members))
+   for i, member := range members {
+	   teamData, err := loadTeam(fmt.Sprintf("teams/%s.json", member))
+	   if err != nil {
+		   log.Fatal(err)
+	   }
 
-	teams := make(map[string][]Player, len(members))
-	for _, member := range members {
-		playerNames, err := loadTeam(fmt.Sprintf("teams/%s.json", member))
-		if err != nil {
-			log.Fatal(err)
-		}
+	   playerScores, err := getTeamScores("leaderboard.json", teamData.Players)
+	   if err != nil {
+		   log.Fatal(err)
+	   }
 
-		team, err := getTeamScores("leaderboard.json", playerNames.Players)
-		if err != nil {
-			log.Fatal(err)
-		}
+	   teams[i] = teamData
+	   teams[i].PlayerScores = playerScores
+   }
 
-		teams[playerNames.TeamName] = team
-	}
-
-	err := renderScoreboard(teams)
-	if err != nil {
-		log.Fatalf("render failed: %v", err)
-	}
-
+   err := renderScoreboard(teams)
+   if err != nil {
+	   log.Fatalf("render failed: %v", err)
+   }
 }
 
 func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
@@ -150,7 +151,7 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 			}
 		}
   if len(found.Rounds) == 0 {
-    player.R1 = strokesInt(found.Total)
+	player.R1 = strokesInt(found.Total)
   }
 		player.Total = player.R1 + player.R2 + player.R3 + player.R4
 		team = append(team, player)
@@ -282,7 +283,7 @@ func strokesInt(s string) int {
 	return strokes
 }
 
-func renderScoreboard(teams map[string][]Player) error {
+func renderScoreboard(teams []Team) error {
 	tmpl := template.Must(template.New("scoreboard").Funcs(template.FuncMap{
 		"isTotal": func(name string) bool {
 			return name == "Total"

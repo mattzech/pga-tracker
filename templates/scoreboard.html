@@ -16,7 +16,13 @@
             padding: 2rem;
         }
         h1 {
+            font-size: 2rem;
             color: #fff;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+        }
+        h2 {
+            font-size: 1.2rem;
+            color: #e7e7e7;
             text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
         }
         table {
@@ -54,13 +60,18 @@
 <body>
     <h1>Fantasy Golf Live Scoreboard</h1>
     <div class="updated-time">Last updated: {{ .LastUpdated }}</div>
-    {{ range $teamName, $players := .Teams }}
-        <div class="team-name">{{$teamName}}</div>
+    {{ range .Teams }}
+        <div class="team-name">{{.TeamName}}</div>
+        {{ if .History }}
+        <div class="team-history" style="font-size:1em; color:#d4d4d4; margin-bottom:0.5em;">
+            {{ range .History }}<h2>🏆 {{.}}</h2> {{end}}
+        </div>
+        {{ end }}
         <table>
             <tr>
                 <th>Player</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>Total</th>
             </tr>
-            {{ range $players }}
+            {{ range .PlayerScores }}
             <tr 
             {{if isTotal .FullName}}class="bold-row"{{end}} 
             {{if .Excluded}}class="strikethrough gray"{{end}}>
