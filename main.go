@@ -141,8 +141,13 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 				case 3:
 					player.R4 = strokes
 				}
-			} else if isCut && i >= 2 {
+			} else if isCut {
+				strokes := strokesInt(found.Rounds[i].Strokes)
 				switch i {
+				case 0:
+					player.R1 = strokes
+				case 1:
+					player.R2 = strokes
 				case 2:
 					player.R3 = cutVal
 				case 3:
@@ -231,7 +236,7 @@ func loadTeam(filePath string) (Team, error) {
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=026&year=2025"
+	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=100&year=2025"
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
