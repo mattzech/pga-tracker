@@ -47,6 +47,8 @@ type LeaderboardRow struct {
 	Total     string  `json:"total"`
 	Rounds    []Round `json:"rounds"`
 	Position  string  `json:"position"`
+	RoundComplete bool    `json:"roundComplete"`
+	CurrentRoundScore string `json:"currentRoundScore"`
 }
 
 type Leaderboard struct {
@@ -128,9 +130,19 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 		player := Player{FullName: name}
 		isCut := strings.ToUpper(found.Position) == "CUT"
 
+		numRounds := len(found.Rounds)
+		if !found.RoundComplete {
+			numRounds++
+		}
 		for i := 0; i < 4; i++ {
-			if i < len(found.Rounds) && !isCut {
-				strokes := strokesInt(found.Rounds[i].Strokes)
+			if i < numRounds && !isCut {
+				var strokesString string
+				if !found.RoundComplete {
+					strokesString = found.CurrentRoundScore
+				} else {
+					strokesString = found.Rounds[i].Strokes
+				}
+				strokes := strokesInt(strokesString)
 				switch i {
 				case 0:
 					player.R1 = strokes
@@ -141,13 +153,8 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 				case 3:
 					player.R4 = strokes
 				}
-			} else if isCut {
-				strokes := strokesInt(found.Rounds[i].Strokes)
+			} else if isCut && i >= 2 {
 				switch i {
-				case 0:
-					player.R1 = strokes
-				case 1:
-					player.R2 = strokes
 				case 2:
 					player.R3 = cutVal
 				case 3:
@@ -236,7 +243,7 @@ func loadTeam(filePath string) (Team, error) {
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=100&year=2025"
+	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=026&year=2025"
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
