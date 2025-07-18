@@ -137,7 +137,7 @@ func getTeamScores(filePath string, teamNames []string) ([]Player, error) {
 		for i := 0; i < 4; i++ {
 			if i < numRounds && !isCut {
 				var strokesString string
-				if !found.RoundComplete {
+				if !found.RoundComplete && i == numRounds-1 {
 					strokesString = found.CurrentRoundScore
 				} else {
 					strokesString = found.Rounds[i].Strokes
