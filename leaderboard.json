@@ -5,14 +5,14 @@
   "cutLines": [
     {
       "cutCount": {
-        "$numberInt": "86"
+        "$numberInt": "70"
       },
       "cutScore": "+1"
     }
   ],
   "lastUpdated": {
     "$date": {
-      "$numberLong": "1753106088715"
+      "$numberLong": "1753161641000"
     }
   },
   "leaderboardRows": [
@@ -5274,7 +5274,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Matteo",
       "isAmateur": false,
       "lastName": "Manassero",
@@ -5306,11 +5306,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "6:35am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752816900000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5321,7 +5327,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "Hillier",
@@ -5353,11 +5359,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "6:57am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752818220000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5368,7 +5380,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Rikuya",
       "isAmateur": false,
       "lastName": "Hoshino",
@@ -5400,11 +5412,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "7:41am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752820860000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5415,7 +5433,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Joaquin",
       "isAmateur": false,
       "lastName": "Niemann",
@@ -5447,11 +5465,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752827100000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5462,7 +5486,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Jason",
       "isAmateur": false,
       "lastName": "Day",
@@ -5494,11 +5518,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "12:09pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752836940000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5509,7 +5539,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Ryan",
       "isAmateur": false,
       "lastName": "Fox",
@@ -5541,11 +5571,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "2:26pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752845160000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5556,7 +5592,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Ben",
       "isAmateur": false,
       "lastName": "Griffin",
@@ -5588,11 +5624,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "2:37pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752845820000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5603,7 +5645,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Justin",
       "isAmateur": false,
       "lastName": "Suh",
@@ -5635,11 +5677,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+2",
+      "teeTime": "4:05pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752851100000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "144"
     },
     {
@@ -5650,7 +5698,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Zach",
       "isAmateur": false,
       "lastName": "Johnson",
@@ -5682,11 +5730,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "6:57am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752818220000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5697,7 +5751,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Ethan",
       "isAmateur": true,
       "lastName": "Fang",
@@ -5729,11 +5783,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "7:08am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752818880000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5744,7 +5804,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Elvis",
       "isAmateur": false,
       "lastName": "Smylie",
@@ -5776,11 +5836,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "7:19am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752819540000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5791,7 +5857,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Si Woo",
       "isAmateur": false,
       "lastName": "Kim",
@@ -5823,11 +5889,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "7:52am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752821520000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5838,7 +5910,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Matt",
       "isAmateur": false,
       "lastName": "McCarty",
@@ -5870,11 +5942,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "8:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752822840000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5885,7 +5963,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Angel",
       "isAmateur": false,
       "lastName": "Hidalgo Portillo",
@@ -5917,11 +5995,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "8:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752822840000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5932,7 +6016,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Carlos",
       "isAmateur": false,
       "lastName": "Ortiz",
@@ -5964,11 +6048,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "9:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752826440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -5979,7 +6069,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Nick",
       "isAmateur": false,
       "lastName": "Taylor",
@@ -6011,11 +6101,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "10:20am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752830400000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6026,7 +6122,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Tom",
       "isAmateur": false,
       "lastName": "Kim",
@@ -6058,11 +6154,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "10:31am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752831060000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6073,7 +6175,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Brian",
       "isAmateur": false,
       "lastName": "Campbell",
@@ -6105,11 +6207,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "10:42am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752831720000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6120,7 +6228,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Cameron",
       "isAmateur": true,
       "lastName": "Adam",
@@ -6152,11 +6260,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "10:53am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752832380000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6167,7 +6281,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "George",
       "isAmateur": false,
       "lastName": "Bloor",
@@ -6199,11 +6313,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833700000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6214,7 +6334,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Tom",
       "isAmateur": false,
       "lastName": "McKibbin",
@@ -6246,11 +6366,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "11:26am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752834360000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6261,7 +6387,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Taylor",
       "isAmateur": false,
       "lastName": "Pendrith",
@@ -6293,11 +6419,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "12:09pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752836940000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6308,7 +6440,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Max",
       "isAmateur": false,
       "lastName": "Greyserman",
@@ -6340,11 +6472,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "12:31pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752838260000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6355,7 +6493,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Kevin",
       "isAmateur": false,
       "lastName": "Yu",
@@ -6387,11 +6525,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "1:04pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752840240000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6402,7 +6546,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Julien",
       "isAmateur": false,
       "lastName": "Guerrier",
@@ -6434,11 +6578,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "1:04pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752840240000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6449,7 +6599,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Patrick",
       "isAmateur": false,
       "lastName": "Cantlay",
@@ -6481,11 +6631,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "1:26pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752841560000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6496,7 +6652,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Denny",
       "isAmateur": false,
       "lastName": "McCarthy",
@@ -6528,11 +6684,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "3:32pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752849120000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6543,7 +6705,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "John",
       "isAmateur": false,
       "lastName": "Axelsen",
@@ -6575,11 +6737,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+3",
+      "teeTime": "3:54pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752850440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "145"
     },
     {
@@ -6590,7 +6758,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Stewart",
       "isAmateur": false,
       "lastName": "Cink",
@@ -6622,11 +6790,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "6:35am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752816900000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6637,7 +6811,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Michael",
       "isAmateur": false,
       "lastName": "Kim",
@@ -6669,11 +6843,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "8:03am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752822180000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6684,7 +6864,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "John",
       "isAmateur": false,
       "lastName": "Catlin",
@@ -6716,11 +6896,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "10:42am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752831720000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6731,7 +6917,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "Young",
@@ -6763,11 +6949,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "11:04am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833040000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6778,7 +6970,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Young-han",
       "isAmateur": false,
       "lastName": "Song",
@@ -6810,11 +7002,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833700000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6825,7 +7023,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "OJ",
       "isAmateur": false,
       "lastName": "Farrell",
@@ -6857,11 +7055,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833700000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6872,7 +7076,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Marco",
       "isAmateur": false,
       "lastName": "Penge",
@@ -6904,11 +7108,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "11:58am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752836280000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6919,7 +7129,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Niklas",
       "isAmateur": false,
       "lastName": "Norgaard",
@@ -6951,11 +7161,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "12:31pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752838260000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -6966,7 +7182,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Lucas",
       "isAmateur": false,
       "lastName": "Herbert",
@@ -6998,11 +7214,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "12:53pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752839580000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7013,7 +7235,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Young",
@@ -7045,11 +7267,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "1:26pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752841560000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7060,7 +7288,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Thorbjørn",
       "isAmateur": false,
       "lastName": "Olesen",
@@ -7092,11 +7320,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752842220000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7107,7 +7341,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Nico",
       "isAmateur": false,
       "lastName": "Echavarria",
@@ -7139,11 +7373,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "3:32pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752849120000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7154,7 +7394,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Dylan",
       "isAmateur": false,
       "lastName": "Naidoo",
@@ -7186,11 +7426,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "3:54pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752850440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7201,7 +7447,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Jesper",
       "isAmateur": false,
       "lastName": "Sandborg",
@@ -7233,11 +7479,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+4",
+      "teeTime": "4:05pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752851100000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "146"
     },
     {
@@ -7248,7 +7500,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Matthieu",
       "isAmateur": false,
       "lastName": "Pavon",
@@ -7280,11 +7532,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "7:30am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752820200000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7295,7 +7553,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Bud",
       "isAmateur": false,
       "lastName": "Cauley",
@@ -7327,11 +7585,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "8:03am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752822180000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7342,7 +7606,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Shaun",
       "isAmateur": false,
       "lastName": "Norris",
@@ -7374,11 +7638,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "8:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752822840000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7389,7 +7659,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Chris",
       "isAmateur": false,
       "lastName": "Kirk",
@@ -7421,11 +7691,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "9:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752826440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7436,7 +7712,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Min Woo",
       "isAmateur": false,
       "lastName": "Lee",
@@ -7468,11 +7744,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "9:36am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752827760000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7483,7 +7765,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Byeong Hun",
       "isAmateur": false,
       "lastName": "An",
@@ -7515,11 +7797,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "12:31pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752838260000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7530,7 +7818,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Aldrich",
       "isAmateur": false,
       "lastName": "Potgieter",
@@ -7562,11 +7850,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "2:48pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752846480000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7577,7 +7871,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Patrick",
       "isAmateur": false,
       "lastName": "Reed",
@@ -7609,11 +7903,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "3:32pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752849120000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7624,7 +7924,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Sadom",
       "isAmateur": false,
       "lastName": "Kaewkanjana",
@@ -7656,11 +7956,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+5",
+      "teeTime": "4:16pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752851760000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "147"
     },
     {
@@ -7671,7 +7977,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Laurie",
       "isAmateur": false,
       "lastName": "Canter",
@@ -7703,11 +8009,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "7:19am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752819540000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7718,7 +8030,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Davis",
       "isAmateur": false,
       "lastName": "Thompson",
@@ -7750,11 +8062,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "7:41am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752820860000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7765,7 +8083,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Curtis",
       "isAmateur": false,
       "lastName": "Knipes",
@@ -7797,11 +8115,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "11:04am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833040000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7812,7 +8136,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Louis",
       "isAmateur": false,
       "lastName": "Oosthuizen",
@@ -7844,11 +8168,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "11:47am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752835620000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7859,7 +8189,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Justin",
       "isAmateur": true,
       "lastName": "Hastings",
@@ -7891,11 +8221,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "11:58am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752836280000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7906,7 +8242,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Darren",
       "isAmateur": false,
       "lastName": "Clarke",
@@ -7938,11 +8274,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "12:53pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752839580000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -7953,7 +8295,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Filip",
       "isAmateur": true,
       "lastName": "Jakubcik",
@@ -7985,11 +8327,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752842220000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -8000,7 +8348,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Stephan",
       "isAmateur": false,
       "lastName": "Jaeger",
@@ -8032,11 +8380,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+6",
+      "teeTime": "1:48pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752842880000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "148"
     },
     {
@@ -8047,7 +8401,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "Brown",
@@ -8079,11 +8433,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "6:57am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752818220000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8094,7 +8454,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Sahith",
       "isAmateur": false,
       "lastName": "Theegala",
@@ -8126,11 +8486,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "8:47am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752824820000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8141,7 +8507,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "J.T.",
       "isAmateur": false,
       "lastName": "Poston",
@@ -8173,11 +8539,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "9:14am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752826440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8188,7 +8560,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Mackenzie",
       "isAmateur": false,
       "lastName": "Hughes",
@@ -8220,11 +8592,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "1:26pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752841560000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8235,7 +8613,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Brooks",
       "isAmateur": false,
       "lastName": "Koepka",
@@ -8267,11 +8645,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "2:48pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752846480000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8282,7 +8666,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Collin",
       "isAmateur": false,
       "lastName": "Morikawa",
@@ -8314,11 +8698,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "3:10pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752847800000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8329,7 +8719,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Darren",
       "isAmateur": false,
       "lastName": "Fichardt",
@@ -8361,11 +8751,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+7",
+      "teeTime": "3:54pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752850440000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
@@ -8376,7 +8772,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Frazer",
       "isAmateur": true,
       "lastName": "Jones",
@@ -8408,11 +8804,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "10:42am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752831720000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8423,7 +8825,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Curtis",
       "isAmateur": false,
       "lastName": "Luck",
@@ -8455,11 +8857,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "11:04am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752833040000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8470,7 +8878,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Smith",
@@ -8502,11 +8910,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "11:58am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752836280000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8517,7 +8931,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Ryan",
       "isAmateur": false,
       "lastName": "Peake",
@@ -8549,11 +8963,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "12:20pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752837600000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8564,7 +8984,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Justin",
       "isAmateur": false,
       "lastName": "Walters",
@@ -8596,11 +9016,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752844500000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8611,7 +9037,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Richard",
       "isAmateur": true,
       "lastName": "Teder",
@@ -8643,11 +9069,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "3:43pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752849780000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8658,7 +9090,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Sampson",
       "isAmateur": false,
       "lastName": "Zheng",
@@ -8690,11 +9122,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+8",
+      "teeTime": "4:16pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752851760000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
@@ -8705,7 +9143,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Adam",
       "isAmateur": false,
       "lastName": "Scott",
@@ -8737,11 +9175,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "7:08am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752818880000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8752,7 +9196,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Shugo",
       "isAmateur": false,
       "lastName": "Imahira",
@@ -8784,11 +9228,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "7:52am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752821520000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8799,7 +9249,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Padraig",
       "isAmateur": false,
       "lastName": "Harrington",
@@ -8831,11 +9281,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "11:26am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752834360000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8846,7 +9302,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Davis",
       "isAmateur": false,
       "lastName": "Riley",
@@ -8878,11 +9334,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "12:53pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752839580000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8893,7 +9355,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Mikiya",
       "isAmateur": false,
       "lastName": "Akutsu",
@@ -8925,11 +9387,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "1:04pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752840240000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8940,7 +9408,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Martin",
       "isAmateur": false,
       "lastName": "Couvra",
@@ -8972,11 +9440,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+9",
+      "teeTime": "2:04pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752843840000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
@@ -8987,7 +9461,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Connor",
       "isAmateur": true,
       "lastName": "Graham",
@@ -9019,11 +9493,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+10",
+      "teeTime": "6:46am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752817560000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
@@ -9034,7 +9514,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Sebastian",
       "isAmateur": true,
       "lastName": "Cave",
@@ -9066,11 +9546,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+11",
+      "teeTime": "7:52am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752821520000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "153"
     },
     {
@@ -9081,7 +9567,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Guido",
       "isAmateur": false,
       "lastName": "Migliozzi",
@@ -9113,11 +9599,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+12",
+      "teeTime": "11:47am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752835620000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "154"
     },
     {
@@ -9128,7 +9620,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Tom",
       "isAmateur": false,
       "lastName": "Hoge",
@@ -9160,11 +9652,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+12",
+      "teeTime": "3:21pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752848460000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "154"
     },
     {
@@ -9175,7 +9673,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "K.J.",
       "isAmateur": false,
       "lastName": "Choi",
@@ -9207,11 +9705,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+13",
+      "teeTime": "11:47am",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752835620000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
@@ -9222,7 +9726,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "van Tonder",
@@ -9254,11 +9758,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+14",
+      "teeTime": "12:20pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752837600000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "156"
     },
     {
@@ -9269,7 +9779,7 @@
       "currentRound": {
         "$numberInt": "2"
       },
-      "currentRoundScore": "-",
+      "currentRoundScore": "",
       "firstName": "Bryan",
       "isAmateur": true,
       "lastName": "Newman",
@@ -9301,11 +9811,17 @@
         }
       ],
       "startingHole": {
-        "$numberInt": "1"
+        "$numberInt": "0"
       },
       "status": "cut",
-      "thru": "-",
-      "total": "+15",
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": {
+        "$date": {
+          "$numberLong": "1752844500000"
+        }
+      },
+      "thru": "",
+      "total": "-",
       "totalStrokesFromCompletedRounds": "157"
     }
   ],
@@ -9317,7 +9833,7 @@
   "status": "Official",
   "timestamp": {
     "$date": {
-      "$numberLong": "1753106088715"
+      "$numberLong": "1753353063938"
     }
   },
   "tournId": "100",
