@@ -205,6 +205,8 @@ func splitName(name string) (string, string) {
 	switch name {
 	case "Min Woo Lee":
 		return "Min Woo", "Lee"
+	case "Si Woo Kim":
+		return "Si Woo", "Kim"
 	}
 	split := strings.SplitN(name, " ", 2)
 	if len(split) != 2 {
@@ -212,10 +214,6 @@ func splitName(name string) (string, string) {
 	}
 	firstName, lastName := split[0], split[1]
 	return firstName, lastName
-}
-
-func playerTotal(p Player) int {
-	return p.R1 + p.R2 + p.R3 + p.R4
 }
 
 func parseCutScore(cut string) int {
@@ -243,7 +241,7 @@ func loadTeam(filePath string) (Team, error) {
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=100&year=2025"
+	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=014&year=2026"
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
