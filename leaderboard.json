@@ -5,19 +5,19 @@
       "cutScore": "+4"
     }
   ],
-  "lastUpdated": "2026-04-10T22:48:17.001000",
+  "lastUpdated": "2026-04-10T23:08:44.001000",
   "leaderboardRows": [
     {
       "courseId": "014",
       "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "-6",
+      "currentRoundScore": "-7",
       "firstName": "Rory",
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
       "position": "1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -25,15 +25,22 @@
           "roundId": 1,
           "scoreToPar": "-5",
           "strokes": 67
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-7",
+          "strokes": 65
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:44pm",
       "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "17",
-      "total": "-11",
-      "totalStrokesFromCompletedRounds": "67"
+      "thru": "F",
+      "total": "-12",
+      "totalStrokesFromCompletedRounds": "132"
     },
     {
       "courseId": "014",
@@ -395,7 +402,7 @@
       "lastName": "Young",
       "playerId": "57366",
       "position": "T7",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -403,15 +410,22 @@
           "roundId": 1,
           "scoreToPar": "+1",
           "strokes": 73
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-5",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:44pm",
       "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-4",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "140"
     },
     {
       "courseId": "014",
@@ -1045,7 +1059,7 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-5",
       "firstName": "Patrick",
@@ -1053,7 +1067,7 @@
       "lastName": "Cantlay",
       "playerId": "35450",
       "position": "T24",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -1061,15 +1075,22 @@
           "roundId": 1,
           "scoreToPar": "+5",
           "strokes": 77
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-5",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:56pm",
       "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "16",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "77"
+      "totalStrokesFromCompletedRounds": "144"
     },
     {
       "courseId": "014",
@@ -1318,34 +1339,6 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Viktor",
-      "isAmateur": false,
-      "lastName": "Hovland",
-      "playerId": "46717",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:56pm",
-      "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "16",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "014",
       "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+2",
@@ -1353,7 +1346,7 @@
       "isAmateur": false,
       "lastName": "Stevens",
       "playerId": "55893",
-      "position": "T40",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1388,7 +1381,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T40",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1423,7 +1416,7 @@
       "isAmateur": false,
       "lastName": "Thomas",
       "playerId": "33448",
-      "position": "T40",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1458,7 +1451,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T40",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1493,7 +1486,7 @@
       "isAmateur": false,
       "lastName": "Bradley",
       "playerId": "33141",
-      "position": "T40",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1515,6 +1508,41 @@
       "status": "complete",
       "teeTime": "12:44pm",
       "teeTimeTimestamp": "2026-04-10T16:44:00",
+      "thru": "F",
+      "total": "+2",
+      "totalStrokesFromCompletedRounds": "146"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "lastName": "Hovland",
+      "playerId": "46717",
+      "position": "T39",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 75
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:56pm",
+      "teeTimeTimestamp": "2026-04-10T17:56:00",
       "thru": "F",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "146"
@@ -1591,34 +1619,6 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Alex",
-      "isAmateur": false,
-      "lastName": "Noren",
-      "playerId": "27349",
-      "position": "T45",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:56pm",
-      "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "16",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "014",
       "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-3",
@@ -1626,7 +1626,7 @@
       "isAmateur": false,
       "lastName": "Harman",
       "playerId": "27644",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1661,7 +1661,7 @@
       "isAmateur": false,
       "lastName": "Conners",
       "playerId": "39997",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1696,7 +1696,7 @@
       "isAmateur": false,
       "lastName": "Rahm",
       "playerId": "46970",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1731,7 +1731,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1766,7 +1766,7 @@
       "isAmateur": false,
       "lastName": "Schwartzel",
       "playerId": "26331",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1801,7 +1801,7 @@
       "isAmateur": false,
       "lastName": "Højgaard",
       "playerId": "52686",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1836,7 +1836,7 @@
       "isAmateur": false,
       "lastName": "Kitayama",
       "playerId": "48117",
-      "position": "T48",
+      "position": "T47",
       "roundComplete": true,
       "rounds": [
         {
@@ -1866,13 +1866,48 @@
       "courseId": "014",
       "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "+1",
+      "currentRoundScore": "-1",
+      "firstName": "Alex",
+      "isAmateur": false,
+      "lastName": "Noren",
+      "playerId": "27349",
+      "position": "T47",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 77
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:56pm",
+      "teeTimeTimestamp": "2026-04-10T17:56:00",
+      "thru": "F",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "148"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Danny",
       "isAmateur": false,
       "lastName": "Willett",
       "playerId": "32139",
-      "position": "T55",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -1890,24 +1925,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:26am",
       "teeTimeTimestamp": "2026-04-10T12:26:00",
-      "thru": "F",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "E",
+      "currentRoundScore": "",
       "firstName": "Harry",
       "isAmateur": false,
       "lastName": "Hall",
       "playerId": "57975",
-      "position": "T55",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -1925,24 +1960,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "9:19am",
       "teeTimeTimestamp": "2026-04-10T13:19:00",
-      "thru": "F",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "J.J.",
       "isAmateur": false,
       "lastName": "Spaun",
       "playerId": "39324",
-      "position": "T55",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -1960,24 +1995,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "9:31am",
       "teeTimeTimestamp": "2026-04-10T13:31:00",
-      "thru": "F",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "E",
+      "currentRoundScore": "",
       "firstName": "Ryan",
       "isAmateur": false,
       "lastName": "Fox",
       "playerId": "29936",
-      "position": "T55",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -1995,24 +2030,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:39am",
       "teeTimeTimestamp": "2026-04-10T15:39:00",
-      "thru": "F",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+1",
+      "currentRoundScore": "",
       "firstName": "Bubba",
       "isAmateur": false,
       "lastName": "Watson",
       "playerId": "25804",
-      "position": "T55",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2030,24 +2065,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "12:15pm",
       "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "149"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Zach",
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "24024",
-      "position": "T60",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2065,24 +2100,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:14am",
       "teeTimeTimestamp": "2026-04-10T12:14:00",
-      "thru": "F",
+      "thru": "",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+2",
+      "currentRoundScore": "",
       "firstName": "Nicolai",
       "isAmateur": false,
       "lastName": "Højgaard",
       "playerId": "52453",
-      "position": "T60",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2100,24 +2135,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:14am",
       "teeTimeTimestamp": "2026-04-10T12:14:00",
-      "thru": "F",
+      "thru": "",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+5",
+      "currentRoundScore": "",
       "firstName": "Akshay",
       "isAmateur": false,
       "lastName": "Bhatia",
       "playerId": "56630",
-      "position": "T60",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2135,24 +2170,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "1:08pm",
       "teeTimeTimestamp": "2026-04-10T17:08:00",
-      "thru": "F",
+      "thru": "",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+2",
+      "currentRoundScore": "",
       "firstName": "Bryson",
       "isAmateur": false,
       "lastName": "DeChambeau",
       "playerId": "47959",
-      "position": "T60",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2170,24 +2205,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "1:20pm",
       "teeTimeTimestamp": "2026-04-10T17:20:00",
-      "thru": "F",
+      "thru": "",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "150"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "",
       "firstName": "Andrew",
       "isAmateur": false,
       "lastName": "Novak",
       "playerId": "51997",
-      "position": "T64",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2205,24 +2240,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "7:50am",
       "teeTimeTimestamp": "2026-04-10T11:50:00",
-      "thru": "F",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "",
       "firstName": "Tom",
       "isAmateur": false,
       "lastName": "McKibbin",
       "playerId": "50823",
-      "position": "T64",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2240,24 +2275,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "7:50am",
       "teeTimeTimestamp": "2026-04-10T11:50:00",
-      "thru": "F",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "-1",
+      "currentRoundScore": "",
       "firstName": "Robert",
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T64",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2275,24 +2310,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "10:19am",
       "teeTimeTimestamp": "2026-04-10T14:19:00",
-      "thru": "F",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+2",
+      "currentRoundScore": "",
       "firstName": "Rasmus",
       "isAmateur": false,
       "lastName": "Neergaard-Petersen",
       "playerId": "52689",
-      "position": "T64",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2310,24 +2345,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:15am",
       "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+5",
+      "currentRoundScore": "",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "35891",
-      "position": "T64",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2345,24 +2380,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "12:32pm",
       "teeTimeTimestamp": "2026-04-10T16:32:00",
-      "thru": "F",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+5",
+      "currentRoundScore": "",
       "firstName": "Michael",
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "39975",
-      "position": "T69",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2380,24 +2415,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:14am",
       "teeTimeTimestamp": "2026-04-10T12:14:00",
-      "thru": "F",
+      "thru": "",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+6",
+      "currentRoundScore": "",
       "firstName": "Ethan",
       "isAmateur": true,
       "lastName": "Fang",
       "playerId": "68932",
-      "position": "T69",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2415,24 +2450,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:26am",
       "teeTimeTimestamp": "2026-04-10T12:26:00",
-      "thru": "F",
+      "thru": "",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "Berger",
       "playerId": "40026",
-      "position": "T69",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2450,24 +2485,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:38am",
       "teeTimeTimestamp": "2026-04-10T12:38:00",
-      "thru": "F",
+      "thru": "",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "",
       "firstName": "Jackson",
       "isAmateur": true,
       "lastName": "Herrington",
       "playerId": "70148",
-      "position": "T69",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2485,24 +2520,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:27am",
       "teeTimeTimestamp": "2026-04-10T15:27:00",
-      "thru": "F",
+      "thru": "",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Casey",
       "isAmateur": false,
       "lastName": "Jarvis",
       "playerId": "57688",
-      "position": "T69",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2520,24 +2555,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "12:03pm",
       "teeTimeTimestamp": "2026-04-10T16:03:00",
-      "thru": "F",
+      "thru": "",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Fred",
       "isAmateur": false,
       "lastName": "Couples",
       "playerId": "01226",
-      "position": "T74",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2555,24 +2590,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:50am",
       "teeTimeTimestamp": "2026-04-10T12:50:00",
-      "thru": "F",
+      "thru": "",
       "total": "+9",
       "totalStrokesFromCompletedRounds": "153"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+7",
+      "currentRoundScore": "",
       "firstName": "José María",
       "isAmateur": false,
       "lastName": "Olazábal",
       "playerId": "06373",
-      "position": "T74",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2590,23 +2625,23 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:15am",
       "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+9",
       "totalStrokesFromCompletedRounds": "153"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "",
       "firstName": "Mason",
       "isAmateur": true,
       "lastName": "Howell",
       "playerId": "68607",
-      "position": "T74",
+      "position": "CUT",
       "roundComplete": false,
       "rounds": [
         {
@@ -2615,27 +2650,34 @@
           "roundId": 1,
           "scoreToPar": "+5",
           "strokes": 77
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 76
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "cut",
       "teeTime": "1:44pm",
       "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "17",
+      "thru": "",
       "total": "+9",
-      "totalStrokesFromCompletedRounds": "77"
+      "totalStrokesFromCompletedRounds": "153"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+1",
+      "currentRoundScore": "",
       "firstName": "Mike",
       "isAmateur": false,
       "lastName": "Weir",
       "playerId": "10423",
-      "position": "T77",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2653,24 +2695,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:02am",
       "teeTimeTimestamp": "2026-04-10T12:02:00",
-      "thru": "F",
+      "thru": "",
       "total": "+10",
       "totalStrokesFromCompletedRounds": "154"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Vijay",
       "isAmateur": false,
       "lastName": "Singh",
       "playerId": "06567",
-      "position": "T77",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2688,24 +2730,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:51am",
       "teeTimeTimestamp": "2026-04-10T15:51:00",
-      "thru": "F",
+      "thru": "",
       "total": "+10",
       "totalStrokesFromCompletedRounds": "154"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+5",
+      "currentRoundScore": "",
       "firstName": "Min Woo",
       "isAmateur": false,
       "lastName": "Lee",
       "playerId": "37378",
-      "position": "T79",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2723,24 +2765,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:50am",
       "teeTimeTimestamp": "2026-04-10T12:50:00",
-      "thru": "F",
+      "thru": "",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Fifa",
       "isAmateur": true,
       "lastName": "Laopakdee",
       "playerId": "70146",
-      "position": "T79",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2758,24 +2800,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:50am",
       "teeTimeTimestamp": "2026-04-10T12:50:00",
-      "thru": "F",
+      "thru": "",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+7",
+      "currentRoundScore": "",
       "firstName": "John",
       "isAmateur": false,
       "lastName": "Keefer",
       "playerId": "63454",
-      "position": "T79",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2793,24 +2835,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "10:51am",
       "teeTimeTimestamp": "2026-04-10T14:51:00",
-      "thru": "F",
+      "thru": "",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Carlos",
       "isAmateur": false,
       "lastName": "Ortiz",
       "playerId": "33667",
-      "position": "T79",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2828,24 +2870,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:03am",
       "teeTimeTimestamp": "2026-04-10T15:03:00",
-      "thru": "F",
+      "thru": "",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Sami",
       "isAmateur": false,
       "lastName": "Valimaki",
       "playerId": "52666",
-      "position": "T79",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2863,24 +2905,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:27am",
       "teeTimeTimestamp": "2026-04-10T15:27:00",
-      "thru": "F",
+      "thru": "",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "155"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+5",
+      "currentRoundScore": "",
       "firstName": "Max",
       "isAmateur": false,
       "lastName": "Greyserman",
       "playerId": "51977",
-      "position": "84",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2898,24 +2940,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:39am",
       "teeTimeTimestamp": "2026-04-10T15:39:00",
-      "thru": "F",
+      "thru": "",
       "total": "+12",
       "totalStrokesFromCompletedRounds": "156"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+6",
+      "currentRoundScore": "",
       "firstName": "Nicolas",
       "isAmateur": false,
       "lastName": "Echavarria",
       "playerId": "51349",
-      "position": "85",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2933,24 +2975,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "12:15pm",
       "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+13",
       "totalStrokesFromCompletedRounds": "157"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+6",
+      "currentRoundScore": "",
       "firstName": "Mateo",
       "isAmateur": true,
       "lastName": "Pulcini",
       "playerId": "70145",
-      "position": "T86",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -2968,24 +3010,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:02am",
       "teeTimeTimestamp": "2026-04-10T12:02:00",
-      "thru": "F",
+      "thru": "",
       "total": "+15",
       "totalStrokesFromCompletedRounds": "159"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Naoyuki",
       "isAmateur": false,
       "lastName": "Kataoka",
       "playerId": "46879",
-      "position": "T86",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -3003,24 +3045,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:03am",
       "teeTimeTimestamp": "2026-04-10T15:03:00",
-      "thru": "F",
+      "thru": "",
       "total": "+15",
       "totalStrokesFromCompletedRounds": "159"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+3",
+      "currentRoundScore": "",
       "firstName": "Aldrich",
       "isAmateur": false,
       "lastName": "Potgieter",
       "playerId": "63343",
-      "position": "T86",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -3038,24 +3080,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:15am",
       "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+15",
       "totalStrokesFromCompletedRounds": "159"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+6",
+      "currentRoundScore": "",
       "firstName": "Brandon",
       "isAmateur": true,
       "lastName": "Holtz",
       "playerId": "70147",
-      "position": "T86",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -3073,24 +3115,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "12:15pm",
       "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "F",
+      "thru": "",
       "total": "+15",
       "totalStrokesFromCompletedRounds": "159"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+9",
+      "currentRoundScore": "",
       "firstName": "Angel",
       "isAmateur": false,
       "lastName": "Cabrera",
       "playerId": "20848",
-      "position": "90",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -3108,24 +3150,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "11:27am",
       "teeTimeTimestamp": "2026-04-10T15:27:00",
-      "thru": "F",
+      "thru": "",
       "total": "+16",
       "totalStrokesFromCompletedRounds": "160"
     },
     {
       "courseId": "014",
-      "currentHole": 18,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+8",
+      "currentRoundScore": "",
       "firstName": "Davis",
       "isAmateur": false,
       "lastName": "Riley",
       "playerId": "47995",
-      "position": "91",
-      "roundComplete": true,
+      "position": "CUT",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
@@ -3143,19 +3185,19 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "cut",
       "teeTime": "8:26am",
       "teeTimeTimestamp": "2026-04-10T12:26:00",
-      "thru": "F",
+      "thru": "",
       "total": "+18",
       "totalStrokesFromCompletedRounds": "162"
     }
   ],
   "orgId": "1",
   "roundId": 2,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-04-10T22:48:52.279000",
+  "timestamp": "2026-04-10T23:45:42.427000",
   "tournId": "014",
   "year": "2026"
 }
