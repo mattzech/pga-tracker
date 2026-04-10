@@ -5,11 +5,11 @@
       "cutScore": "+4"
     }
   ],
-  "lastUpdated": "2026-04-10T19:15:04.001000",
+  "lastUpdated": "2026-04-10T19:57:46.001000",
   "leaderboardRows": [
     {
       "courseId": "014",
-      "currentHole": 6,
+      "currentHole": 8,
       "currentRound": 2,
       "currentRoundScore": "-2",
       "firstName": "Rory",
@@ -31,7 +31,7 @@
       "status": "active",
       "teeTime": "1:44pm",
       "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "5",
+      "thru": "7",
       "total": "-7",
       "totalStrokesFromCompletedRounds": "67"
     },
@@ -74,11 +74,11 @@
       "courseId": "014",
       "currentHole": 11,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Sam",
+      "currentRoundScore": "-2",
+      "firstName": "Patrick",
       "isAmateur": false,
-      "lastName": "Burns",
-      "playerId": "47504",
+      "lastName": "Reed",
+      "playerId": "34360",
       "position": "T2",
       "roundComplete": false,
       "rounds": [
@@ -86,17 +86,17 @@
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 67
+          "scoreToPar": "-3",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:32pm",
-      "teeTimeTimestamp": "2026-04-10T16:32:00",
+      "teeTime": "1:08pm",
+      "teeTimeTimestamp": "2026-04-10T17:08:00",
       "thru": "10",
       "total": "-5",
-      "totalStrokesFromCompletedRounds": "67"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "014",
@@ -170,7 +170,70 @@
     },
     {
       "courseId": "014",
-      "currentHole": 9,
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "-3",
+      "firstName": "Haotong",
+      "isAmateur": false,
+      "lastName": "Li",
+      "playerId": "35296",
+      "position": "T4",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 71
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "10:51am",
+      "teeTimeTimestamp": "2026-04-10T14:51:00",
+      "thru": "F",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "140"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Burns",
+      "playerId": "47504",
+      "position": "T4",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:32pm",
+      "teeTimeTimestamp": "2026-04-10T16:32:00",
+      "thru": "12",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 12,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Jason",
@@ -192,19 +255,19 @@
       "status": "active",
       "teeTime": "12:56pm",
       "teeTimeTimestamp": "2026-04-10T16:56:00",
-      "thru": "8",
+      "thru": "11",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "014",
-      "currentHole": 8,
+      "currentHole": 11,
       "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Patrick",
+      "currentRoundScore": "-3",
+      "firstName": "Tommy",
       "isAmateur": false,
-      "lastName": "Reed",
-      "playerId": "34360",
+      "lastName": "Fleetwood",
+      "playerId": "30911",
       "position": "T4",
       "roundComplete": false,
       "rounds": [
@@ -212,17 +275,17 @@
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 69
+          "scoreToPar": "-1",
+          "strokes": 71
         }
       ],
       "startingHole": 1,
       "status": "active",
       "teeTime": "1:08pm",
       "teeTimeTimestamp": "2026-04-10T17:08:00",
-      "thru": "7",
+      "thru": "10",
       "total": "-4",
-      "totalStrokesFromCompletedRounds": "69"
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "014",
@@ -233,7 +296,7 @@
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T8",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -268,7 +331,7 @@
       "isAmateur": false,
       "lastName": "Koepka",
       "playerId": "36689",
-      "position": "T8",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -303,8 +366,8 @@
       "isAmateur": false,
       "lastName": "Griffin",
       "playerId": "54591",
-      "position": "T8",
-      "roundComplete": false,
+      "position": "T10",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -312,82 +375,33 @@
           "roundId": 1,
           "scoreToPar": "E",
           "strokes": 72
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:07am",
       "teeTimeTimestamp": "2026-04-10T14:07:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "141"
     },
     {
       "courseId": "014",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Haotong",
-      "isAmateur": false,
-      "lastName": "Li",
-      "playerId": "35296",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "10:51am",
-      "teeTimeTimestamp": "2026-04-10T14:51:00",
-      "thru": "15",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 9,
-      "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Shane",
-      "isAmateur": false,
-      "lastName": "Lowry",
-      "playerId": "33204",
-      "position": "T8",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:56pm",
-      "teeTimeTimestamp": "2026-04-10T16:56:00",
-      "thru": "8",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 15,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
+      "currentRoundScore": "-3",
       "firstName": "Max",
       "isAmateur": false,
       "lastName": "Homa",
       "playerId": "39977",
-      "position": "T13",
+      "position": "T10",
       "roundComplete": false,
       "rounds": [
         {
@@ -402,48 +416,76 @@
       "status": "active",
       "teeTime": "11:03am",
       "teeTimeTimestamp": "2026-04-10T15:03:00",
-      "thru": "14",
-      "total": "-2",
+      "thru": "17",
+      "total": "-3",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "014",
-      "currentHole": 8,
+      "currentHole": 14,
       "currentRound": 2,
       "currentRoundScore": "-3",
-      "firstName": "Akshay",
+      "firstName": "Kristoffer",
       "isAmateur": false,
-      "lastName": "Bhatia",
-      "playerId": "56630",
-      "position": "T13",
+      "lastName": "Reitan",
+      "playerId": "49855",
+      "position": "T10",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 73
+          "scoreToPar": "E",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:08pm",
-      "teeTimeTimestamp": "2026-04-10T17:08:00",
-      "thru": "7",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "73"
+      "teeTime": "12:03pm",
+      "teeTimeTimestamp": "2026-04-10T16:03:00",
+      "thru": "13",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "014",
-      "currentHole": 8,
+      "currentHole": 11,
       "currentRound": 2,
-      "currentRoundScore": "E",
+      "currentRoundScore": "-1",
+      "firstName": "Shane",
+      "isAmateur": false,
+      "lastName": "Lowry",
+      "playerId": "33204",
+      "position": "T10",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2026-04-10T16:56:00",
+      "thru": "10",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
       "firstName": "Xander",
       "isAmateur": false,
       "lastName": "Schauffele",
       "playerId": "48081",
-      "position": "T13",
+      "position": "T10",
       "roundComplete": false,
       "rounds": [
         {
@@ -458,8 +500,8 @@
       "status": "active",
       "teeTime": "1:20pm",
       "teeTimeTimestamp": "2026-04-10T17:20:00",
-      "thru": "7",
-      "total": "-2",
+      "thru": "9",
+      "total": "-3",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
@@ -471,7 +513,7 @@
       "isAmateur": false,
       "lastName": "Brennan",
       "playerId": "61522",
-      "position": "T16",
+      "position": "T17",
       "roundComplete": true,
       "rounds": [
         {
@@ -499,70 +541,14 @@
     },
     {
       "courseId": "014",
-      "currentHole": 12,
-      "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Kristoffer",
-      "isAmateur": false,
-      "lastName": "Reitan",
-      "playerId": "49855",
-      "position": "T16",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:03pm",
-      "teeTimeTimestamp": "2026-04-10T16:03:00",
-      "thru": "11",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 11,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Jake",
-      "isAmateur": false,
-      "lastName": "Knapp",
-      "playerId": "47420",
-      "position": "T16",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:32pm",
-      "teeTimeTimestamp": "2026-04-10T16:32:00",
-      "thru": "10",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 8,
+      "currentHole": 13,
       "currentRound": 2,
       "currentRoundScore": "E",
-      "firstName": "Tommy",
+      "firstName": "Nick",
       "isAmateur": false,
-      "lastName": "Fleetwood",
-      "playerId": "30911",
-      "position": "T16",
+      "lastName": "Taylor",
+      "playerId": "25493",
+      "position": "T17",
       "roundComplete": false,
       "rounds": [
         {
@@ -575,22 +561,50 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:08pm",
-      "teeTimeTimestamp": "2026-04-10T17:08:00",
-      "thru": "7",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-04-10T16:44:00",
+      "thru": "12",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "014",
-      "currentHole": 7,
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Dustin",
+      "isAmateur": false,
+      "lastName": "Johnson",
+      "playerId": "30925",
+      "position": "T17",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2026-04-10T16:56:00",
+      "thru": "11",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 9,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Hideki",
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T16",
+      "position": "T17",
       "roundComplete": false,
       "rounds": [
         {
@@ -605,9 +619,37 @@
       "status": "active",
       "teeTime": "1:32pm",
       "teeTimeTimestamp": "2026-04-10T17:32:00",
-      "thru": "6",
+      "thru": "8",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 8,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "lastName": "Young",
+      "playerId": "57366",
+      "position": "T17",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:44pm",
+      "teeTimeTimestamp": "2026-04-10T17:44:00",
+      "thru": "7",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "014",
@@ -618,7 +660,7 @@
       "isAmateur": false,
       "lastName": "Campbell",
       "playerId": "46443",
-      "position": "T21",
+      "position": "T22",
       "roundComplete": true,
       "rounds": [
         {
@@ -653,7 +695,7 @@
       "isAmateur": false,
       "lastName": "Åberg",
       "playerId": "52955",
-      "position": "T21",
+      "position": "T22",
       "roundComplete": true,
       "rounds": [
         {
@@ -681,15 +723,15 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+2",
       "firstName": "Scottie",
       "isAmateur": false,
       "lastName": "Scheffler",
       "playerId": "46046",
-      "position": "T21",
-      "roundComplete": false,
+      "position": "T22",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -697,27 +739,34 @@
           "roundId": 1,
           "scoreToPar": "-2",
           "strokes": 70
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+2",
+          "strokes": 74
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:19am",
       "teeTimeTimestamp": "2026-04-10T14:19:00",
-      "thru": "16",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "70"
+      "totalStrokesFromCompletedRounds": "144"
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Harris",
       "isAmateur": false,
       "lastName": "English",
       "playerId": "34099",
-      "position": "T21",
-      "roundComplete": false,
+      "position": "T22",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -725,26 +774,61 @@
           "roundId": 1,
           "scoreToPar": "+1",
           "strokes": 73
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "10:31am",
+      "teeTimeTimestamp": "2026-04-10T14:31:00",
+      "thru": "F",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "144"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 15,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "McCarty",
+      "playerId": "59141",
+      "position": "T22",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "10:31am",
-      "teeTimeTimestamp": "2026-04-10T14:31:00",
-      "thru": "16",
+      "teeTime": "11:51am",
+      "teeTimeTimestamp": "2026-04-10T15:51:00",
+      "thru": "14",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "014",
-      "currentHole": 12,
+      "currentHole": 14,
       "currentRound": 2,
       "currentRoundScore": "+3",
       "firstName": "Kurt",
       "isAmateur": false,
       "lastName": "Kitayama",
       "playerId": "48117",
-      "position": "T21",
+      "position": "T22",
       "roundComplete": false,
       "rounds": [
         {
@@ -759,76 +843,20 @@
       "status": "active",
       "teeTime": "12:03pm",
       "teeTimeTimestamp": "2026-04-10T16:03:00",
-      "thru": "11",
+      "thru": "13",
       "total": "E",
       "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "014",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Ryan",
-      "isAmateur": false,
-      "lastName": "Gerard",
-      "playerId": "59018",
-      "position": "T21",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-04-10T16:44:00",
-      "thru": "9",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Nick",
-      "isAmateur": false,
-      "lastName": "Taylor",
-      "playerId": "25493",
-      "position": "T21",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-04-10T16:44:00",
-      "thru": "9",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 9,
+      "currentHole": 11,
       "currentRound": 2,
       "currentRoundScore": "-1",
-      "firstName": "Dustin",
+      "firstName": "Akshay",
       "isAmateur": false,
-      "lastName": "Johnson",
-      "playerId": "30925",
-      "position": "T21",
+      "lastName": "Bhatia",
+      "playerId": "56630",
+      "position": "T22",
       "roundComplete": false,
       "rounds": [
         {
@@ -841,22 +869,22 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:56pm",
-      "teeTimeTimestamp": "2026-04-10T16:56:00",
-      "thru": "8",
+      "teeTime": "1:08pm",
+      "teeTimeTimestamp": "2026-04-10T17:08:00",
+      "thru": "10",
       "total": "E",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "014",
-      "currentHole": 7,
+      "currentHole": 9,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Russell",
       "isAmateur": false,
       "lastName": "Henley",
       "playerId": "34098",
-      "position": "T21",
+      "position": "T22",
       "roundComplete": false,
       "rounds": [
         {
@@ -871,35 +899,7 @@
       "status": "active",
       "teeTime": "1:32pm",
       "teeTimeTimestamp": "2026-04-10T17:32:00",
-      "thru": "6",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 6,
-      "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Cameron",
-      "isAmateur": false,
-      "lastName": "Young",
-      "playerId": "57366",
-      "position": "T21",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:44pm",
-      "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "5",
+      "thru": "8",
       "total": "E",
       "totalStrokesFromCompletedRounds": "73"
     },
@@ -912,7 +912,7 @@
       "isAmateur": false,
       "lastName": "Im",
       "playerId": "39971",
-      "position": "T31",
+      "position": "T30",
       "roundComplete": true,
       "rounds": [
         {
@@ -947,7 +947,7 @@
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T31",
+      "position": "T30",
       "roundComplete": true,
       "rounds": [
         {
@@ -982,7 +982,7 @@
       "isAmateur": false,
       "lastName": "Bridgeman",
       "playerId": "60004",
-      "position": "T31",
+      "position": "T30",
       "roundComplete": true,
       "rounds": [
         {
@@ -1017,7 +1017,7 @@
       "isAmateur": false,
       "lastName": "Spieth",
       "playerId": "34046",
-      "position": "T31",
+      "position": "T30",
       "roundComplete": true,
       "rounds": [
         {
@@ -1052,8 +1052,8 @@
       "isAmateur": false,
       "lastName": "Straka",
       "playerId": "49960",
-      "position": "T31",
-      "roundComplete": false,
+      "position": "T30",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -1061,26 +1061,68 @@
           "roundId": 1,
           "scoreToPar": "+1",
           "strokes": 73
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:07am",
       "teeTimeTimestamp": "2026-04-10T14:07:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "145"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "-3",
+      "firstName": "Marco",
+      "isAmateur": false,
+      "lastName": "Penge",
+      "playerId": "51003",
+      "position": "T30",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 76
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "10:31am",
+      "teeTimeTimestamp": "2026-04-10T14:31:00",
+      "thru": "F",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "145"
     },
     {
       "courseId": "014",
       "currentHole": 13,
       "currentRound": 2,
       "currentRoundScore": "+1",
-      "firstName": "Matt",
+      "firstName": "Ryan",
       "isAmateur": false,
-      "lastName": "McCarty",
-      "playerId": "59141",
-      "position": "T31",
+      "lastName": "Gerard",
+      "playerId": "59018",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1093,11 +1135,67 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "11:51am",
-      "teeTimeTimestamp": "2026-04-10T15:51:00",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-04-10T16:44:00",
       "thru": "12",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "Fitzpatrick",
+      "playerId": "40098",
+      "position": "T30",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:20pm",
+      "teeTimeTimestamp": "2026-04-10T17:20:00",
+      "thru": "9",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Collin",
+      "isAmateur": false,
+      "lastName": "Morikawa",
+      "playerId": "50525",
+      "position": "T30",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:32pm",
+      "teeTimeTimestamp": "2026-04-10T17:32:00",
+      "thru": "8",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "014",
@@ -1108,7 +1206,7 @@
       "isAmateur": false,
       "lastName": "Stevens",
       "playerId": "55893",
-      "position": "T37",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1143,7 +1241,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T37",
+      "position": "T39",
       "roundComplete": true,
       "rounds": [
         {
@@ -1178,8 +1276,8 @@
       "isAmateur": false,
       "lastName": "Thomas",
       "playerId": "33448",
-      "position": "T37",
-      "roundComplete": false,
+      "position": "T39",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -1187,27 +1285,34 @@
           "roundId": 1,
           "scoreToPar": "E",
           "strokes": 72
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+2",
+          "strokes": 74
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:07am",
       "teeTimeTimestamp": "2026-04-10T14:07:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "146"
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+3",
       "firstName": "Gary",
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T37",
-      "roundComplete": false,
+      "position": "T39",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -1215,99 +1320,50 @@
           "roundId": 1,
           "scoreToPar": "-1",
           "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "10:19am",
-      "teeTimeTimestamp": "2026-04-10T14:19:00",
-      "thru": "16",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 17,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Marco",
-      "isAmateur": false,
-      "lastName": "Penge",
-      "playerId": "51003",
-      "position": "T37",
-      "roundComplete": false,
-      "rounds": [
+        },
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 76
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "10:31am",
-      "teeTimeTimestamp": "2026-04-10T14:31:00",
-      "thru": "16",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "76"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 7,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Collin",
-      "isAmateur": false,
-      "lastName": "Morikawa",
-      "playerId": "50525",
-      "position": "T37",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:32pm",
-      "teeTimeTimestamp": "2026-04-10T17:32:00",
-      "thru": "6",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 5,
-      "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Viktor",
-      "isAmateur": false,
-      "lastName": "Hovland",
-      "playerId": "46717",
-      "position": "T37",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
+          "roundId": 2,
           "scoreToPar": "+3",
           "strokes": 75
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:56pm",
-      "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "4",
+      "status": "complete",
+      "teeTime": "10:19am",
+      "teeTimeTimestamp": "2026-04-10T14:19:00",
+      "thru": "F",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "75"
+      "totalStrokesFromCompletedRounds": "146"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Jake",
+      "isAmateur": false,
+      "lastName": "Knapp",
+      "playerId": "47420",
+      "position": "T39",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:32pm",
+      "teeTimeTimestamp": "2026-04-10T16:32:00",
+      "thru": "12",
+      "total": "+2",
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "014",
@@ -1381,13 +1437,13 @@
     },
     {
       "courseId": "014",
-      "currentHole": 10,
+      "currentHole": 16,
       "currentRound": 2,
-      "currentRoundScore": "+3",
-      "firstName": "Keegan",
+      "currentRoundScore": "E",
+      "firstName": "Charl",
       "isAmateur": false,
-      "lastName": "Bradley",
-      "playerId": "33141",
+      "lastName": "Schwartzel",
+      "playerId": "26331",
       "position": "T44",
       "roundComplete": false,
       "rounds": [
@@ -1395,27 +1451,27 @@
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 72
+          "scoreToPar": "+3",
+          "strokes": 75
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-04-10T16:44:00",
-      "thru": "9",
+      "teeTime": "11:39am",
+      "teeTimeTimestamp": "2026-04-10T15:39:00",
+      "thru": "15",
       "total": "+3",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "014",
-      "currentHole": 8,
+      "currentHole": 10,
       "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Matt",
+      "currentRoundScore": "-1",
+      "firstName": "Bryson",
       "isAmateur": false,
-      "lastName": "Fitzpatrick",
-      "playerId": "40098",
+      "lastName": "DeChambeau",
+      "playerId": "47959",
       "position": "T44",
       "roundComplete": false,
       "rounds": [
@@ -1423,17 +1479,17 @@
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 74
+          "scoreToPar": "+4",
+          "strokes": 76
         }
       ],
       "startingHole": 1,
       "status": "active",
       "teeTime": "1:20pm",
       "teeTimeTimestamp": "2026-04-10T17:20:00",
-      "thru": "7",
+      "thru": "9",
       "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "014",
@@ -1542,7 +1598,7 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Si Woo",
@@ -1550,7 +1606,7 @@
       "lastName": "Kim",
       "playerId": "37455",
       "position": "T48",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -1558,47 +1614,26 @@
           "roundId": 1,
           "scoreToPar": "+3",
           "strokes": 75
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+1",
+          "strokes": 73
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:31am",
       "teeTimeTimestamp": "2026-04-10T14:31:00",
-      "thru": "16",
+      "thru": "F",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
+      "totalStrokesFromCompletedRounds": "148"
     },
     {
       "courseId": "014",
-      "currentHole": 13,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Charl",
-      "isAmateur": false,
-      "lastName": "Schwartzel",
-      "playerId": "26331",
-      "position": "T48",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "11:39am",
-      "teeTimeTimestamp": "2026-04-10T15:39:00",
-      "thru": "12",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 13,
+      "currentHole": 15,
       "currentRound": 2,
       "currentRoundScore": "-2",
       "firstName": "Rasmus",
@@ -1620,19 +1655,19 @@
       "status": "active",
       "teeTime": "11:51am",
       "teeTimeTimestamp": "2026-04-10T15:51:00",
-      "thru": "12",
+      "thru": "14",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "014",
-      "currentHole": 11,
+      "currentHole": 13,
       "currentRound": 2,
-      "currentRoundScore": "+2",
-      "firstName": "Cameron",
+      "currentRoundScore": "+4",
+      "firstName": "Keegan",
       "isAmateur": false,
-      "lastName": "Smith",
-      "playerId": "35891",
+      "lastName": "Bradley",
+      "playerId": "33141",
       "position": "T48",
       "roundComplete": false,
       "rounds": [
@@ -1640,21 +1675,49 @@
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 74
+          "scoreToPar": "E",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:32pm",
-      "teeTimeTimestamp": "2026-04-10T16:32:00",
-      "thru": "10",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-04-10T16:44:00",
+      "thru": "12",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "014",
-      "currentHole": 5,
+      "currentHole": 8,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "lastName": "Hovland",
+      "playerId": "46717",
+      "position": "T48",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:56pm",
+      "teeTimeTimestamp": "2026-04-10T17:56:00",
+      "thru": "7",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 8,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Patrick",
@@ -1676,7 +1739,7 @@
       "status": "active",
       "teeTime": "1:56pm",
       "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "4",
+      "thru": "7",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "77"
     },
@@ -1787,41 +1850,13 @@
     },
     {
       "courseId": "014",
-      "currentHole": 7,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Bryson",
-      "isAmateur": false,
-      "lastName": "DeChambeau",
-      "playerId": "47959",
-      "position": "T56",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 76
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:20pm",
-      "teeTimeTimestamp": "2026-04-10T17:20:00",
-      "thru": "6",
-      "total": "+5",
-      "totalStrokesFromCompletedRounds": "76"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 5,
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "E",
-      "firstName": "Alex",
+      "firstName": "Ryan",
       "isAmateur": false,
-      "lastName": "Noren",
-      "playerId": "27349",
+      "lastName": "Fox",
+      "playerId": "29936",
       "position": "T56",
       "roundComplete": false,
       "rounds": [
@@ -1835,11 +1870,67 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:56pm",
-      "teeTimeTimestamp": "2026-04-10T17:56:00",
-      "thru": "4",
+      "teeTime": "11:39am",
+      "teeTimeTimestamp": "2026-04-10T15:39:00",
+      "thru": "15",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "77"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Bubba",
+      "isAmateur": false,
+      "lastName": "Watson",
+      "playerId": "25804",
+      "position": "T56",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 76
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2026-04-10T16:15:00",
+      "thru": "13",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "76"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "lastName": "Smith",
+      "playerId": "35891",
+      "position": "T56",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:32pm",
+      "teeTimeTimestamp": "2026-04-10T16:32:00",
+      "thru": "12",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "014",
@@ -1850,7 +1941,7 @@
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "24024",
-      "position": "T61",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -1885,7 +1976,7 @@
       "isAmateur": false,
       "lastName": "Højgaard",
       "playerId": "52453",
-      "position": "T61",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -1913,14 +2004,14 @@
     },
     {
       "courseId": "014",
-      "currentHole": 15,
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Rasmus",
       "isAmateur": false,
       "lastName": "Neergaard-Petersen",
       "playerId": "52689",
-      "position": "T61",
+      "position": "T62",
       "roundComplete": false,
       "rounds": [
         {
@@ -1935,48 +2026,20 @@
       "status": "active",
       "teeTime": "11:15am",
       "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "14",
+      "thru": "16",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "014",
-      "currentHole": 13,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Ryan",
-      "isAmateur": false,
-      "lastName": "Fox",
-      "playerId": "29936",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "11:39am",
-      "teeTimeTimestamp": "2026-04-10T15:39:00",
-      "thru": "12",
-      "total": "+6",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 12,
+      "currentHole": 14,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Casey",
       "isAmateur": false,
       "lastName": "Jarvis",
       "playerId": "57688",
-      "position": "T61",
+      "position": "T62",
       "roundComplete": false,
       "rounds": [
         {
@@ -1991,37 +2054,37 @@
       "status": "active",
       "teeTime": "12:03pm",
       "teeTimeTimestamp": "2026-04-10T16:03:00",
-      "thru": "11",
+      "thru": "13",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "014",
-      "currentHole": 11,
+      "currentHole": 8,
       "currentRound": 2,
-      "currentRoundScore": "+2",
-      "firstName": "Bubba",
+      "currentRoundScore": "+1",
+      "firstName": "Alex",
       "isAmateur": false,
-      "lastName": "Watson",
-      "playerId": "25804",
-      "position": "T61",
+      "lastName": "Noren",
+      "playerId": "27349",
+      "position": "T62",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 76
+          "scoreToPar": "+5",
+          "strokes": 77
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:15pm",
-      "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "10",
+      "teeTime": "1:56pm",
+      "teeTimeTimestamp": "2026-04-10T17:56:00",
+      "thru": "7",
       "total": "+6",
-      "totalStrokesFromCompletedRounds": "76"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "014",
@@ -2095,7 +2158,7 @@
     },
     {
       "courseId": "014",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Robert",
@@ -2103,7 +2166,7 @@
       "lastName": "MacIntyre",
       "playerId": "52215",
       "position": "T67",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "014",
@@ -2111,71 +2174,22 @@
           "roundId": 1,
           "scoreToPar": "+8",
           "strokes": 80
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 71
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "10:19am",
       "teeTimeTimestamp": "2026-04-10T14:19:00",
-      "thru": "16",
+      "thru": "F",
       "total": "+7",
-      "totalStrokesFromCompletedRounds": "80"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 11,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Nicolas",
-      "isAmateur": false,
-      "lastName": "Echavarria",
-      "playerId": "51349",
-      "position": "T67",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 79
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:15pm",
-      "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "10",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "79"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 6,
-      "currentRound": 2,
-      "currentRoundScore": "+2",
-      "firstName": "Mason",
-      "isAmateur": true,
-      "lastName": "Howell",
-      "playerId": "68607",
-      "position": "T67",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:44pm",
-      "teeTimeTimestamp": "2026-04-10T17:44:00",
-      "thru": "5",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "77"
+      "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "014",
@@ -2186,7 +2200,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "39975",
-      "position": "T72",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2221,7 +2235,7 @@
       "isAmateur": true,
       "lastName": "Fang",
       "playerId": "68932",
-      "position": "T72",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2256,7 +2270,7 @@
       "isAmateur": false,
       "lastName": "Berger",
       "playerId": "40026",
-      "position": "T72",
+      "position": "T70",
       "roundComplete": true,
       "rounds": [
         {
@@ -2284,14 +2298,42 @@
     },
     {
       "courseId": "014",
-      "currentHole": 13,
+      "currentHole": 17,
+      "currentRound": 2,
+      "currentRoundScore": "+6",
+      "firstName": "José María",
+      "isAmateur": false,
+      "lastName": "Olazábal",
+      "playerId": "06373",
+      "position": "T70",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2026-04-10T15:15:00",
+      "thru": "16",
+      "total": "+8",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "+4",
       "firstName": "Jackson",
       "isAmateur": true,
       "lastName": "Herrington",
       "playerId": "70148",
-      "position": "T72",
+      "position": "T70",
       "roundComplete": false,
       "rounds": [
         {
@@ -2306,37 +2348,9 @@
       "status": "active",
       "teeTime": "11:27am",
       "teeTimeTimestamp": "2026-04-10T15:27:00",
-      "thru": "12",
+      "thru": "16",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "76"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 13,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Vijay",
-      "isAmateur": false,
-      "lastName": "Singh",
-      "playerId": "06567",
-      "position": "T72",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 79
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "11:51am",
-      "teeTimeTimestamp": "2026-04-10T15:51:00",
-      "thru": "12",
-      "total": "+8",
-      "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "014",
@@ -2347,7 +2361,7 @@
       "isAmateur": false,
       "lastName": "Couples",
       "playerId": "01226",
-      "position": "T77",
+      "position": "T75",
       "roundComplete": true,
       "rounds": [
         {
@@ -2377,85 +2391,57 @@
       "courseId": "014",
       "currentHole": 15,
       "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Carlos",
+      "currentRoundScore": "+2",
+      "firstName": "Vijay",
       "isAmateur": false,
-      "lastName": "Ortiz",
-      "playerId": "33667",
-      "position": "T77",
+      "lastName": "Singh",
+      "playerId": "06567",
+      "position": "T75",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+8",
-          "strokes": 80
+          "scoreToPar": "+7",
+          "strokes": 79
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "11:03am",
-      "teeTimeTimestamp": "2026-04-10T15:03:00",
+      "teeTime": "11:51am",
+      "teeTimeTimestamp": "2026-04-10T15:51:00",
       "thru": "14",
       "total": "+9",
-      "totalStrokesFromCompletedRounds": "80"
+      "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "014",
-      "currentHole": 15,
+      "currentHole": 8,
       "currentRound": 2,
-      "currentRoundScore": "+7",
-      "firstName": "José María",
-      "isAmateur": false,
-      "lastName": "Olazábal",
-      "playerId": "06373",
-      "position": "T77",
+      "currentRoundScore": "+4",
+      "firstName": "Mason",
+      "isAmateur": true,
+      "lastName": "Howell",
+      "playerId": "68607",
+      "position": "T75",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 74
+          "scoreToPar": "+5",
+          "strokes": 77
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "11:15am",
-      "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "14",
+      "teeTime": "1:44pm",
+      "teeTimeTimestamp": "2026-04-10T17:44:00",
+      "thru": "7",
       "total": "+9",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 14,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Sami",
-      "isAmateur": false,
-      "lastName": "Valimaki",
-      "playerId": "52666",
-      "position": "T77",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+8",
-          "strokes": 80
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "11:27am",
-      "teeTimeTimestamp": "2026-04-10T15:27:00",
-      "thru": "13",
-      "total": "+9",
-      "totalStrokesFromCompletedRounds": "80"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "014",
@@ -2466,7 +2452,7 @@
       "isAmateur": false,
       "lastName": "Weir",
       "playerId": "10423",
-      "position": "T81",
+      "position": "T78",
       "roundComplete": true,
       "rounds": [
         {
@@ -2494,42 +2480,70 @@
     },
     {
       "courseId": "014",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "+6",
-      "firstName": "John",
+      "currentRoundScore": "+2",
+      "firstName": "Carlos",
       "isAmateur": false,
-      "lastName": "Keefer",
-      "playerId": "63454",
-      "position": "T81",
+      "lastName": "Ortiz",
+      "playerId": "33667",
+      "position": "T78",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "014",
           "courseName": "Augusta National Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 76
+          "scoreToPar": "+8",
+          "strokes": 80
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "10:51am",
-      "teeTimeTimestamp": "2026-04-10T14:51:00",
-      "thru": "15",
+      "teeTime": "11:03am",
+      "teeTimeTimestamp": "2026-04-10T15:03:00",
+      "thru": "17",
       "total": "+10",
-      "totalStrokesFromCompletedRounds": "76"
+      "totalStrokesFromCompletedRounds": "80"
     },
     {
       "courseId": "014",
-      "currentHole": 13,
+      "currentHole": 17,
+      "currentRound": 2,
+      "currentRoundScore": "+2",
+      "firstName": "Sami",
+      "isAmateur": false,
+      "lastName": "Valimaki",
+      "playerId": "52666",
+      "position": "T78",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+8",
+          "strokes": 80
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "11:27am",
+      "teeTimeTimestamp": "2026-04-10T15:27:00",
+      "thru": "16",
+      "total": "+10",
+      "totalStrokesFromCompletedRounds": "80"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "+3",
       "firstName": "Max",
       "isAmateur": false,
       "lastName": "Greyserman",
       "playerId": "51977",
-      "position": "T81",
+      "position": "T78",
       "roundComplete": false,
       "rounds": [
         {
@@ -2544,7 +2558,7 @@
       "status": "active",
       "teeTime": "11:39am",
       "teeTimeTimestamp": "2026-04-10T15:39:00",
-      "thru": "12",
+      "thru": "15",
       "total": "+10",
       "totalStrokesFromCompletedRounds": "79"
     },
@@ -2557,7 +2571,7 @@
       "isAmateur": false,
       "lastName": "Lee",
       "playerId": "37378",
-      "position": "T84",
+      "position": "T82",
       "roundComplete": true,
       "rounds": [
         {
@@ -2592,7 +2606,7 @@
       "isAmateur": true,
       "lastName": "Laopakdee",
       "playerId": "70146",
-      "position": "T84",
+      "position": "T82",
       "roundComplete": true,
       "rounds": [
         {
@@ -2620,14 +2634,49 @@
     },
     {
       "courseId": "014",
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "+7",
+      "firstName": "John",
+      "isAmateur": false,
+      "lastName": "Keefer",
+      "playerId": "63454",
+      "position": "T82",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 76
+        },
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+7",
+          "strokes": 79
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "10:51am",
+      "teeTimeTimestamp": "2026-04-10T14:51:00",
+      "thru": "F",
+      "total": "+11",
+      "totalStrokesFromCompletedRounds": "155"
+    },
+    {
+      "courseId": "014",
       "currentHole": 14,
       "currentRound": 2,
       "currentRoundScore": "+4",
-      "firstName": "Angel",
+      "firstName": "Nicolas",
       "isAmateur": false,
-      "lastName": "Cabrera",
-      "playerId": "20848",
-      "position": "T84",
+      "lastName": "Echavarria",
+      "playerId": "51349",
+      "position": "T82",
       "roundComplete": false,
       "rounds": [
         {
@@ -2640,50 +2689,22 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "11:27am",
-      "teeTimeTimestamp": "2026-04-10T15:27:00",
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2026-04-10T16:15:00",
       "thru": "13",
       "total": "+11",
       "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "014",
-      "currentHole": 11,
-      "currentRound": 2,
-      "currentRoundScore": "+3",
-      "firstName": "Brandon",
-      "isAmateur": true,
-      "lastName": "Holtz",
-      "playerId": "70147",
-      "position": "87",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "014",
-          "courseName": "Augusta National Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+9",
-          "strokes": 81
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:15pm",
-      "teeTimeTimestamp": "2026-04-10T16:15:00",
-      "thru": "10",
-      "total": "+12",
-      "totalStrokesFromCompletedRounds": "81"
-    },
-    {
-      "courseId": "014",
-      "currentHole": 15,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+2",
       "firstName": "Naoyuki",
       "isAmateur": false,
       "lastName": "Kataoka",
       "playerId": "46879",
-      "position": "88",
+      "position": "T86",
       "roundComplete": false,
       "rounds": [
         {
@@ -2698,9 +2719,37 @@
       "status": "active",
       "teeTime": "11:03am",
       "teeTimeTimestamp": "2026-04-10T15:03:00",
-      "thru": "14",
+      "thru": "17",
       "total": "+14",
       "totalStrokesFromCompletedRounds": "84"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 17,
+      "currentRound": 2,
+      "currentRoundScore": "+7",
+      "firstName": "Angel",
+      "isAmateur": false,
+      "lastName": "Cabrera",
+      "playerId": "20848",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+7",
+          "strokes": 79
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "11:27am",
+      "teeTimeTimestamp": "2026-04-10T15:27:00",
+      "thru": "16",
+      "total": "+14",
+      "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "014",
@@ -2711,7 +2760,7 @@
       "isAmateur": true,
       "lastName": "Pulcini",
       "playerId": "70145",
-      "position": "T89",
+      "position": "T88",
       "roundComplete": true,
       "rounds": [
         {
@@ -2739,14 +2788,14 @@
     },
     {
       "courseId": "014",
-      "currentHole": 15,
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "+3",
       "firstName": "Aldrich",
       "isAmateur": false,
       "lastName": "Potgieter",
       "playerId": "63343",
-      "position": "T89",
+      "position": "T88",
       "roundComplete": false,
       "rounds": [
         {
@@ -2761,9 +2810,37 @@
       "status": "active",
       "teeTime": "11:15am",
       "teeTimeTimestamp": "2026-04-10T15:15:00",
-      "thru": "14",
+      "thru": "16",
       "total": "+15",
       "totalStrokesFromCompletedRounds": "84"
+    },
+    {
+      "courseId": "014",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "+7",
+      "firstName": "Brandon",
+      "isAmateur": true,
+      "lastName": "Holtz",
+      "playerId": "70147",
+      "position": "90",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+9",
+          "strokes": 81
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2026-04-10T16:15:00",
+      "thru": "13",
+      "total": "+16",
+      "totalStrokesFromCompletedRounds": "81"
     },
     {
       "courseId": "014",
@@ -2805,7 +2882,7 @@
   "roundId": 2,
   "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-04-10T19:15:12.160000",
+  "timestamp": "2026-04-10T19:58:12.912000",
   "tournId": "014",
   "year": "2026"
 }
