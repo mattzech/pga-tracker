@@ -60,6 +60,7 @@ type Leaderboard struct {
 
 var (
 	members = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
+	tournID = "012"
 )
 
 func main() {
@@ -241,7 +242,7 @@ func loadTeam(filePath string) (Team, error) {
 func fetchLeaderboard() error {
 	apiKey := os.Getenv("RAPID_GOLF_API_KEY")
 
-	url := "https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=014&year=2026"
+	url := fmt.Sprintf("https://live-golf-data.p.rapidapi.com/leaderboard?orgId=1&tournId=%s&year=2026", tournID)
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
