@@ -1,6 +1,6 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-04-16T21:27:32.792000",
+  "lastUpdated": "2026-04-16T22:14:32.862000",
   "leaderboardRows": [
     {
       "courseId": "012",
@@ -230,12 +230,40 @@
       "courseId": "012",
       "currentHole": 18,
       "currentRound": 1,
+      "currentRoundScore": "-6",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "Fitzpatrick",
+      "playerId": "40098",
+      "position": "T4",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-04-16T17:50:00",
+      "thru": "F",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
+    },
+    {
+      "courseId": "012",
+      "currentHole": 18,
+      "currentRound": 1,
       "currentRoundScore": "-5",
       "firstName": "Robert",
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T9",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -263,7 +291,7 @@
       "isAmateur": false,
       "lastName": "Im",
       "playerId": "39971",
-      "position": "T9",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -291,7 +319,7 @@
       "isAmateur": false,
       "lastName": "Straka",
       "playerId": "49960",
-      "position": "T9",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -319,7 +347,7 @@
       "isAmateur": false,
       "lastName": "Berger",
       "playerId": "40026",
-      "position": "T9",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -347,7 +375,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T9",
+      "position": "T10",
       "roundComplete": true,
       "rounds": [
         {
@@ -365,26 +393,6 @@
       "thru": "F",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "012",
-      "currentHole": 16,
-      "currentRound": 1,
-      "currentRoundScore": "-5",
-      "firstName": "Matt",
-      "isAmateur": false,
-      "lastName": "Fitzpatrick",
-      "playerId": "40098",
-      "position": "T9",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-04-16T17:50:00",
-      "thru": "16",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "-"
     },
     {
       "courseId": "012",
@@ -668,7 +676,7 @@
     },
     {
       "courseId": "012",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-3",
       "firstName": "Russell",
@@ -676,19 +684,27 @@
       "lastName": "Henley",
       "playerId": "34098",
       "position": "T20",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:30pm",
       "teeTimeTimestamp": "2026-04-16T17:30:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "012",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-3",
       "firstName": "Scottie",
@@ -696,15 +712,23 @@
       "lastName": "Scheffler",
       "playerId": "46046",
       "position": "T20",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:50pm",
       "teeTimeTimestamp": "2026-04-16T17:50:00",
-      "thru": "16",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "012",
@@ -1156,7 +1180,7 @@
     },
     {
       "courseId": "012",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-2",
       "firstName": "Xander",
@@ -1164,15 +1188,23 @@
       "lastName": "Schauffele",
       "playerId": "48081",
       "position": "T27",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:30pm",
       "teeTimeTimestamp": "2026-04-16T17:30:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-2",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "012",
@@ -1372,7 +1404,7 @@
     },
     {
       "courseId": "012",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Sam",
@@ -1380,19 +1412,27 @@
       "lastName": "Burns",
       "playerId": "47504",
       "position": "T44",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-04-16T17:40:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "012",
-      "currentHole": 15,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Jason",
@@ -1400,15 +1440,51 @@
       "lastName": "Day",
       "playerId": "28089",
       "position": "T44",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:00pm",
       "teeTimeTimestamp": "2026-04-16T18:00:00",
-      "thru": "15",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "012",
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "-1",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "Homa",
+      "playerId": "39977",
+      "position": "T44",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:10pm",
+      "teeTimeTimestamp": "2026-04-16T18:10:00",
+      "thru": "F",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "012",
@@ -1419,7 +1495,7 @@
       "isAmateur": false,
       "lastName": "Blanchet",
       "playerId": "54788",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1447,7 +1523,7 @@
       "isAmateur": false,
       "lastName": "Poston",
       "playerId": "49771",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1475,7 +1551,7 @@
       "isAmateur": false,
       "lastName": "Hoge",
       "playerId": "35532",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1503,7 +1579,7 @@
       "isAmateur": false,
       "lastName": "Harman",
       "playerId": "27644",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1531,7 +1607,7 @@
       "isAmateur": false,
       "lastName": "Young",
       "playerId": "57366",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1559,7 +1635,7 @@
       "isAmateur": false,
       "lastName": "Horschel",
       "playerId": "29420",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1587,7 +1663,7 @@
       "isAmateur": false,
       "lastName": "Putnam",
       "playerId": "34256",
-      "position": "T53",
+      "position": "T54",
       "roundComplete": true,
       "rounds": [
         {
@@ -1608,43 +1684,31 @@
     },
     {
       "courseId": "012",
-      "currentHole": 15,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "Jake",
       "isAmateur": false,
       "lastName": "Knapp",
       "playerId": "47420",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T54",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:00pm",
       "teeTimeTimestamp": "2026-04-16T18:00:00",
-      "thru": "15",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "012",
-      "currentHole": 14,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "Homa",
-      "playerId": "39977",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:10pm",
-      "teeTimeTimestamp": "2026-04-16T18:10:00",
-      "thru": "14",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "012",
@@ -2012,7 +2076,7 @@
     },
     {
       "courseId": "012",
-      "currentHole": 14,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+3",
       "firstName": "Sudarshan",
@@ -2020,15 +2084,23 @@
       "lastName": "Yellamaraju",
       "playerId": "60386",
       "position": "T70",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 74
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:10pm",
       "teeTimeTimestamp": "2026-04-16T18:10:00",
-      "thru": "14",
+      "thru": "F",
       "total": "+3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "012",
@@ -2172,7 +2244,7 @@
     },
     {
       "courseId": "012",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+5",
       "firstName": "Tommy",
@@ -2180,15 +2252,23 @@
       "lastName": "Fleetwood",
       "playerId": "30911",
       "position": "T80",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "012",
+          "courseName": "Harbour Town Golf Links",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 76
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-04-16T17:40:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+5",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "012",
@@ -2221,9 +2301,9 @@
   ],
   "orgId": "1",
   "roundId": 1,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-04-16T21:27:32.792000",
+  "timestamp": "2026-04-16T22:14:32.862000",
   "tournId": "012",
   "year": "2026"
 }
