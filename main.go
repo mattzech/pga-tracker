@@ -15,10 +15,17 @@ import (
 	"time"
 )
 
+var (
+	members   = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
+	tournID   = "556"
+	tournName = "Cadillac Championship"
+)
+
 type PageData struct {
 	Teams       []Team
 	LastUpdated string
 	CurrentYear int
+	TournName   string
 }
 
 type Team struct {
@@ -103,11 +110,6 @@ type Leaderboard struct {
 	} `json:"cutLines"`
 	LeaderboardRows []LeaderboardRow `json:"leaderboardRows"`
 }
-
-var (
-	members = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
-	tournID = "556"
-)
 
 func main() {
 	refresh := flag.Bool("refresh", false, "Fetch latest leaderboard from API")
@@ -359,6 +361,7 @@ func renderScoreboard(teams []Team) error {
 		Teams:       teams,
 		LastUpdated: now.Format("Jan 2, 2006 3:04PM MST"),
 		CurrentYear: now.Year(),
+		TournName:   tournName,
 	}
 	
 

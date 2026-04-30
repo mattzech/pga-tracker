@@ -70,10 +70,17 @@
             text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
             margin: 0.1rem 0;
         }
+        .current-tournament {
+            font-size: 1.5rem;
+            color: #fff;
+            margin: 0 0 0.5rem 0;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+        }
     </style>
 </head>
 <body>
     <h1>Fantasy Golf Live Scoreboard</h1>
+    {{ if .TournName }}<h2 class="current-tournament">⛳ {{ .TournName }}</h2>{{ end }}
     <div class="updated-time">Last updated: {{ .LastUpdated }}</div>
     {{ $year := .CurrentYear }}
     {{ range .Teams }}
