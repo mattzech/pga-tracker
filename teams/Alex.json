@@ -1,16 +1,16 @@
 {
     "teamName": "The Short Kings",
-    "history": [
-        "2025 Masters",
-        "2025 PGA Championship",
-        "2026 Masters"
+    "tournaments": [
+        {"year": 2025, "name": "Masters", "major": true, "winnings": 0},
+        {"year": 2025, "name": "PGA Championship", "major": true, "winnings": 0},
+        {"year": 2026, "name": "Masters", "major": true, "winnings": 0}
     ],
     "players": [
+        "Colin Morikawa",
+        "Jordan Spieth",
         "Russell Henley",
-        "Ludvig Åberg",
-        "Viktor Hovland",
-        "J.J. Spaun",
-        "Max Homa",
-        "Akshay Bhatia"
+        "Jason Day",
+        "Sepp Straka",
+        "Chris Gotterup"
     ]
 }

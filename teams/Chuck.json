@@ -1,14 +1,15 @@
 {
     "teamName": "Team Brüno",
-    "history": [
-        "2025 The Open"
+    "tournaments": [
+        {"year": 2025, "name": "The Open", "major": true, "winnings": 0},
+        {"year": 2026, "name": "RBC Heritage", "major": false, "winnings": 25}
     ],
     "players": [
-        "Scottie Scheffler",
-        "Patrick Cantlay",
-        "Robert MacIntyre",
-        "Gary Woodland",
-        "Sepp Straka",
-        "Jason Day"
+        "J.J. Spaun",
+        "Viktor Hovland",
+        "Andrew Putnam",
+        "Rickie Fowler",
+        "Michael Thorbjornsen",
+        "Keith Mitchell"
     ]
 }

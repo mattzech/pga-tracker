@@ -18,13 +18,59 @@ import (
 type PageData struct {
 	Teams       []Team
 	LastUpdated string
+	CurrentYear int
 }
 
 type Team struct {
-	TeamName   string   `json:"teamName"`
-	Players    []string `json:"players"`
-	PlayerScores []Player `json:"-"`
-	History    []string `json:"history"`
+	TeamName     string       `json:"teamName"`
+	Players      []string     `json:"players"`
+	PlayerScores []Player     `json:"-"`
+	Tournaments  []Tournament `json:"tournaments"`
+}
+
+type Tournament struct {
+	Year     int    `json:"year"`
+	Name     string `json:"name"`
+	Major    bool   `json:"major"`
+	Winnings int    `json:"winnings"`
+}
+
+func (t Team) LifetimeWinnings() int {
+	total := 0
+	for _, tr := range t.Tournaments {
+		total += tr.Winnings
+	}
+	return total
+}
+
+func (t Team) YearWinnings(year int) int {
+	total := 0
+	for _, tr := range t.Tournaments {
+		if tr.Year == year {
+			total += tr.Winnings
+		}
+	}
+	return total
+}
+
+func (t Team) Majors() []Tournament {
+	var out []Tournament
+	for _, tr := range t.Tournaments {
+		if tr.Major {
+			out = append(out, tr)
+		}
+	}
+	return out
+}
+
+func (t Team) NonMajors() []Tournament {
+	var out []Tournament
+	for _, tr := range t.Tournaments {
+		if !tr.Major {
+			out = append(out, tr)
+		}
+	}
+	return out
 }
 
 type Player struct {
@@ -60,7 +106,7 @@ type Leaderboard struct {
 
 var (
 	members = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
-	tournID = "012"
+	tournID = "556"
 )
 
 func main() {
@@ -308,9 +354,11 @@ func renderScoreboard(teams []Team) error {
 	}
 	defer out.Close()
 
+	now := time.Now()
 	data := PageData{
 		Teams:       teams,
-		LastUpdated: time.Now().Format("Jan 2, 2006 3:04PM MST"),
+		LastUpdated: now.Format("Jan 2, 2006 3:04PM MST"),
+		CurrentYear: now.Year(),
 	}
 	
 

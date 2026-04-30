@@ -1,15 +1,15 @@
 {
     "teamName": "Team Lumber Yard",
-    "history": [
-        "2024 PGA Championship",
-        "2025 U.S. Open"
+    "tournaments": [
+        {"year": 2024, "name": "PGA Championship", "major": true, "winnings": 0},
+        {"year": 2025, "name": "U.S. Open", "major": true, "winnings": 0}
     ],
     "players": [
-        "Xander Schauffele",
-        "Tommy Fleetwood",
+        "Scottie Scheffler",
+        "Akshay Bhatia",
         "Justin Thomas",
-        "Jacob Bridgeman",
-        "Brian Campbell",
-        "Rickie Fowler"
+        "Shane Lowry",
+        "Gary Woodland",
+        "Andrew Novak"
     ]
 }
