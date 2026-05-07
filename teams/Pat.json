@@ -1,15 +1,31 @@
 {
     "teamName": "Worldwide White Guys",
     "tournaments": [
-        {"year": 2024, "name": "Masters", "major": true, "winnings": 0},
-        {"year": 2024, "name": "U.S. Open", "major": true, "winnings": 0}
+        {
+            "year": 2024,
+            "name": "Masters",
+            "major": true,
+            "winnings": 0
+        },
+        {
+            "year": 2024,
+            "name": "U.S. Open",
+            "major": true,
+            "winnings": 0
+        },
+        {
+            "year": 2026,
+            "name": "Cadillac Championship",
+            "major": false,
+            "winnings": 20
+        }
     ],
     "players": [
-        "Cameron Young",
+        "Ludvig Åberg",
         "Tommy Fleetwood",
-        "Sam Burns",
-        "Nicolai Højgaard",
-        "Aldrich Potgieter",
-        "Keegan Bradley"
+        "Robert MacIntyre",
+        "Jason Day",
+        "Adam Scott",
+        "Bud Cauley"
     ]
 }
