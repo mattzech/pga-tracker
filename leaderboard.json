@@ -1,6 +1,6 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-05-14T23:34:32.824000",
+  "lastUpdated": "2026-05-15T00:24:53.027000",
   "leaderboardRows": [
     {
       "courseId": "773",
@@ -144,7 +144,7 @@
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-3",
       "firstName": "Scottie",
@@ -152,19 +152,27 @@
       "lastName": "Scheffler",
       "playerId": "46046",
       "position": "T1",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:05pm",
       "teeTimeTimestamp": "2026-05-14T18:05:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "67"
     },
     {
       "courseId": "773",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-3",
       "firstName": "Alex",
@@ -172,15 +180,23 @@
       "lastName": "Smalley",
       "playerId": "46340",
       "position": "T1",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:16pm",
       "teeTimeTimestamp": "2026-05-14T18:16:00",
-      "thru": "16",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "67"
     },
     {
       "courseId": "773",
@@ -800,7 +816,7 @@
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Justin",
@@ -808,19 +824,55 @@
       "lastName": "Thomas",
       "playerId": "33448",
       "position": "T15",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:54pm",
       "teeTimeTimestamp": "2026-05-14T17:54:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "773",
-      "currentHole": 16,
+      "currentHole": 9,
+      "currentRound": 1,
+      "currentRoundScore": "-1",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Stevens",
+      "playerId": "55893",
+      "position": "T15",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "2:11pm",
+      "teeTimeTimestamp": "2026-05-14T18:11:00",
+      "thru": "F*",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Chandler",
@@ -828,15 +880,51 @@
       "lastName": "Blanchet",
       "playerId": "54788",
       "position": "T15",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:16pm",
       "teeTimeTimestamp": "2026-05-14T18:16:00",
-      "thru": "16",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 9,
+      "currentRound": 1,
+      "currentRoundScore": "-1",
+      "firstName": "Matti",
+      "isAmateur": false,
+      "lastName": "Schmid",
+      "playerId": "48867",
+      "position": "T15",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "2:22pm",
+      "teeTimeTimestamp": "2026-05-14T18:22:00",
+      "thru": "F*",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "773",
@@ -847,7 +935,7 @@
       "isAmateur": false,
       "lastName": "Hoey",
       "playerId": "51696",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -875,7 +963,7 @@
       "isAmateur": false,
       "lastName": "Burns",
       "playerId": "47504",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -903,7 +991,7 @@
       "isAmateur": false,
       "lastName": "Harman",
       "playerId": "27644",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -931,7 +1019,7 @@
       "isAmateur": false,
       "lastName": "Cantlay",
       "playerId": "35450",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -959,7 +1047,7 @@
       "isAmateur": false,
       "lastName": "Fowler",
       "playerId": "32102",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -987,7 +1075,7 @@
       "isAmateur": false,
       "lastName": "Fox",
       "playerId": "29936",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1015,7 +1103,7 @@
       "isAmateur": false,
       "lastName": "Block",
       "playerId": "22764",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1043,7 +1131,7 @@
       "isAmateur": false,
       "lastName": "Kitayama",
       "playerId": "48117",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1071,7 +1159,7 @@
       "isAmateur": false,
       "lastName": "Jarvis",
       "playerId": "57688",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1099,7 +1187,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1127,7 +1215,7 @@
       "isAmateur": false,
       "lastName": "Spaun",
       "playerId": "39324",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1155,7 +1243,7 @@
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T32",
+      "position": "T34",
       "roundComplete": true,
       "rounds": [
         {
@@ -1176,103 +1264,87 @@
     },
     {
       "courseId": "773",
-      "currentHole": 8,
+      "currentHole": 9,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "Aaron",
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T34",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:00pm",
       "teeTimeTimestamp": "2026-05-14T18:00:00",
-      "thru": "17*",
+      "thru": "F*",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "Matt",
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "40098",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T34",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:05pm",
       "teeTimeTimestamp": "2026-05-14T18:05:00",
-      "thru": "17",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "Justin",
       "isAmateur": false,
       "lastName": "Rose",
       "playerId": "22405",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T34",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:05pm",
       "teeTimeTimestamp": "2026-05-14T18:05:00",
-      "thru": "17",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 8,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Sam",
-      "isAmateur": false,
-      "lastName": "Stevens",
-      "playerId": "55893",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "2:11pm",
-      "teeTimeTimestamp": "2026-05-14T18:11:00",
-      "thru": "17*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 7,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Matti",
-      "isAmateur": false,
-      "lastName": "Schmid",
-      "playerId": "48867",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "2:22pm",
-      "teeTimeTimestamp": "2026-05-14T18:22:00",
-      "thru": "16*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "773",
@@ -1752,7 +1824,7 @@
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+1",
       "firstName": "Cameron",
@@ -1760,35 +1832,23 @@
       "lastName": "Young",
       "playerId": "57366",
       "position": "T49",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:54pm",
       "teeTimeTimestamp": "2026-05-14T17:54:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 15,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Bernd",
-      "isAmateur": false,
-      "lastName": "Wiesberger",
-      "playerId": "29454",
-      "position": "T49",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:27pm",
-      "teeTimeTimestamp": "2026-05-14T18:27:00",
-      "thru": "15",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "773",
@@ -1799,7 +1859,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "55721",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1827,7 +1887,7 @@
       "isAmateur": false,
       "lastName": "Hall",
       "playerId": "57975",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1855,7 +1915,7 @@
       "isAmateur": false,
       "lastName": "Pendrith",
       "playerId": "40250",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1883,7 +1943,7 @@
       "isAmateur": false,
       "lastName": "Keefer",
       "playerId": "63454",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1911,7 +1971,7 @@
       "isAmateur": false,
       "lastName": "Hoge",
       "playerId": "35532",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1939,7 +1999,7 @@
       "isAmateur": false,
       "lastName": "Brennan",
       "playerId": "61522",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1967,7 +2027,7 @@
       "isAmateur": false,
       "lastName": "Yang",
       "playerId": "24663",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -1995,7 +2055,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2023,7 +2083,7 @@
       "isAmateur": false,
       "lastName": "Åberg",
       "playerId": "52955",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2051,7 +2111,7 @@
       "isAmateur": false,
       "lastName": "Detry",
       "playerId": "33653",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2079,7 +2139,7 @@
       "isAmateur": false,
       "lastName": "Hatton",
       "playerId": "34363",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2107,7 +2167,7 @@
       "isAmateur": false,
       "lastName": "Snedeker",
       "playerId": "27649",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2135,7 +2195,7 @@
       "isAmateur": false,
       "lastName": "Ayora",
       "playerId": "64052",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2163,7 +2223,7 @@
       "isAmateur": false,
       "lastName": "Højgaard",
       "playerId": "52686",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2191,7 +2251,7 @@
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "30925",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2219,7 +2279,7 @@
       "isAmateur": false,
       "lastName": "Smylie",
       "playerId": "54185",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2247,7 +2307,7 @@
       "isAmateur": false,
       "lastName": "Henley",
       "playerId": "34098",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2275,7 +2335,7 @@
       "isAmateur": false,
       "lastName": "Neergaard-Petersen",
       "playerId": "52689",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2303,7 +2363,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2331,7 +2391,7 @@
       "isAmateur": false,
       "lastName": "Campbell",
       "playerId": "46443",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2359,7 +2419,7 @@
       "isAmateur": false,
       "lastName": "Bezuidenhout",
       "playerId": "45522",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2387,7 +2447,7 @@
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2415,7 +2475,7 @@
       "isAmateur": false,
       "lastName": "Fleetwood",
       "playerId": "30911",
-      "position": "T68",
+      "position": "T67",
       "roundComplete": true,
       "rounds": [
         {
@@ -2436,63 +2496,87 @@
     },
     {
       "courseId": "773",
-      "currentHole": 8,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
-      "firstName": "Sami",
-      "isAmateur": false,
-      "lastName": "Valimaki",
-      "playerId": "52666",
-      "position": "T68",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "2:00pm",
-      "teeTimeTimestamp": "2026-05-14T18:00:00",
-      "thru": "17*",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 7,
+      "currentHole": 9,
       "currentRound": 1,
       "currentRoundScore": "+2",
       "firstName": "Austin",
       "isAmateur": false,
       "lastName": "Smotherman",
       "playerId": "50095",
-      "position": "T68",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T67",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:22pm",
       "teeTimeTimestamp": "2026-05-14T18:22:00",
-      "thru": "16*",
+      "thru": "F*",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "773",
-      "currentHole": 15,
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "+2",
+      "firstName": "Bernd",
+      "isAmateur": false,
+      "lastName": "Wiesberger",
+      "playerId": "29454",
+      "position": "T67",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:27pm",
+      "teeTimeTimestamp": "2026-05-14T18:27:00",
+      "thru": "F",
+      "total": "+2",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+2",
       "firstName": "Andy",
       "isAmateur": false,
       "lastName": "Sullivan",
       "playerId": "35314",
-      "position": "T68",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T67",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:27pm",
       "teeTimeTimestamp": "2026-05-14T18:27:00",
-      "thru": "15",
+      "thru": "F",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "773",
@@ -2503,7 +2587,7 @@
       "isAmateur": false,
       "lastName": "Mitchell",
       "playerId": "39546",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2531,7 +2615,7 @@
       "isAmateur": false,
       "lastName": "Vegas",
       "playerId": "27064",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2559,7 +2643,7 @@
       "isAmateur": false,
       "lastName": "Highsmith",
       "playerId": "60067",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2587,7 +2671,7 @@
       "isAmateur": false,
       "lastName": "Kirk",
       "playerId": "30926",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2615,7 +2699,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "39975",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2643,7 +2727,7 @@
       "isAmateur": false,
       "lastName": "Kaneko",
       "playerId": "61148",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2671,7 +2755,7 @@
       "isAmateur": false,
       "lastName": "Parry",
       "playerId": "28723",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2699,7 +2783,7 @@
       "isAmateur": false,
       "lastName": "Gumberg",
       "playerId": "51989",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2727,7 +2811,7 @@
       "isAmateur": false,
       "lastName": "Polland",
       "playerId": "47567",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2755,7 +2839,7 @@
       "isAmateur": false,
       "lastName": "Im",
       "playerId": "39971",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2783,7 +2867,7 @@
       "isAmateur": false,
       "lastName": "Straka",
       "playerId": "49960",
-      "position": "T94",
+      "position": "T93",
       "roundComplete": true,
       "rounds": [
         {
@@ -2795,9 +2879,37 @@
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:49pm",
       "teeTimeTimestamp": "2026-05-14T17:49:00",
+      "thru": "F*",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 9,
+      "currentRound": 1,
+      "currentRoundScore": "+3",
+      "firstName": "Sami",
+      "isAmateur": false,
+      "lastName": "Valimaki",
+      "playerId": "52666",
+      "position": "T93",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "2:00pm",
+      "teeTimeTimestamp": "2026-05-14T18:00:00",
       "thru": "F*",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "73"
@@ -3168,7 +3280,7 @@
     },
     {
       "courseId": "773",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+4",
       "firstName": "Keegan",
@@ -3176,19 +3288,27 @@
       "lastName": "Bradley",
       "playerId": "33141",
       "position": "T105",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:54pm",
       "teeTimeTimestamp": "2026-05-14T17:54:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "773",
-      "currentHole": 8,
+      "currentHole": 9,
       "currentRound": 1,
       "currentRoundScore": "+4",
       "firstName": "Travis",
@@ -3196,75 +3316,23 @@
       "lastName": "Smyth",
       "playerId": "47078",
       "position": "T105",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:00pm",
       "teeTimeTimestamp": "2026-05-14T18:00:00",
-      "thru": "17*",
+      "thru": "F*",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 7,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Garrett",
-      "isAmateur": false,
-      "lastName": "Sapp",
-      "playerId": "32467",
-      "position": "T105",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "2:11pm",
-      "teeTimeTimestamp": "2026-05-14T18:11:00",
-      "thru": "16*",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 7,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Timothy",
-      "isAmateur": false,
-      "lastName": "Wiseman",
-      "playerId": "55417",
-      "position": "T105",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "2:22pm",
-      "teeTimeTimestamp": "2026-05-14T18:22:00",
-      "thru": "16*",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "773",
-      "currentHole": 15,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Sudarshan",
-      "isAmateur": false,
-      "lastName": "Yellamaraju",
-      "playerId": "60386",
-      "position": "T105",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:27pm",
-      "teeTimeTimestamp": "2026-05-14T18:27:00",
-      "thru": "15",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "773",
@@ -3275,7 +3343,7 @@
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3303,7 +3371,7 @@
       "isAmateur": false,
       "lastName": "Saddier",
       "playerId": "34371",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3331,7 +3399,7 @@
       "isAmateur": false,
       "lastName": "Lenahan",
       "playerId": "46581",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3359,7 +3427,7 @@
       "isAmateur": false,
       "lastName": "Collet",
       "playerId": "59570",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3387,7 +3455,7 @@
       "isAmateur": false,
       "lastName": "McClure",
       "playerId": "58597",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3415,7 +3483,7 @@
       "isAmateur": false,
       "lastName": "Echavarria",
       "playerId": "51349",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3443,7 +3511,7 @@
       "isAmateur": false,
       "lastName": "Homa",
       "playerId": "39977",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3471,7 +3539,7 @@
       "isAmateur": false,
       "lastName": "Dufner",
       "playerId": "25686",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3499,7 +3567,7 @@
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "46464",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3527,7 +3595,7 @@
       "isAmateur": false,
       "lastName": "Schenk",
       "playerId": "47347",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3555,7 +3623,7 @@
       "isAmateur": false,
       "lastName": "Penge",
       "playerId": "51003",
-      "position": "T123",
+      "position": "T120",
       "roundComplete": true,
       "rounds": [
         {
@@ -3567,7 +3635,7 @@
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:49pm",
       "teeTimeTimestamp": "2026-05-14T17:49:00",
       "thru": "F*",
@@ -3576,23 +3644,115 @@
     },
     {
       "courseId": "773",
-      "currentHole": 8,
+      "currentHole": 9,
       "currentRound": 1,
       "currentRoundScore": "+5",
       "firstName": "Jayden",
       "isAmateur": false,
       "lastName": "Schaper",
       "playerId": "57737",
-      "position": "T123",
-      "roundComplete": false,
-      "rounds": [],
+      "position": "T120",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 75
+        }
+      ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:11pm",
       "teeTimeTimestamp": "2026-05-14T18:11:00",
-      "thru": "17*",
+      "thru": "F*",
       "total": "+5",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 9,
+      "currentRound": 1,
+      "currentRoundScore": "+5",
+      "firstName": "Garrett",
+      "isAmateur": false,
+      "lastName": "Sapp",
+      "playerId": "32467",
+      "position": "T120",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "2:11pm",
+      "teeTimeTimestamp": "2026-05-14T18:11:00",
+      "thru": "F*",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 9,
+      "currentRound": 1,
+      "currentRoundScore": "+5",
+      "firstName": "Timothy",
+      "isAmateur": false,
+      "lastName": "Wiseman",
+      "playerId": "55417",
+      "position": "T120",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "2:22pm",
+      "teeTimeTimestamp": "2026-05-14T18:22:00",
+      "thru": "F*",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "773",
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "+5",
+      "firstName": "Sudarshan",
+      "isAmateur": false,
+      "lastName": "Yellamaraju",
+      "playerId": "60386",
+      "position": "T120",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:27pm",
+      "teeTimeTimestamp": "2026-05-14T18:27:00",
+      "thru": "F",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "773",
@@ -3764,7 +3924,7 @@
     },
     {
       "courseId": "773",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+6",
       "firstName": "Zach",
@@ -3772,15 +3932,23 @@
       "lastName": "Haynes",
       "playerId": "70406",
       "position": "T135",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "773",
+          "courseName": "Aronimink Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+6",
+          "strokes": 76
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:16pm",
       "teeTimeTimestamp": "2026-05-14T18:16:00",
-      "thru": "16",
+      "thru": "F",
       "total": "+6",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "773",
@@ -3971,7 +4139,7 @@
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:49pm",
       "teeTimeTimestamp": "2026-05-14T17:49:00",
       "thru": "F*",
@@ -4205,9 +4373,9 @@
   ],
   "orgId": "1",
   "roundId": 1,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-05-14T23:34:32.824000",
+  "timestamp": "2026-05-15T00:24:53.027000",
   "tournId": "033",
   "year": "2026"
 }
