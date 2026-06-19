@@ -1,11 +1,11 @@
 {
   "cutLines": [
     {
-      "cutCount": 58,
-      "cutScore": "+5"
+      "cutCount": 78,
+      "cutScore": "+4"
     }
   ],
-  "lastUpdated": "2026-06-19T18:10:34.976000",
+  "lastUpdated": "2026-06-19T20:03:48.323000",
   "leaderboardRows": [
     {
       "courseId": "618",
@@ -114,6 +114,62 @@
     },
     {
       "courseId": "618",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "-4",
+      "firstName": "Harry",
+      "isAmateur": false,
+      "lastName": "Higgs",
+      "playerId": "33597",
+      "position": "T2",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2026-06-19T16:45:00",
+      "thru": "12",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "Greyserman",
+      "playerId": "51977",
+      "position": "T2",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:24pm",
+      "teeTimeTimestamp": "2026-06-19T18:24:00",
+      "thru": "4",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "618",
       "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-5",
@@ -121,7 +177,7 @@
       "isAmateur": false,
       "lastName": "Morikawa",
       "playerId": "50525",
-      "position": "T4",
+      "position": "T6",
       "roundComplete": true,
       "rounds": [
         {
@@ -149,31 +205,31 @@
     },
     {
       "courseId": "618",
-      "currentHole": 4,
+      "currentHole": 7,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Sam",
+      "currentRoundScore": "-1",
+      "firstName": "Rory",
       "isAmateur": false,
-      "lastName": "Stevens",
-      "playerId": "55893",
-      "position": "T4",
+      "lastName": "McIlroy",
+      "playerId": "28237",
+      "position": "T6",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "scoreToPar": "-1",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:07pm",
-      "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3",
+      "teeTime": "2:02pm",
+      "teeTimeTimestamp": "2026-06-19T18:02:00",
+      "thru": "6",
       "total": "-2",
-      "totalStrokesFromCompletedRounds": "68"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "618",
@@ -184,7 +240,7 @@
       "isAmateur": false,
       "lastName": "Thomas",
       "playerId": "33448",
-      "position": "T6",
+      "position": "T8",
       "roundComplete": true,
       "rounds": [
         {
@@ -212,14 +268,70 @@
     },
     {
       "courseId": "618",
-      "currentHole": 9,
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Stevens",
+      "playerId": "55893",
+      "position": "T8",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2026-06-19T17:07:00",
+      "thru": "10",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 8,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Burns",
+      "playerId": "47504",
+      "position": "T8",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:51pm",
+      "teeTimeTimestamp": "2026-06-19T17:51:00",
+      "thru": "7",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Keegan",
       "isAmateur": false,
       "lastName": "Bradley",
       "playerId": "33141",
-      "position": "T6",
+      "position": "T8",
       "roundComplete": false,
       "rounds": [
         {
@@ -234,132 +346,20 @@
       "status": "active",
       "teeTime": "1:51pm",
       "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1*",
+      "thru": "7*",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 7,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "Greyserman",
-      "playerId": "51977",
-      "position": "T6",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:24pm",
-      "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Brian",
-      "isAmateur": false,
-      "lastName": "Harman",
-      "playerId": "27644",
-      "position": "T6",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:24pm",
-      "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "James",
-      "playerId": "57869",
-      "position": "T6",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:35pm",
-      "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Rory",
-      "isAmateur": false,
-      "lastName": "McIlroy",
-      "playerId": "28237",
-      "position": "T6",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:02pm",
-      "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Ludvig",
       "isAmateur": false,
       "lastName": "Åberg",
       "playerId": "52955",
-      "position": "T6",
+      "position": "T8",
       "roundComplete": false,
       "rounds": [
         {
@@ -371,10 +371,38 @@
         }
       ],
       "startingHole": 1,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:02pm",
       "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
+      "thru": "6",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Ben",
+      "isAmateur": false,
+      "lastName": "James",
+      "playerId": "57869",
+      "position": "T8",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2026-06-19T18:35:00",
+      "thru": "4",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "69"
     },
@@ -387,7 +415,7 @@
       "isAmateur": false,
       "lastName": "Mouw",
       "playerId": "63121",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -422,7 +450,7 @@
       "isAmateur": true,
       "lastName": "Cowan",
       "playerId": "70695",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -457,7 +485,7 @@
       "isAmateur": false,
       "lastName": "Hisatsune",
       "playerId": "51287",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -492,7 +520,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -527,7 +555,7 @@
       "isAmateur": false,
       "lastName": "Bhatia",
       "playerId": "56630",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -555,42 +583,14 @@
     },
     {
       "courseId": "618",
-      "currentHole": 18,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "Kohles",
-      "playerId": "36884",
-      "position": "T13",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "8:40am",
-      "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 5,
+      "currentHole": 10,
       "currentRound": 2,
       "currentRoundScore": "-1",
-      "firstName": "Harry",
+      "firstName": "Adrien",
       "isAmateur": false,
-      "lastName": "Higgs",
-      "playerId": "33597",
-      "position": "T13",
+      "lastName": "Dumont de Chassart",
+      "playerId": "50497",
+      "position": "T14",
       "roundComplete": false,
       "rounds": [
         {
@@ -603,22 +603,50 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "12:45pm",
-      "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "4",
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2026-06-19T17:18:00",
+      "thru": "9",
       "total": "E",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "618",
-      "currentHole": 2,
+      "currentHole": 17,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Miles",
+      "isAmateur": true,
+      "lastName": "Russell",
+      "playerId": "66290",
+      "position": "T14",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2026-06-19T17:29:00",
+      "thru": "8*",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 7,
       "currentRound": 2,
       "currentRoundScore": "E",
-      "firstName": "Kristoffer",
+      "firstName": "Tommy",
       "isAmateur": false,
-      "lastName": "Reitan",
-      "playerId": "49855",
-      "position": "T13",
+      "lastName": "Fleetwood",
+      "playerId": "30911",
+      "position": "T14",
       "roundComplete": false,
       "rounds": [
         {
@@ -631,22 +659,50 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:40pm",
-      "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "1",
+      "teeTime": "2:02pm",
+      "teeTimeTimestamp": "2026-06-19T18:02:00",
+      "thru": "6",
       "total": "E",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "+1",
+      "firstName": "Brian",
+      "isAmateur": false,
+      "lastName": "Harman",
+      "playerId": "27644",
+      "position": "T14",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:24pm",
+      "teeTimeTimestamp": "2026-06-19T18:24:00",
+      "thru": "4",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Tom",
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "55182",
-      "position": "T13",
+      "position": "T14",
       "roundComplete": false,
       "rounds": [
         {
@@ -658,40 +714,40 @@
         }
       ],
       "startingHole": 1,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:35pm",
       "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
+      "thru": "4",
       "total": "E",
       "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 14,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Tommy",
+      "currentRoundScore": "-2",
+      "firstName": "Sahith",
       "isAmateur": false,
-      "lastName": "Fleetwood",
-      "playerId": "30911",
-      "position": "T13",
+      "lastName": "Theegala",
+      "playerId": "51634",
+      "position": "T14",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:02pm",
-      "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2026-06-19T18:35:00",
+      "thru": "5*",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "70"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "618",
@@ -702,7 +758,7 @@
       "isAmateur": false,
       "lastName": "Nørgaard",
       "playerId": "35706",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -737,7 +793,7 @@
       "isAmateur": false,
       "lastName": "McGreevy",
       "playerId": "51950",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -772,7 +828,7 @@
       "isAmateur": false,
       "lastName": "Blair",
       "playerId": "40058",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -807,7 +863,7 @@
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -842,7 +898,7 @@
       "isAmateur": false,
       "lastName": "Conners",
       "playerId": "39997",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -877,7 +933,7 @@
       "isAmateur": false,
       "lastName": "Rose",
       "playerId": "22405",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -907,41 +963,13 @@
       "courseId": "618",
       "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Johnny",
-      "isAmateur": false,
-      "lastName": "Keefer",
-      "playerId": "63454",
-      "position": "T23",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "8:40am",
-      "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 3,
-      "currentRound": 2,
       "currentRoundScore": "+1",
-      "firstName": "Keith",
+      "firstName": "Ben",
       "isAmateur": false,
-      "lastName": "Mitchell",
-      "playerId": "39546",
-      "position": "T23",
-      "roundComplete": false,
+      "lastName": "Kohles",
+      "playerId": "36884",
+      "position": "T25",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -949,55 +977,34 @@
           "roundId": 1,
           "scoreToPar": "E",
           "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:29pm",
-      "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 2,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Sam",
-      "isAmateur": false,
-      "lastName": "Burns",
-      "playerId": "47504",
-      "position": "T23",
-      "roundComplete": false,
-      "rounds": [
+        },
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
+          "roundId": 2,
           "scoreToPar": "+1",
           "strokes": 71
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:51pm",
-      "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1",
+      "status": "complete",
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2026-06-19T12:40:00",
+      "thru": "F",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "71"
+      "totalStrokesFromCompletedRounds": "141"
     },
     {
       "courseId": "618",
-      "currentHole": 9,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "E",
-      "firstName": "Rickie",
+      "firstName": "Johnny",
       "isAmateur": false,
-      "lastName": "Fowler",
-      "playerId": "32102",
-      "position": "T23",
-      "roundComplete": false,
+      "lastName": "Keefer",
+      "playerId": "63454",
+      "position": "T25",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -1005,54 +1012,89 @@
           "roundId": 1,
           "scoreToPar": "+1",
           "strokes": 71
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2026-06-19T12:40:00",
+      "thru": "F",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "141"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 6,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Maverick",
+      "isAmateur": false,
+      "lastName": "McNealy",
+      "playerId": "46442",
+      "position": "T25",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:13pm",
+      "teeTimeTimestamp": "2026-06-19T18:13:00",
+      "thru": "5",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 15,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Harris",
+      "isAmateur": false,
+      "lastName": "English",
+      "playerId": "34099",
+      "position": "T25",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "1:51pm",
-      "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1*",
+      "teeTime": "2:13pm",
+      "teeTimeTimestamp": "2026-06-19T18:13:00",
+      "thru": "6*",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "71"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Michael",
-      "isAmateur": false,
-      "lastName": "Kim",
-      "playerId": "39975",
-      "position": "T23",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:35pm",
-      "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Alex",
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "55721",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": false,
       "rounds": [
         {
@@ -1064,10 +1106,66 @@
         }
       ],
       "startingHole": 1,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:35pm",
       "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
+      "thru": "4",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Jackson",
+      "isAmateur": true,
+      "lastName": "Koivun",
+      "playerId": "66701",
+      "position": "T25",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2026-06-19T18:35:00",
+      "thru": "5*",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Michael",
+      "isAmateur": false,
+      "lastName": "Kim",
+      "playerId": "39975",
+      "position": "T25",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2026-06-19T18:35:00",
+      "thru": "5*",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "71"
     },
@@ -1080,7 +1178,7 @@
       "isAmateur": false,
       "lastName": "Van Paris",
       "playerId": "57864",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": true,
       "rounds": [
         {
@@ -1115,7 +1213,7 @@
       "isAmateur": false,
       "lastName": "Parry",
       "playerId": "28723",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": true,
       "rounds": [
         {
@@ -1150,7 +1248,7 @@
       "isAmateur": false,
       "lastName": "Putnam",
       "playerId": "34256",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": true,
       "rounds": [
         {
@@ -1185,7 +1283,7 @@
       "isAmateur": false,
       "lastName": "Griffin",
       "playerId": "54591",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": true,
       "rounds": [
         {
@@ -1220,7 +1318,7 @@
       "isAmateur": false,
       "lastName": "Poston",
       "playerId": "49771",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": true,
       "rounds": [
         {
@@ -1248,70 +1346,77 @@
     },
     {
       "courseId": "618",
-      "currentHole": 12,
+      "currentHole": 18,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Matthew",
+      "currentRoundScore": "+4",
+      "firstName": "Spencer",
       "isAmateur": false,
-      "lastName": "Jordan",
-      "playerId": "55955",
-      "position": "T35",
+      "lastName": "Tibbits",
+      "playerId": "57365",
+      "position": "T38",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "8:51am",
+      "teeTimeTimestamp": "2026-06-19T12:51:00",
+      "thru": "F",
+      "total": "+2",
+      "totalStrokesFromCompletedRounds": "142"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 3,
+      "currentRound": 2,
+      "currentRoundScore": "-3",
+      "firstName": "Caleb",
+      "isAmateur": false,
+      "lastName": "Surratt",
+      "playerId": "64054",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
+          "scoreToPar": "+5",
+          "strokes": 75
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "1:07pm",
-      "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3*",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2026-06-19T16:45:00",
+      "thru": "11*",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 4,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Adrien",
-      "isAmateur": false,
-      "lastName": "Dumont de Chassart",
-      "playerId": "50497",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:18pm",
-      "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "3",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 4,
+      "currentHole": 10,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Emiliano",
       "isAmateur": false,
       "lastName": "Grillo",
       "playerId": "31646",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
@@ -1326,76 +1431,20 @@
       "status": "active",
       "teeTime": "1:18pm",
       "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "3",
+      "thru": "9",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "618",
-      "currentHole": 3,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Patrick",
-      "isAmateur": false,
-      "lastName": "Rodgers",
-      "playerId": "36699",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:29pm",
-      "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 11,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Miles",
-      "isAmateur": true,
-      "lastName": "Russell",
-      "playerId": "66290",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "1:29pm",
-      "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2*",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 11,
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Young",
       "playerId": "57366",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
@@ -1410,104 +1459,76 @@
       "status": "active",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "2*",
+      "thru": "7*",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 8,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Harris",
+      "currentRoundScore": "-2",
+      "firstName": "Tyrrell",
       "isAmateur": false,
-      "lastName": "English",
-      "playerId": "34099",
-      "position": "T35",
+      "lastName": "Hatton",
+      "playerId": "34363",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:13pm",
-      "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Maverick",
-      "isAmateur": false,
-      "lastName": "McNealy",
-      "playerId": "46442",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
+          "scoreToPar": "+4",
+          "strokes": 74
         }
       ],
       "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:13pm",
-      "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
+      "status": "active",
+      "teeTime": "1:51pm",
+      "teeTimeTimestamp": "2026-06-19T17:51:00",
+      "thru": "7",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Sepp",
+      "currentRoundScore": "-1",
+      "firstName": "Jacob",
       "isAmateur": false,
-      "lastName": "Straka",
-      "playerId": "49960",
-      "position": "T35",
+      "lastName": "Bridgeman",
+      "playerId": "60004",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:13pm",
-      "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
+      "status": "active",
+      "teeTime": "2:24pm",
+      "teeTimeTimestamp": "2026-06-19T18:24:00",
+      "thru": "4",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 14,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Scottie",
       "isAmateur": false,
       "lastName": "Scheffler",
       "playerId": "46046",
-      "position": "T35",
+      "position": "T38",
       "roundComplete": false,
       "rounds": [
         {
@@ -1519,94 +1540,10 @@
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:24pm",
       "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Sahith",
-      "isAmateur": false,
-      "lastName": "Theegala",
-      "playerId": "51634",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:35pm",
-      "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Jackson",
-      "isAmateur": true,
-      "lastName": "Koivun",
-      "playerId": "66701",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:35pm",
-      "teeTimeTimestamp": "2026-06-19T18:35:00",
-      "thru": "",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Patrick",
-      "isAmateur": false,
-      "lastName": "Reed",
-      "playerId": "34360",
-      "position": "T35",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:02pm",
-      "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
+      "thru": "5*",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "72"
     },
@@ -1619,7 +1556,7 @@
       "isAmateur": false,
       "lastName": "Coody",
       "playerId": "59836",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1654,7 +1591,7 @@
       "isAmateur": false,
       "lastName": "Brennan",
       "playerId": "61522",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1689,7 +1626,7 @@
       "isAmateur": false,
       "lastName": "Fox",
       "playerId": "29936",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1724,7 +1661,7 @@
       "isAmateur": false,
       "lastName": "Johnson",
       "playerId": "30925",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1759,7 +1696,7 @@
       "isAmateur": false,
       "lastName": "Henley",
       "playerId": "34098",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1794,7 +1731,7 @@
       "isAmateur": false,
       "lastName": "Niemann",
       "playerId": "45486",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1829,7 +1766,7 @@
       "isAmateur": false,
       "lastName": "Spieth",
       "playerId": "34046",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": true,
       "rounds": [
         {
@@ -1864,8 +1801,8 @@
       "isAmateur": false,
       "lastName": "Hidalgo",
       "playerId": "64594",
-      "position": "T53",
-      "roundComplete": false,
+      "position": "T50",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -1873,82 +1810,33 @@
           "roundId": 1,
           "scoreToPar": "-1",
           "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "8:51am",
-      "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 18,
-      "currentRound": 2,
-      "currentRoundScore": "+5",
-      "firstName": "Spencer",
-      "isAmateur": false,
-      "lastName": "Tibbits",
-      "playerId": "57365",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
+        },
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 74
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:51am",
       "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+3",
-      "totalStrokesFromCompletedRounds": "68"
+      "totalStrokesFromCompletedRounds": "143"
     },
     {
       "courseId": "618",
-      "currentHole": 8,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Marek",
-      "isAmateur": true,
-      "lastName": "Fleming",
-      "playerId": "70698",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "9:02am",
-      "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "16*",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 14,
+      "currentHole": 3,
       "currentRound": 2,
       "currentRoundScore": "+2",
       "firstName": "James",
       "isAmateur": false,
       "lastName": "Nicholas",
       "playerId": "58188",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": false,
       "rounds": [
         {
@@ -1963,48 +1851,20 @@
       "status": "active",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "5*",
+      "thru": "11*",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "618",
-      "currentHole": 14,
-      "currentRound": 2,
-      "currentRoundScore": "-2",
-      "firstName": "Caleb",
-      "isAmateur": false,
-      "lastName": "Surratt",
-      "playerId": "64054",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "12:45pm",
-      "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "5*",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 13,
+      "currentHole": 11,
       "currentRound": 2,
       "currentRoundScore": "-1",
-      "firstName": "Ethan",
+      "firstName": "Eric",
       "isAmateur": true,
-      "lastName": "Fang",
-      "playerId": "68932",
-      "position": "T53",
+      "lastName": "Lee",
+      "playerId": "70734",
+      "position": "T50",
       "roundComplete": false,
       "rounds": [
         {
@@ -2015,24 +1875,108 @@
           "strokes": 74
         }
       ],
-      "startingHole": 10,
+      "startingHole": 1,
       "status": "active",
-      "teeTime": "12:56pm",
-      "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4*",
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2026-06-19T17:07:00",
+      "thru": "10",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 2,
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "lastName": "Rodgers",
+      "playerId": "36699",
+      "position": "T50",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2026-06-19T17:29:00",
+      "thru": "8",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Keith",
+      "isAmateur": false,
+      "lastName": "Mitchell",
+      "playerId": "39546",
+      "position": "T50",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2026-06-19T17:29:00",
+      "thru": "8",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Sungjae",
+      "isAmateur": false,
+      "lastName": "Im",
+      "playerId": "39971",
+      "position": "T50",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2026-06-19T17:40:00",
+      "thru": "8",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 8,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Lucas",
       "isAmateur": false,
       "lastName": "Herbert",
       "playerId": "39058",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": false,
       "rounds": [
         {
@@ -2047,20 +1991,48 @@
       "status": "active",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "1",
+      "thru": "7",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 11,
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Kristoffer",
+      "isAmateur": false,
+      "lastName": "Reitan",
+      "playerId": "49855",
+      "position": "T50",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2026-06-19T17:40:00",
+      "thru": "8",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Brooks",
       "isAmateur": false,
       "lastName": "Koepka",
       "playerId": "36689",
-      "position": "T53",
+      "position": "T50",
       "roundComplete": false,
       "rounds": [
         {
@@ -2075,20 +2047,48 @@
       "status": "active",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "2*",
+      "thru": "8*",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "618",
-      "currentHole": 2,
+      "currentHole": 15,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "lastName": "Reed",
+      "playerId": "34360",
+      "position": "T50",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:02pm",
+      "teeTimeTimestamp": "2026-06-19T18:02:00",
+      "thru": "6*",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 6,
       "currentRound": 2,
       "currentRoundScore": "-1",
-      "firstName": "Tyrrell",
+      "firstName": "Alex",
       "isAmateur": false,
-      "lastName": "Hatton",
-      "playerId": "34363",
-      "position": "T53",
+      "lastName": "Noren",
+      "playerId": "27349",
+      "position": "T50",
       "roundComplete": false,
       "rounds": [
         {
@@ -2101,123 +2101,11 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:51pm",
-      "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Adam",
-      "isAmateur": false,
-      "lastName": "Scott",
-      "playerId": "24502",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
       "teeTime": "2:13pm",
       "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
+      "thru": "5",
       "total": "+3",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Jacob",
-      "isAmateur": false,
-      "lastName": "Bridgeman",
-      "playerId": "60004",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:24pm",
-      "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Dylan",
-      "isAmateur": false,
-      "lastName": "Wu",
-      "playerId": "54783",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:46pm",
-      "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Andrew",
-      "isAmateur": false,
-      "lastName": "Novak",
-      "playerId": "51997",
-      "position": "T53",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:02pm",
-      "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
@@ -2228,7 +2116,7 @@
       "isAmateur": false,
       "lastName": "Canter",
       "playerId": "34362",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2263,7 +2151,7 @@
       "isAmateur": false,
       "lastName": "Shipley",
       "playerId": "63807",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2298,7 +2186,7 @@
       "isAmateur": false,
       "lastName": "Cauley",
       "playerId": "34021",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2333,7 +2221,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2368,7 +2256,7 @@
       "isAmateur": false,
       "lastName": "Echavarria",
       "playerId": "51349",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2403,7 +2291,7 @@
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": true,
       "rounds": [
         {
@@ -2431,98 +2319,77 @@
     },
     {
       "courseId": "618",
-      "currentHole": 3,
+      "currentHole": 9,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "Silverman",
-      "playerId": "39327",
-      "position": "T73",
-      "roundComplete": false,
+      "currentRoundScore": "+2",
+      "firstName": "Marek",
+      "isAmateur": true,
+      "lastName": "Fleming",
+      "playerId": "70698",
+      "position": "T68",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
+          "scoreToPar": "+2",
+          "strokes": 72
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:18pm",
-      "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "2",
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "9:02am",
+      "teeTimeTimestamp": "2026-06-19T13:02:00",
+      "thru": "F*",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "144"
     },
     {
       "courseId": "618",
-      "currentHole": 12,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Jimmy",
+      "currentRoundScore": "+2",
+      "firstName": "Matthew",
       "isAmateur": false,
-      "lastName": "Stanger",
-      "playerId": "51600",
-      "position": "T73",
+      "lastName": "Jordan",
+      "playerId": "55955",
+      "position": "T68",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "1:18pm",
-      "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "3*",
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2026-06-19T17:07:00",
+      "thru": "9*",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "618",
-      "currentHole": 2,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Sungjae",
-      "isAmateur": false,
-      "lastName": "Im",
-      "playerId": "39971",
-      "position": "T73",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:40pm",
-      "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "1",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 11,
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Chris",
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T73",
+      "position": "T68",
       "roundComplete": false,
       "rounds": [
         {
@@ -2537,93 +2404,65 @@
       "status": "active",
       "teeTime": "1:40pm",
       "teeTimeTimestamp": "2026-06-19T17:40:00",
-      "thru": "2*",
+      "thru": "8*",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 16,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Nick",
+      "currentRoundScore": "+3",
+      "firstName": "Rickie",
       "isAmateur": false,
-      "lastName": "Taylor",
-      "playerId": "25493",
-      "position": "T73",
+      "lastName": "Fowler",
+      "playerId": "32102",
+      "position": "T68",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
+          "scoreToPar": "+1",
+          "strokes": 71
         }
       ],
       "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:13pm",
-      "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
+      "status": "active",
+      "teeTime": "1:51pm",
+      "teeTimeTimestamp": "2026-06-19T17:51:00",
+      "thru": "7*",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 15,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Alex",
+      "currentRoundScore": "+1",
+      "firstName": "Andrew",
       "isAmateur": false,
-      "lastName": "Noren",
-      "playerId": "27349",
-      "position": "T73",
+      "lastName": "Novak",
+      "playerId": "51997",
+      "position": "T68",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:13pm",
-      "teeTimeTimestamp": "2026-06-19T18:13:00",
-      "thru": "",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Kurt",
-      "isAmateur": false,
-      "lastName": "Kitayama",
-      "playerId": "48117",
-      "position": "T73",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:02pm",
       "teeTimeTimestamp": "2026-06-19T18:02:00",
-      "thru": "",
+      "thru": "6*",
       "total": "+4",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "618",
@@ -2634,7 +2473,7 @@
       "isAmateur": false,
       "lastName": "Yellamaraju",
       "playerId": "60386",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": true,
       "rounds": [
         {
@@ -2669,7 +2508,7 @@
       "isAmateur": false,
       "lastName": "DeChambeau",
       "playerId": "47959",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": true,
       "rounds": [
         {
@@ -2704,7 +2543,7 @@
       "isAmateur": false,
       "lastName": "Hovland",
       "playerId": "46717",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": true,
       "rounds": [
         {
@@ -2739,7 +2578,7 @@
       "isAmateur": false,
       "lastName": "Gerard",
       "playerId": "59018",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": true,
       "rounds": [
         {
@@ -2774,7 +2613,7 @@
       "isAmateur": false,
       "lastName": "Horschel",
       "playerId": "29420",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": true,
       "rounds": [
         {
@@ -2802,14 +2641,14 @@
     },
     {
       "courseId": "618",
-      "currentHole": 5,
+      "currentHole": 13,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Chandler",
       "isAmateur": false,
       "lastName": "Phillips",
       "playerId": "57900",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2824,20 +2663,48 @@
       "status": "active",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "4",
+      "thru": "12",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 13,
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Nathan",
+      "isAmateur": false,
+      "lastName": "Kimsey",
+      "playerId": "45426",
+      "position": "T79",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+6",
+          "strokes": 76
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2026-06-19T16:56:00",
+      "thru": "11",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "76"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 3,
       "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Jayden",
       "isAmateur": false,
       "lastName": "Schaper",
       "playerId": "57737",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2852,20 +2719,20 @@
       "status": "active",
       "teeTime": "12:56pm",
       "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4*",
+      "thru": "11*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 4,
+      "currentHole": 11,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Peter",
       "isAmateur": false,
       "lastName": "Uihlein",
       "playerId": "29484",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2880,20 +2747,20 @@
       "status": "active",
       "teeTime": "1:07pm",
       "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3",
+      "thru": "10",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 4,
+      "currentHole": 1,
       "currentRound": 2,
       "currentRoundScore": "+1",
-      "firstName": "Eric",
-      "isAmateur": true,
-      "lastName": "Lee",
-      "playerId": "70734",
-      "position": "T86",
+      "firstName": "Jimmy",
+      "isAmateur": false,
+      "lastName": "Stanger",
+      "playerId": "51600",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2904,24 +2771,24 @@
           "strokes": 74
         }
       ],
-      "startingHole": 1,
+      "startingHole": 10,
       "status": "active",
-      "teeTime": "1:07pm",
-      "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3",
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2026-06-19T17:18:00",
+      "thru": "9*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 11,
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "35891",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2936,20 +2803,104 @@
       "status": "active",
       "teeTime": "1:29pm",
       "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2*",
+      "thru": "8*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 15,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "+1",
+      "firstName": "Kurt",
+      "isAmateur": false,
+      "lastName": "Kitayama",
+      "playerId": "48117",
+      "position": "T79",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:02pm",
+      "teeTimeTimestamp": "2026-06-19T18:02:00",
+      "thru": "6*",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 6,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Sepp",
+      "isAmateur": false,
+      "lastName": "Straka",
+      "playerId": "49960",
+      "position": "T79",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:13pm",
+      "teeTimeTimestamp": "2026-06-19T18:13:00",
+      "thru": "5",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 15,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Taylor",
+      "playerId": "25493",
+      "position": "T79",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:13pm",
+      "teeTimeTimestamp": "2026-06-19T18:13:00",
+      "thru": "6*",
+      "total": "+5",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "J.B.",
       "isAmateur": false,
       "lastName": "Holmes",
       "playerId": "27141",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2961,23 +2912,23 @@
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:46pm",
       "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
+      "thru": "4*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 13,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Filippo",
       "isAmateur": false,
       "lastName": "Celli",
       "playerId": "52444",
-      "position": "T86",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2989,40 +2940,40 @@
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:46pm",
       "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
+      "thru": "4*",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 13,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Vaughn",
-      "isAmateur": true,
-      "lastName": "Harber",
-      "playerId": "70693",
-      "position": "T86",
+      "currentRoundScore": "-2",
+      "firstName": "Kaito",
+      "isAmateur": false,
+      "lastName": "Onishi",
+      "playerId": "55623",
+      "position": "T79",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 75
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:57pm",
       "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
+      "thru": "4*",
       "total": "+5",
-      "totalStrokesFromCompletedRounds": "75"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
@@ -3033,7 +2984,7 @@
       "isAmateur": false,
       "lastName": "Lowry",
       "playerId": "33204",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": true,
       "rounds": [
         {
@@ -3068,7 +3019,7 @@
       "isAmateur": false,
       "lastName": "Ortiz",
       "playerId": "33667",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": true,
       "rounds": [
         {
@@ -3103,7 +3054,7 @@
       "isAmateur": false,
       "lastName": "Rahm",
       "playerId": "46970",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": true,
       "rounds": [
         {
@@ -3138,7 +3089,7 @@
       "isAmateur": false,
       "lastName": "Cantlay",
       "playerId": "35450",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": true,
       "rounds": [
         {
@@ -3173,8 +3124,8 @@
       "isAmateur": false,
       "lastName": "Hammer",
       "playerId": "47987",
-      "position": "T99",
-      "roundComplete": false,
+      "position": "T96",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -3182,26 +3133,68 @@
           "roundId": 1,
           "scoreToPar": "+3",
           "strokes": 73
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:51am",
       "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17*",
+      "thru": "F*",
       "total": "+6",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "146"
     },
     {
       "courseId": "618",
-      "currentHole": 5,
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Jack",
+      "isAmateur": false,
+      "lastName": "Schoenberger",
+      "playerId": "69864",
+      "position": "T96",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 73
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+3",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "8:51am",
+      "teeTimeTimestamp": "2026-06-19T12:51:00",
+      "thru": "F*",
+      "total": "+6",
+      "totalStrokesFromCompletedRounds": "146"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 12,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Jackson",
       "isAmateur": true,
       "lastName": "Herrington",
       "playerId": "70148",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": false,
       "rounds": [
         {
@@ -3216,20 +3209,20 @@
       "status": "active",
       "teeTime": "12:56pm",
       "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4",
+      "thru": "11",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 13,
+      "currentHole": 10,
       "currentRound": 2,
       "currentRoundScore": "+2",
-      "firstName": "Jackson",
+      "firstName": "Ben",
       "isAmateur": false,
-      "lastName": "Suber",
-      "playerId": "60019",
-      "position": "T99",
+      "lastName": "Silverman",
+      "playerId": "39327",
+      "position": "T96",
       "roundComplete": false,
       "rounds": [
         {
@@ -3240,52 +3233,24 @@
           "strokes": 74
         }
       ],
-      "startingHole": 10,
+      "startingHole": 1,
       "status": "active",
-      "teeTime": "12:56pm",
-      "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4*",
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2026-06-19T17:18:00",
+      "thru": "9",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 3,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Graeme",
-      "isAmateur": false,
-      "lastName": "McDowell",
-      "playerId": "25572",
-      "position": "T99",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+6",
-          "strokes": 76
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:29pm",
-      "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2",
-      "total": "+6",
-      "totalStrokesFromCompletedRounds": "76"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 2,
+      "currentHole": 8,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Si Woo",
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": false,
       "rounds": [
         {
@@ -3300,20 +3265,20 @@
       "status": "active",
       "teeTime": "1:51pm",
       "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1",
+      "thru": "7",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Brandon",
       "isAmateur": true,
       "lastName": "Holtz",
       "playerId": "70147",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": false,
       "rounds": [
         {
@@ -3325,23 +3290,51 @@
         }
       ],
       "startingHole": 1,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:46pm",
       "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
+      "thru": "4",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "+3",
+      "firstName": "Dylan",
+      "isAmateur": false,
+      "lastName": "Wu",
+      "playerId": "54783",
+      "position": "T96",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:46pm",
+      "teeTimeTimestamp": "2026-06-19T18:46:00",
+      "thru": "4",
+      "total": "+6",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Jake",
       "isAmateur": false,
       "lastName": "Peacock",
       "playerId": "66035",
-      "position": "T99",
+      "position": "T96",
       "roundComplete": false,
       "rounds": [
         {
@@ -3353,10 +3346,10 @@
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:57pm",
       "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
+      "thru": "4*",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "76"
     },
@@ -3369,7 +3362,7 @@
       "isAmateur": false,
       "lastName": "Saddier",
       "playerId": "34371",
-      "position": "T110",
+      "position": "T108",
       "roundComplete": true,
       "rounds": [
         {
@@ -3404,7 +3397,7 @@
       "isAmateur": true,
       "lastName": "Lee",
       "playerId": "68608",
-      "position": "T110",
+      "position": "T108",
       "roundComplete": true,
       "rounds": [
         {
@@ -3439,7 +3432,7 @@
       "isAmateur": false,
       "lastName": "Lee",
       "playerId": "37378",
-      "position": "T110",
+      "position": "T108",
       "roundComplete": true,
       "rounds": [
         {
@@ -3467,15 +3460,15 @@
     },
     {
       "courseId": "618",
-      "currentHole": 9,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+4",
-      "firstName": "Jack",
+      "firstName": "Manav",
       "isAmateur": false,
-      "lastName": "Schoenberger",
-      "playerId": "69864",
-      "position": "T110",
-      "roundComplete": false,
+      "lastName": "Shah",
+      "playerId": "47687",
+      "position": "T108",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -3483,110 +3476,152 @@
           "roundId": 1,
           "scoreToPar": "+3",
           "strokes": 73
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "9:02am",
+      "teeTimeTimestamp": "2026-06-19T13:02:00",
+      "thru": "F",
+      "total": "+7",
+      "totalStrokesFromCompletedRounds": "147"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 9,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Giuseppe",
+      "isAmateur": true,
+      "lastName": "Puebla",
+      "playerId": "68009",
+      "position": "T108",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+3",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "9:02am",
+      "teeTimeTimestamp": "2026-06-19T13:02:00",
+      "thru": "F*",
+      "total": "+7",
+      "totalStrokesFromCompletedRounds": "147"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 3,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Ethan",
+      "isAmateur": true,
+      "lastName": "Fang",
+      "playerId": "68932",
+      "position": "T108",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 74
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "8:51am",
-      "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17*",
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2026-06-19T16:56:00",
+      "thru": "11*",
       "total": "+7",
-      "totalStrokesFromCompletedRounds": "73"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 5,
+      "currentHole": 3,
       "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Nathan",
+      "currentRoundScore": "+3",
+      "firstName": "Jackson",
       "isAmateur": false,
-      "lastName": "Kimsey",
-      "playerId": "45426",
-      "position": "T110",
+      "lastName": "Suber",
+      "playerId": "60019",
+      "position": "T108",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+6",
-          "strokes": 76
+          "scoreToPar": "+4",
+          "strokes": 74
         }
       ],
-      "startingHole": 1,
+      "startingHole": 10,
       "status": "active",
       "teeTime": "12:56pm",
       "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4",
+      "thru": "11*",
       "total": "+7",
-      "totalStrokesFromCompletedRounds": "76"
+      "totalStrokesFromCompletedRounds": "74"
     },
     {
       "courseId": "618",
-      "currentHole": 12,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "+2",
-      "firstName": "Chase",
-      "isAmateur": true,
-      "lastName": "Kyes",
-      "playerId": "70692",
-      "position": "T110",
+      "currentRoundScore": "-1",
+      "firstName": "Alejandro",
+      "isAmateur": false,
+      "lastName": "Tosti",
+      "playerId": "38991",
+      "position": "T108",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+5",
-          "strokes": 75
+          "scoreToPar": "+8",
+          "strokes": 78
         }
       ],
       "startingHole": 10,
       "status": "active",
       "teeTime": "1:07pm",
       "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3*",
+      "thru": "9*",
       "total": "+7",
-      "totalStrokesFromCompletedRounds": "75"
+      "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "618",
-      "currentHole": 12,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Carl",
-      "isAmateur": false,
-      "lastName": "Yuan",
-      "playerId": "55454",
-      "position": "T110",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "1:18pm",
-      "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "3*",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 12,
+      "currentHole": 1,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Brandon",
       "isAmateur": false,
       "lastName": "Wu",
       "playerId": "52374",
-      "position": "T110",
+      "position": "T108",
       "roundComplete": false,
       "rounds": [
         {
@@ -3601,93 +3636,65 @@
       "status": "active",
       "teeTime": "1:18pm",
       "teeTimeTimestamp": "2026-06-19T17:18:00",
-      "thru": "3*",
+      "thru": "9*",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "618",
-      "currentHole": 11,
+      "currentHole": 9,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Padraig",
+      "currentRoundScore": "+1",
+      "firstName": "Graeme",
       "isAmateur": false,
-      "lastName": "Harrington",
-      "playerId": "20766",
-      "position": "T110",
+      "lastName": "McDowell",
+      "playerId": "25572",
+      "position": "T108",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
+          "scoreToPar": "+6",
+          "strokes": 76
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2026-06-19T17:29:00",
+      "thru": "8",
+      "total": "+7",
+      "totalStrokesFromCompletedRounds": "76"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 15,
+      "currentRound": 2,
+      "currentRoundScore": "+4",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "lastName": "Scott",
+      "playerId": "24502",
+      "position": "T108",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "1:29pm",
-      "teeTimeTimestamp": "2026-06-19T17:29:00",
-      "thru": "2*",
+      "teeTime": "2:13pm",
+      "teeTimeTimestamp": "2026-06-19T18:13:00",
+      "thru": "6*",
       "total": "+7",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "J.J.",
-      "isAmateur": false,
-      "lastName": "Spaun",
-      "playerId": "39324",
-      "position": "T110",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:24pm",
-      "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 10,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Kaito",
-      "isAmateur": false,
-      "lastName": "Onishi",
-      "playerId": "55623",
-      "position": "T110",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:57pm",
-      "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
-      "total": "+7",
-      "totalStrokesFromCompletedRounds": "77"
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "618",
@@ -3698,7 +3705,7 @@
       "isAmateur": false,
       "lastName": "Knapp",
       "playerId": "47420",
-      "position": "T121",
+      "position": "T119",
       "roundComplete": true,
       "rounds": [
         {
@@ -3726,43 +3733,15 @@
     },
     {
       "courseId": "618",
-      "currentHole": 16,
-      "currentRound": 2,
-      "currentRoundScore": "+5",
-      "firstName": "Manav",
-      "isAmateur": false,
-      "lastName": "Shah",
-      "playerId": "47687",
-      "position": "T121",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "9:02am",
-      "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "15",
-      "total": "+8",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 8,
+      "currentHole": 9,
       "currentRound": 2,
       "currentRoundScore": "+4",
-      "firstName": "Giuseppe",
-      "isAmateur": true,
-      "lastName": "Puebla",
-      "playerId": "68009",
-      "position": "T121",
-      "roundComplete": false,
+      "firstName": "Marcelo",
+      "isAmateur": false,
+      "lastName": "Rozo",
+      "playerId": "37076",
+      "position": "T119",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -3770,26 +3749,33 @@
           "roundId": 1,
           "scoreToPar": "+4",
           "strokes": 74
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 74
         }
       ],
       "startingHole": 10,
-      "status": "active",
-      "teeTime": "9:02am",
-      "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "16*",
+      "status": "complete",
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2026-06-19T12:40:00",
+      "thru": "F*",
       "total": "+8",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "148"
     },
     {
       "courseId": "618",
-      "currentHole": 5,
+      "currentHole": 12,
       "currentRound": 2,
       "currentRoundScore": "-1",
       "firstName": "Cooper",
       "isAmateur": false,
       "lastName": "Dossey",
       "playerId": "58600",
-      "position": "T121",
+      "position": "T119",
       "roundComplete": false,
       "rounds": [
         {
@@ -3804,48 +3790,48 @@
       "status": "active",
       "teeTime": "12:56pm",
       "teeTimeTimestamp": "2026-06-19T16:56:00",
-      "thru": "4",
+      "thru": "11",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "618",
-      "currentHole": 12,
+      "currentHole": 1,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Alejandro",
+      "currentRoundScore": "+1",
+      "firstName": "Carl",
       "isAmateur": false,
-      "lastName": "Tosti",
-      "playerId": "38991",
-      "position": "T121",
+      "lastName": "Yuan",
+      "playerId": "55454",
+      "position": "T119",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+8",
-          "strokes": 78
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "1:07pm",
-      "teeTimeTimestamp": "2026-06-19T17:07:00",
-      "thru": "3*",
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2026-06-19T17:18:00",
+      "thru": "9*",
       "total": "+8",
-      "totalStrokesFromCompletedRounds": "78"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
-      "currentHole": 9,
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Daniel",
       "isAmateur": false,
       "lastName": "Berger",
       "playerId": "40026",
-      "position": "T121",
+      "position": "T119",
       "roundComplete": false,
       "rounds": [
         {
@@ -3860,20 +3846,20 @@
       "status": "active",
       "teeTime": "1:51pm",
       "teeTimeTimestamp": "2026-06-19T17:51:00",
-      "thru": "1*",
+      "thru": "7*",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 14,
       "currentRound": 2,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Mason",
       "isAmateur": true,
       "lastName": "Howell",
       "playerId": "68607",
-      "position": "T121",
+      "position": "T119",
       "roundComplete": false,
       "rounds": [
         {
@@ -3885,40 +3871,40 @@
         }
       ],
       "startingHole": 10,
-      "status": "not started",
+      "status": "active",
       "teeTime": "2:24pm",
       "teeTimeTimestamp": "2026-06-19T18:24:00",
-      "thru": "",
+      "thru": "5*",
       "total": "+8",
       "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 14,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Ryuichi",
+      "currentRoundScore": "+1",
+      "firstName": "J.J.",
       "isAmateur": false,
-      "lastName": "Oiwa",
-      "playerId": "48933",
-      "position": "T121",
+      "lastName": "Spaun",
+      "playerId": "39324",
+      "position": "T119",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+8",
-          "strokes": 78
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:46pm",
-      "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:24pm",
+      "teeTimeTimestamp": "2026-06-19T18:24:00",
+      "thru": "5*",
       "total": "+8",
-      "totalStrokesFromCompletedRounds": "78"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
@@ -3929,7 +3915,7 @@
       "isAmateur": false,
       "lastName": "Coussaud",
       "playerId": "48936",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -3964,7 +3950,7 @@
       "isAmateur": false,
       "lastName": "Kirk",
       "playerId": "30926",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -3999,7 +3985,7 @@
       "isAmateur": false,
       "lastName": "Roy",
       "playerId": "39335",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -4034,7 +4020,7 @@
       "isAmateur": true,
       "lastName": "Stout",
       "playerId": "66416",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -4069,7 +4055,7 @@
       "isAmateur": false,
       "lastName": "Puig",
       "playerId": "61193",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -4104,7 +4090,7 @@
       "isAmateur": false,
       "lastName": "Smalley",
       "playerId": "46340",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -4139,7 +4125,7 @@
       "isAmateur": false,
       "lastName": "Højgaard",
       "playerId": "52453",
-      "position": "T129",
+      "position": "T126",
       "roundComplete": true,
       "rounds": [
         {
@@ -4174,7 +4160,70 @@
       "isAmateur": false,
       "lastName": "Sato",
       "playerId": "33908",
-      "position": "T129",
+      "position": "T126",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+5",
+          "strokes": 75
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+4",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "complete",
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2026-06-19T12:40:00",
+      "thru": "F*",
+      "total": "+9",
+      "totalStrokesFromCompletedRounds": "149"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Hamilton",
+      "isAmateur": true,
+      "lastName": "Coleman",
+      "playerId": "70178",
+      "position": "T126",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+11",
+          "strokes": 81
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2026-06-19T16:45:00",
+      "thru": "12",
+      "total": "+9",
+      "totalStrokesFromCompletedRounds": "81"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "+4",
+      "firstName": "Chase",
+      "isAmateur": true,
+      "lastName": "Kyes",
+      "playerId": "70692",
+      "position": "T126",
       "roundComplete": false,
       "rounds": [
         {
@@ -4187,123 +4236,67 @@
       ],
       "startingHole": 10,
       "status": "active",
-      "teeTime": "8:40am",
-      "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17*",
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2026-06-19T17:07:00",
+      "thru": "9*",
       "total": "+9",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
-      "currentHole": 9,
+      "currentHole": 5,
       "currentRound": 2,
-      "currentRoundScore": "+5",
-      "firstName": "Marcelo",
+      "currentRoundScore": "+1",
+      "firstName": "Ryuichi",
       "isAmateur": false,
-      "lastName": "Rozo",
-      "playerId": "37076",
-      "position": "T129",
+      "lastName": "Oiwa",
+      "playerId": "48933",
+      "position": "T126",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "8:40am",
-      "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17*",
-      "total": "+9",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 14,
-      "currentRound": 2,
-      "currentRoundScore": "+2",
-      "firstName": "Taylor",
-      "isAmateur": false,
-      "lastName": "Montgomery",
-      "playerId": "55789",
-      "position": "T129",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 10,
-      "status": "active",
-      "teeTime": "12:45pm",
-      "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "5*",
-      "total": "+9",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Greyson",
-      "isAmateur": false,
-      "lastName": "Leach",
-      "playerId": "67358",
-      "position": "T129",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+9",
-          "strokes": 79
+          "scoreToPar": "+8",
+          "strokes": 78
         }
       ],
       "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:57pm",
-      "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
+      "status": "active",
+      "teeTime": "2:46pm",
+      "teeTimeTimestamp": "2026-06-19T18:46:00",
+      "thru": "4",
       "total": "+9",
-      "totalStrokesFromCompletedRounds": "79"
+      "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "618",
-      "currentHole": 1,
+      "currentHole": 13,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Logan",
+      "currentRoundScore": "+4",
+      "firstName": "Vaughn",
       "isAmateur": true,
-      "lastName": "Reilly",
-      "playerId": "70696",
-      "position": "T129",
+      "lastName": "Harber",
+      "playerId": "70693",
+      "position": "T126",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+9",
-          "strokes": 79
+          "scoreToPar": "+5",
+          "strokes": 75
         }
       ],
-      "startingHole": 1,
-      "status": "not started",
+      "startingHole": 10,
+      "status": "active",
       "teeTime": "2:57pm",
       "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
+      "thru": "4*",
       "total": "+9",
-      "totalStrokesFromCompletedRounds": "79"
+      "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "618",
@@ -4314,7 +4307,7 @@
       "isAmateur": false,
       "lastName": "Thompson",
       "playerId": "58168",
-      "position": "T141",
+      "position": "T138",
       "roundComplete": true,
       "rounds": [
         {
@@ -4342,31 +4335,87 @@
     },
     {
       "courseId": "618",
-      "currentHole": 10,
+      "currentHole": 3,
       "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Jackson",
-      "isAmateur": true,
-      "lastName": "Ormond",
-      "playerId": "70296",
-      "position": "T141",
+      "currentRoundScore": "+3",
+      "firstName": "Taylor",
+      "isAmateur": false,
+      "lastName": "Montgomery",
+      "playerId": "55789",
+      "position": "T138",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+10",
-          "strokes": 80
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 10,
-      "status": "not started",
-      "teeTime": "2:46pm",
-      "teeTimeTimestamp": "2026-06-19T18:46:00",
-      "thru": "",
+      "status": "active",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2026-06-19T16:45:00",
+      "thru": "11*",
       "total": "+10",
-      "totalStrokesFromCompletedRounds": "80"
+      "totalStrokesFromCompletedRounds": "77"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Greyson",
+      "isAmateur": false,
+      "lastName": "Leach",
+      "playerId": "67358",
+      "position": "T138",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+9",
+          "strokes": 79
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:57pm",
+      "teeTimeTimestamp": "2026-06-19T18:57:00",
+      "thru": "3",
+      "total": "+10",
+      "totalStrokesFromCompletedRounds": "79"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Logan",
+      "isAmateur": true,
+      "lastName": "Reilly",
+      "playerId": "70696",
+      "position": "T138",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+9",
+          "strokes": 79
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "2:57pm",
+      "teeTimeTimestamp": "2026-06-19T18:57:00",
+      "thru": "3",
+      "total": "+10",
+      "totalStrokesFromCompletedRounds": "79"
     },
     {
       "courseId": "618",
@@ -4377,7 +4426,7 @@
       "isAmateur": false,
       "lastName": "Hall",
       "playerId": "57975",
-      "position": "T143",
+      "position": "T142",
       "roundComplete": true,
       "rounds": [
         {
@@ -4412,8 +4461,8 @@
       "isAmateur": true,
       "lastName": "Pulcini",
       "playerId": "70145",
-      "position": "T143",
-      "roundComplete": false,
+      "position": "T142",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -4421,43 +4470,50 @@
           "roundId": 1,
           "scoreToPar": "+4",
           "strokes": 74
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:51am",
       "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+11",
-      "totalStrokesFromCompletedRounds": "74"
+      "totalStrokesFromCompletedRounds": "151"
     },
     {
       "courseId": "618",
-      "currentHole": 6,
+      "currentHole": 17,
       "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Hamilton",
-      "isAmateur": true,
-      "lastName": "Coleman",
-      "playerId": "70178",
-      "position": "T143",
+      "currentRoundScore": "+4",
+      "firstName": "Padraig",
+      "isAmateur": false,
+      "lastName": "Harrington",
+      "playerId": "20766",
+      "position": "T142",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+11",
-          "strokes": 81
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
-      "startingHole": 1,
+      "startingHole": 10,
       "status": "active",
-      "teeTime": "12:45pm",
-      "teeTimeTimestamp": "2026-06-19T16:45:00",
-      "thru": "5",
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2026-06-19T17:29:00",
+      "thru": "8*",
       "total": "+11",
-      "totalStrokesFromCompletedRounds": "81"
+      "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "618",
@@ -4468,7 +4524,7 @@
       "isAmateur": false,
       "lastName": "Du Plessis",
       "playerId": "47497",
-      "position": "T146",
+      "position": "T145",
       "roundComplete": true,
       "rounds": [
         {
@@ -4503,8 +4559,8 @@
       "isAmateur": false,
       "lastName": "McCarty",
       "playerId": "59141",
-      "position": "T146",
-      "roundComplete": false,
+      "position": "T145",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -4512,83 +4568,34 @@
           "roundId": 1,
           "scoreToPar": "+2",
           "strokes": 72
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+10",
+          "strokes": 80
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:40am",
       "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+12",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 16,
-      "currentRound": 2,
-      "currentRoundScore": "E",
-      "firstName": "Jake",
-      "isAmateur": false,
-      "lastName": "Sollon",
-      "playerId": "60879",
-      "position": "T146",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+12",
-          "strokes": 82
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "9:02am",
-      "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "15",
-      "total": "+12",
-      "totalStrokesFromCompletedRounds": "82"
-    },
-    {
-      "courseId": "618",
-      "currentHole": 1,
-      "currentRound": 2,
-      "currentRoundScore": "",
-      "firstName": "Robbie",
-      "isAmateur": false,
-      "lastName": "Higgins",
-      "playerId": "65460",
-      "position": "T146",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "618",
-          "courseName": "Shinnecock Hills Golf Club",
-          "roundId": 1,
-          "scoreToPar": "+12",
-          "strokes": 82
-        }
-      ],
-      "startingHole": 1,
-      "status": "not started",
-      "teeTime": "2:57pm",
-      "teeTimeTimestamp": "2026-06-19T18:57:00",
-      "thru": "",
-      "total": "+12",
-      "totalStrokesFromCompletedRounds": "82"
+      "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "618",
       "currentHole": 9,
       "currentRound": 2,
-      "currentRoundScore": "+4",
+      "currentRoundScore": "+3",
       "firstName": "Nick",
       "isAmateur": false,
       "lastName": "Hardy",
       "playerId": "47988",
-      "position": "T150",
-      "roundComplete": false,
+      "position": "T145",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -4596,43 +4603,113 @@
           "roundId": 1,
           "scoreToPar": "+9",
           "strokes": 79
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:51am",
       "teeTimeTimestamp": "2026-06-19T12:51:00",
-      "thru": "17*",
-      "total": "+13",
-      "totalStrokesFromCompletedRounds": "79"
+      "thru": "F*",
+      "total": "+12",
+      "totalStrokesFromCompletedRounds": "152"
     },
     {
       "courseId": "618",
-      "currentHole": 17,
+      "currentHole": 13,
       "currentRound": 2,
-      "currentRoundScore": "+6",
-      "firstName": "Matthew",
+      "currentRoundScore": "+2",
+      "firstName": "Jackson",
       "isAmateur": true,
-      "lastName": "Robles",
-      "playerId": "70730",
-      "position": "T150",
+      "lastName": "Ormond",
+      "playerId": "70296",
+      "position": "T145",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "618",
           "courseName": "Shinnecock Hills Golf Club",
           "roundId": 1,
-          "scoreToPar": "+7",
-          "strokes": 77
+          "scoreToPar": "+10",
+          "strokes": 80
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "2:46pm",
+      "teeTimeTimestamp": "2026-06-19T18:46:00",
+      "thru": "4*",
+      "total": "+12",
+      "totalStrokesFromCompletedRounds": "80"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Jake",
+      "isAmateur": false,
+      "lastName": "Sollon",
+      "playerId": "60879",
+      "position": "T149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+12",
+          "strokes": 82
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "9:02am",
+      "teeTimeTimestamp": "2026-06-19T13:02:00",
+      "thru": "F",
+      "total": "+13",
+      "totalStrokesFromCompletedRounds": "153"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Robbie",
+      "isAmateur": false,
+      "lastName": "Higgins",
+      "playerId": "65460",
+      "position": "T149",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+12",
+          "strokes": 82
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "9:02am",
-      "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "16",
+      "teeTime": "2:57pm",
+      "teeTimeTimestamp": "2026-06-19T18:57:00",
+      "thru": "3",
       "total": "+13",
-      "totalStrokesFromCompletedRounds": "77"
+      "totalStrokesFromCompletedRounds": "82"
     },
     {
       "courseId": "618",
@@ -4643,7 +4720,7 @@
       "isAmateur": false,
       "lastName": "Schmid",
       "playerId": "48867",
-      "position": "152",
+      "position": "151",
       "roundComplete": true,
       "rounds": [
         {
@@ -4671,15 +4748,50 @@
     },
     {
       "courseId": "618",
-      "currentHole": 8,
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "+9",
+      "firstName": "Matthew",
+      "isAmateur": true,
+      "lastName": "Robles",
+      "playerId": "70730",
+      "position": "T152",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 1,
+          "scoreToPar": "+7",
+          "strokes": 77
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+9",
+          "strokes": 79
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "9:02am",
+      "teeTimeTimestamp": "2026-06-19T13:02:00",
+      "thru": "F",
+      "total": "+16",
+      "totalStrokesFromCompletedRounds": "156"
+    },
+    {
+      "courseId": "618",
+      "currentHole": 9,
       "currentRound": 2,
       "currentRoundScore": "+7",
       "firstName": "T.K.",
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "46155",
-      "position": "153",
-      "roundComplete": false,
+      "position": "T152",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -4687,15 +4799,22 @@
           "roundId": 1,
           "scoreToPar": "+9",
           "strokes": 79
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "9:02am",
       "teeTimeTimestamp": "2026-06-19T13:02:00",
-      "thru": "16*",
+      "thru": "F*",
       "total": "+16",
-      "totalStrokesFromCompletedRounds": "79"
+      "totalStrokesFromCompletedRounds": "156"
     },
     {
       "courseId": "618",
@@ -4742,7 +4861,7 @@
       "lastName": "Sveinsson",
       "playerId": "70694",
       "position": "155",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "618",
@@ -4750,15 +4869,22 @@
           "roundId": 1,
           "scoreToPar": "+14",
           "strokes": 84
+        },
+        {
+          "courseId": "618",
+          "courseName": "Shinnecock Hills Golf Club",
+          "roundId": 2,
+          "scoreToPar": "+7",
+          "strokes": 77
         }
       ],
       "startingHole": 10,
-      "status": "active",
+      "status": "complete",
       "teeTime": "8:40am",
       "teeTimeTimestamp": "2026-06-19T12:40:00",
-      "thru": "17*",
+      "thru": "F*",
       "total": "+21",
-      "totalStrokesFromCompletedRounds": "84"
+      "totalStrokesFromCompletedRounds": "161"
     },
     {
       "courseId": "618",
@@ -4783,7 +4909,7 @@
   "roundId": 2,
   "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-06-19T18:11:03.463000",
+  "timestamp": "2026-06-19T20:04:03.811000",
   "tournId": "026",
   "year": "2026"
 }
