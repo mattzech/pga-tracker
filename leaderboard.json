@@ -1,53 +1,18 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-06-27T21:39:43.133000",
+  "lastUpdated": "2026-06-27T22:00:22.994000",
   "leaderboardRows": [
     {
       "courseId": "503",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-4",
-      "firstName": "Scottie",
-      "isAmateur": false,
-      "lastName": "Scheffler",
-      "playerId": "46046",
-      "position": "1",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "503",
-          "courseName": "TPC River Highlands",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 64
-        },
-        {
-          "courseId": "503",
-          "courseName": "TPC River Highlands",
-          "roundId": 2,
-          "scoreToPar": "-10",
-          "strokes": 60
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:00pm",
-      "teeTimeTimestamp": "2026-06-27T18:00:00",
-      "thru": "16",
-      "total": "-20",
-      "totalStrokesFromCompletedRounds": "124"
-    },
-    {
-      "courseId": "503",
-      "currentHole": 17,
-      "currentRound": 3,
-      "currentRoundScore": "-5",
+      "currentRoundScore": "-6",
       "firstName": "Viktor",
       "isAmateur": false,
       "lastName": "Hovland",
       "playerId": "46717",
-      "position": "2",
-      "roundComplete": false,
+      "position": "1",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "503",
@@ -62,15 +27,64 @@
           "roundId": 2,
           "scoreToPar": "-9",
           "strokes": 61
+        },
+        {
+          "courseId": "503",
+          "courseName": "TPC River Highlands",
+          "roundId": 3,
+          "scoreToPar": "-6",
+          "strokes": 64
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:00pm",
       "teeTimeTimestamp": "2026-06-27T18:00:00",
-      "thru": "17",
+      "thru": "F",
+      "total": "-20",
+      "totalStrokesFromCompletedRounds": "190"
+    },
+    {
+      "courseId": "503",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-3",
+      "firstName": "Scottie",
+      "isAmateur": false,
+      "lastName": "Scheffler",
+      "playerId": "46046",
+      "position": "2",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "503",
+          "courseName": "TPC River Highlands",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 64
+        },
+        {
+          "courseId": "503",
+          "courseName": "TPC River Highlands",
+          "roundId": 2,
+          "scoreToPar": "-10",
+          "strokes": 60
+        },
+        {
+          "courseId": "503",
+          "courseName": "TPC River Highlands",
+          "roundId": 3,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:00pm",
+      "teeTimeTimestamp": "2026-06-27T18:00:00",
+      "thru": "F",
       "total": "-19",
-      "totalStrokesFromCompletedRounds": "126"
+      "totalStrokesFromCompletedRounds": "191"
     },
     {
       "courseId": "503",
@@ -116,7 +130,7 @@
     },
     {
       "courseId": "503",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-3",
       "firstName": "Akshay",
@@ -124,7 +138,7 @@
       "lastName": "Bhatia",
       "playerId": "56630",
       "position": "T3",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "503",
@@ -139,15 +153,22 @@
           "roundId": 2,
           "scoreToPar": "-8",
           "strokes": 62
+        },
+        {
+          "courseId": "503",
+          "courseName": "TPC River Highlands",
+          "roundId": 3,
+          "scoreToPar": "-3",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:50pm",
       "teeTimeTimestamp": "2026-06-27T17:50:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-15",
-      "totalStrokesFromCompletedRounds": "128"
+      "totalStrokesFromCompletedRounds": "195"
     },
     {
       "courseId": "503",
@@ -352,7 +373,7 @@
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:50pm",
       "teeTimeTimestamp": "2026-06-27T17:50:00",
       "thru": "F",
@@ -3008,9 +3029,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-06-27T21:39:43.133000",
+  "timestamp": "2026-06-27T22:00:22.994000",
   "tournId": "034",
   "year": "2026"
 }
