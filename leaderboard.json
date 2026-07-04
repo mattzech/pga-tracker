@@ -5,11 +5,11 @@
       "cutScore": "-3"
     }
   ],
-  "lastUpdated": "2026-07-04T22:44:42.278000",
+  "lastUpdated": "2026-07-04T22:52:42.495000",
   "leaderboardRows": [
     {
       "courseId": "669",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-2",
       "firstName": "Lucas",
@@ -17,7 +17,7 @@
       "lastName": "Glover",
       "playerId": "25900",
       "position": "T1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "669",
@@ -32,19 +32,26 @@
           "roundId": 2,
           "scoreToPar": "-6",
           "strokes": 65
+        },
+        {
+          "courseId": "669",
+          "courseName": "TPC Deere Run",
+          "roundId": 3,
+          "scoreToPar": "-2",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "11:35am",
       "teeTimeTimestamp": "2026-07-04T16:35:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-16",
-      "totalStrokesFromCompletedRounds": "128"
+      "totalStrokesFromCompletedRounds": "197"
     },
     {
       "courseId": "669",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-4",
       "firstName": "Lee",
@@ -52,7 +59,7 @@
       "lastName": "Hodges",
       "playerId": "54628",
       "position": "T1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "669",
@@ -67,50 +74,22 @@
           "roundId": 2,
           "scoreToPar": "-5",
           "strokes": 66
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "11:35am",
-      "teeTimeTimestamp": "2026-07-04T16:35:00",
-      "thru": "17",
-      "total": "-16",
-      "totalStrokesFromCompletedRounds": "130"
-    },
-    {
-      "courseId": "669",
-      "currentHole": 17,
-      "currentRound": 3,
-      "currentRoundScore": "-5",
-      "firstName": "Zac",
-      "isAmateur": false,
-      "lastName": "Blair",
-      "playerId": "40058",
-      "position": "T1",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "669",
-          "courseName": "TPC Deere Run",
-          "roundId": 1,
-          "scoreToPar": "-8",
-          "strokes": 63
         },
         {
           "courseId": "669",
           "courseName": "TPC Deere Run",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 68
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "11:35am",
       "teeTimeTimestamp": "2026-07-04T16:35:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-16",
-      "totalStrokesFromCompletedRounds": "131"
+      "totalStrokesFromCompletedRounds": "197"
     },
     {
       "courseId": "669",
@@ -121,7 +100,7 @@
       "isAmateur": false,
       "lastName": "Kohles",
       "playerId": "36884",
-      "position": "T4",
+      "position": "T3",
       "roundComplete": true,
       "rounds": [
         {
@@ -163,7 +142,7 @@
       "isAmateur": false,
       "lastName": "Suber",
       "playerId": "60019",
-      "position": "T4",
+      "position": "T3",
       "roundComplete": true,
       "rounds": [
         {
@@ -192,6 +171,48 @@
       "status": "complete",
       "teeTime": "11:24am",
       "teeTimeTimestamp": "2026-07-04T16:24:00",
+      "thru": "F",
+      "total": "-15",
+      "totalStrokesFromCompletedRounds": "198"
+    },
+    {
+      "courseId": "669",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-4",
+      "firstName": "Zac",
+      "isAmateur": false,
+      "lastName": "Blair",
+      "playerId": "40058",
+      "position": "T3",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "669",
+          "courseName": "TPC Deere Run",
+          "roundId": 1,
+          "scoreToPar": "-8",
+          "strokes": 63
+        },
+        {
+          "courseId": "669",
+          "courseName": "TPC Deere Run",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 68
+        },
+        {
+          "courseId": "669",
+          "courseName": "TPC Deere Run",
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2026-07-04T16:35:00",
       "thru": "F",
       "total": "-15",
       "totalStrokesFromCompletedRounds": "198"
@@ -5445,9 +5466,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-07-04T22:44:42.278000",
+  "timestamp": "2026-07-04T22:52:42.495000",
   "tournId": "030",
   "year": "2026"
 }
