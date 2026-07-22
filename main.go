@@ -17,8 +17,8 @@ import (
 
 var (
 	members   = []string{"Matt", "JR", "Pat", "Alex", "Chuck"}
-	tournID   = "100"
-	tournName = "#TheOpen"
+	tournID   = "525"
+	tournName = "3M Open"
 )
 
 type PageData struct {
