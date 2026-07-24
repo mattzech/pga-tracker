@@ -1,18 +1,23 @@
 {
-  "cutLines": [],
-  "lastUpdated": "2026-07-24T00:14:03.724000",
+  "cutLines": [
+    {
+      "cutCount": 79,
+      "cutScore": "-2"
+    }
+  ],
+  "lastUpdated": "2026-07-24T13:04:02.787000",
   "leaderboardRows": [
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-9",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "-3",
       "firstName": "Ben",
       "isAmateur": false,
       "lastName": "Kohles",
       "playerId": "36884",
       "position": "1",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -22,81 +27,25 @@
           "strokes": 62
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
-      "thru": "F",
-      "total": "-9",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "6:45am",
+      "teeTimeTimestamp": "2026-07-24T11:45:00",
+      "thru": "5*",
+      "total": "-12",
       "totalStrokesFromCompletedRounds": "62"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-7",
-      "firstName": "Emiliano",
-      "isAmateur": false,
-      "lastName": "Grillo",
-      "playerId": "31646",
-      "position": "T2",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-7",
-          "strokes": 64
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F",
-      "total": "-7",
-      "totalStrokesFromCompletedRounds": "64"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-7",
-      "firstName": "Jackson",
-      "isAmateur": false,
-      "lastName": "Koivun",
-      "playerId": "66701",
-      "position": "T2",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-7",
-          "strokes": 64
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F",
-      "total": "-7",
-      "totalStrokesFromCompletedRounds": "64"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-7",
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
       "firstName": "Gary",
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T2",
-      "roundComplete": true,
+      "position": "2",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -106,529 +55,53 @@
           "strokes": 64
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2*",
+      "total": "-8",
+      "totalStrokesFromCompletedRounds": "64"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Emiliano",
+      "isAmateur": false,
+      "lastName": "Grillo",
+      "playerId": "31646",
+      "position": "3",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-7",
+          "strokes": 64
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
       "total": "-7",
       "totalStrokesFromCompletedRounds": "64"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-6",
-      "firstName": "Scottie",
-      "isAmateur": false,
-      "lastName": "Scheffler",
-      "playerId": "46046",
-      "position": "T5",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F*",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "65"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-6",
-      "firstName": "Lucas",
-      "isAmateur": false,
-      "lastName": "Glover",
-      "playerId": "25900",
-      "position": "T5",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F*",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "65"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-6",
-      "firstName": "Michael",
-      "isAmateur": false,
-      "lastName": "Brennan",
-      "playerId": "61522",
-      "position": "T5",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "65"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-6",
-      "firstName": "Kevin",
-      "isAmateur": false,
-      "lastName": "Roy",
-      "playerId": "39335",
-      "position": "T5",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "65"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-6",
-      "firstName": "Jesper",
-      "isAmateur": false,
-      "lastName": "Svensson",
-      "playerId": "57586",
-      "position": "T5",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "65"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-5",
-      "firstName": "Chandler",
-      "isAmateur": false,
-      "lastName": "Phillips",
-      "playerId": "57900",
-      "position": "T10",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 66
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-5",
-      "firstName": "Denny",
-      "isAmateur": false,
-      "lastName": "McCarthy",
-      "playerId": "47993",
-      "position": "T10",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 66
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F*",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-5",
-      "firstName": "Troy",
-      "isAmateur": false,
-      "lastName": "Merritt",
-      "playerId": "32640",
-      "position": "T10",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 66
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-5",
-      "firstName": "Rasmus",
-      "isAmateur": false,
-      "lastName": "Neergaard-Petersen",
-      "playerId": "52689",
-      "position": "T10",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 66
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Vince",
-      "isAmateur": false,
-      "lastName": "Whaley",
-      "playerId": "51894",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Rico",
-      "isAmateur": false,
-      "lastName": "Hoey",
-      "playerId": "51696",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Jeffrey",
-      "isAmateur": false,
-      "lastName": "Kang",
-      "playerId": "47393",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Marcelo",
-      "isAmateur": false,
-      "lastName": "Rozo",
-      "playerId": "37076",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "John",
-      "isAmateur": false,
-      "lastName": "VanDerLaan",
-      "playerId": "55573",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Trace",
-      "isAmateur": false,
-      "lastName": "Crowe",
-      "playerId": "52514",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Zecheng",
-      "isAmateur": false,
-      "lastName": "Dou",
-      "playerId": "37338",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Chandler",
-      "isAmateur": false,
-      "lastName": "Blanchet",
-      "playerId": "54788",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Matti",
-      "isAmateur": false,
-      "lastName": "Schmid",
-      "playerId": "48867",
-      "position": "T14",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
       "firstName": "Billy",
       "isAmateur": false,
       "lastName": "Horschel",
       "playerId": "29420",
-      "position": "T14",
-      "roundComplete": true,
+      "position": "T4",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -636,195 +109,195 @@
           "roundId": 1,
           "scoreToPar": "-4",
           "strokes": 67
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "3*",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Jackson",
+      "isAmateur": false,
+      "lastName": "Koivun",
+      "playerId": "66701",
+      "position": "T4",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-7",
+          "strokes": 64
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "2*",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "64"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Scottie",
+      "isAmateur": false,
+      "lastName": "Scheffler",
+      "playerId": "46046",
+      "position": "T4",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 65
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Lucas",
+      "isAmateur": false,
+      "lastName": "Glover",
+      "playerId": "25900",
+      "position": "T4",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Michael",
+      "isAmateur": false,
+      "lastName": "Brennan",
+      "playerId": "61522",
+      "position": "T4",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Kevin",
       "isAmateur": false,
-      "lastName": "Streelman",
-      "playerId": "27214",
-      "position": "T14",
-      "roundComplete": true,
+      "lastName": "Roy",
+      "playerId": "39335",
+      "position": "T4",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
           "courseName": "TPC Twin Cities",
           "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
+          "scoreToPar": "-6",
+          "strokes": 65
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-4",
-      "firstName": "Keita",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jesper",
       "isAmateur": false,
-      "lastName": "Nakajima",
-      "playerId": "49228",
-      "position": "T14",
-      "roundComplete": true,
+      "lastName": "Svensson",
+      "playerId": "57586",
+      "position": "T4",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
           "courseName": "TPC Twin Cities",
           "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 67
+          "scoreToPar": "-6",
+          "strokes": 65
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F*",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "67"
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "65"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Lee",
-      "isAmateur": false,
-      "lastName": "Hodges",
-      "playerId": "54628",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Jake",
-      "isAmateur": false,
-      "lastName": "Knapp",
-      "playerId": "47420",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Keith",
-      "isAmateur": false,
-      "lastName": "Mitchell",
-      "playerId": "39546",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Tom",
-      "isAmateur": false,
-      "lastName": "Hoge",
-      "playerId": "35532",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
       "firstName": "Sam",
       "isAmateur": false,
       "lastName": "Stevens",
       "playerId": "55893",
-      "position": "T26",
-      "roundComplete": true,
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -834,81 +307,25 @@
           "strokes": 68
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
-      "thru": "F*",
-      "total": "-3",
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "6:45am",
+      "teeTimeTimestamp": "2026-07-24T11:45:00",
+      "thru": "5",
+      "total": "-5",
       "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Adam",
-      "isAmateur": false,
-      "lastName": "Svensson",
-      "playerId": "40115",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
       "firstName": "Zac",
       "isAmateur": false,
       "lastName": "Blair",
       "playerId": "40058",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Christiaan",
-      "isAmateur": false,
-      "lastName": "Bezuidenhout",
-      "playerId": "45522",
-      "position": "T26",
-      "roundComplete": true,
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -919,80 +336,24 @@
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F*",
-      "total": "-3",
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "3*",
+      "total": "-5",
       "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Kurt",
-      "isAmateur": false,
-      "lastName": "Kitayama",
-      "playerId": "48117",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
+      "currentHole": 2,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
       "firstName": "Davis",
       "isAmateur": false,
       "lastName": "Thompson",
       "playerId": "58168",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Tom",
-      "isAmateur": false,
-      "lastName": "Kim",
-      "playerId": "55182",
-      "position": "T26",
-      "roundComplete": true,
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -1003,640 +364,164 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F",
-      "total": "-3",
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "2",
+      "total": "-5",
       "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Austin",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Chandler",
       "isAmateur": false,
-      "lastName": "Smotherman",
-      "playerId": "50095",
-      "position": "T26",
-      "roundComplete": true,
+      "lastName": "Phillips",
+      "playerId": "57900",
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
           "courseName": "TPC Twin Cities",
           "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
+          "scoreToPar": "-5",
+          "strokes": 66
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Seamus",
-      "isAmateur": false,
-      "lastName": "Power",
-      "playerId": "28252",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Will",
-      "isAmateur": false,
-      "lastName": "Gordon",
-      "playerId": "56762",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Pontus",
-      "isAmateur": false,
-      "lastName": "Nyholm",
-      "playerId": "55851",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
+      "status": "between rounds",
       "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "66"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Jackson",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Denny",
       "isAmateur": false,
-      "lastName": "Suber",
-      "playerId": "60019",
-      "position": "T26",
-      "roundComplete": true,
+      "lastName": "McCarthy",
+      "playerId": "47993",
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
           "courseName": "TPC Twin Cities",
           "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
+          "scoreToPar": "-5",
+          "strokes": 66
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
+      "status": "between rounds",
+      "teeTime": "1:28pm",
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "66"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-3",
-      "firstName": "Haotong",
-      "isAmateur": false,
-      "lastName": "Li",
-      "playerId": "35296",
-      "position": "T26",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F*",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "Greyserman",
-      "playerId": "51977",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Rasmus",
       "isAmateur": false,
-      "lastName": "Højgaard",
-      "playerId": "52686",
-      "position": "T43",
-      "roundComplete": true,
+      "lastName": "Neergaard-Petersen",
+      "playerId": "52689",
+      "position": "T11",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
           "courseName": "TPC Twin Cities",
           "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
+          "scoreToPar": "-5",
+          "strokes": 66
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "66"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Troy",
+      "isAmateur": false,
+      "lastName": "Merritt",
+      "playerId": "32640",
+      "position": "T11",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 66
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "66"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Tom",
+      "isAmateur": false,
+      "lastName": "Hoge",
+      "playerId": "35532",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
-      "status": "complete",
+      "status": "active",
       "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
+      "teeTimeTimestamp": "2026-07-24T11:45:00",
+      "thru": "5",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "68"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Harry",
-      "isAmateur": false,
-      "lastName": "Higgs",
-      "playerId": "33597",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Thorbjørn",
-      "isAmateur": false,
-      "lastName": "Olesen",
-      "playerId": "33968",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Karl",
-      "isAmateur": false,
-      "lastName": "Vilips",
-      "playerId": "54304",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Brian",
-      "isAmateur": false,
-      "lastName": "Harman",
-      "playerId": "27644",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Andrew",
-      "isAmateur": false,
-      "lastName": "Putnam",
-      "playerId": "34256",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Adam",
-      "isAmateur": false,
-      "lastName": "Hadwin",
-      "playerId": "33399",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Camilo",
-      "isAmateur": false,
-      "lastName": "Villegas",
-      "playerId": "27770",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Beau",
-      "isAmateur": false,
-      "lastName": "Hossler",
-      "playerId": "35461",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "A.J.",
-      "isAmateur": false,
-      "lastName": "Ewart",
-      "playerId": "50286",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Adrien",
-      "isAmateur": false,
-      "lastName": "Dumont de Chassart",
-      "playerId": "50497",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Hank",
-      "isAmateur": false,
-      "lastName": "Lebioda",
-      "playerId": "49766",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Austin",
-      "isAmateur": false,
-      "lastName": "Eckroat",
-      "playerId": "57362",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Pierceson",
-      "isAmateur": false,
-      "lastName": "Coody",
-      "playerId": "59836",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "Silverman",
-      "playerId": "39327",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
+      "currentHole": 4,
+      "currentRound": 2,
       "currentRoundScore": "-2",
       "firstName": "Michael",
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "39975",
-      "position": "T43",
-      "roundComplete": true,
+      "position": "T18",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -1646,25 +531,389 @@
           "strokes": 69
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F*",
-      "total": "-2",
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "4",
+      "total": "-4",
       "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Brian",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Christiaan",
       "isAmateur": false,
-      "lastName": "Campbell",
-      "playerId": "46443",
-      "position": "T43",
-      "roundComplete": true,
+      "lastName": "Bezuidenhout",
+      "playerId": "45522",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "4",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Kevin",
+      "isAmateur": false,
+      "lastName": "Streelman",
+      "playerId": "27214",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Vince",
+      "isAmateur": false,
+      "lastName": "Whaley",
+      "playerId": "51894",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Rico",
+      "isAmateur": false,
+      "lastName": "Hoey",
+      "playerId": "51696",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jeffrey",
+      "isAmateur": false,
+      "lastName": "Kang",
+      "playerId": "47393",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Marcelo",
+      "isAmateur": false,
+      "lastName": "Rozo",
+      "playerId": "37076",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "John",
+      "isAmateur": false,
+      "lastName": "VanDerLaan",
+      "playerId": "55573",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Trace",
+      "isAmateur": false,
+      "lastName": "Crowe",
+      "playerId": "52514",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Zecheng",
+      "isAmateur": false,
+      "lastName": "Dou",
+      "playerId": "37338",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Chandler",
+      "isAmateur": false,
+      "lastName": "Blanchet",
+      "playerId": "54788",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Keita",
+      "isAmateur": false,
+      "lastName": "Nakajima",
+      "playerId": "49228",
+      "position": "T18",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "lastName": "Svensson",
+      "playerId": "40115",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "5",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Matti",
+      "isAmateur": false,
+      "lastName": "Schmid",
+      "playerId": "48867",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "4",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "67"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Austin",
+      "isAmateur": false,
+      "lastName": "Eckroat",
+      "playerId": "57362",
+      "position": "T31",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -1675,108 +924,388 @@
         }
       ],
       "startingHole": 10,
-      "status": "complete",
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "4*",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Kurt",
+      "isAmateur": false,
+      "lastName": "Kitayama",
+      "playerId": "48117",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "2*",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Tom",
+      "isAmateur": false,
+      "lastName": "Kim",
+      "playerId": "55182",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1*",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Austin",
+      "isAmateur": false,
+      "lastName": "Smotherman",
+      "playerId": "50095",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "1",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Lee",
+      "isAmateur": false,
+      "lastName": "Hodges",
+      "playerId": "54628",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jake",
+      "isAmateur": false,
+      "lastName": "Knapp",
+      "playerId": "47420",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
       "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F*",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Keith",
+      "isAmateur": false,
+      "lastName": "Mitchell",
+      "playerId": "39546",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Will",
+      "isAmateur": false,
+      "lastName": "Gordon",
+      "playerId": "56762",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Pontus",
+      "isAmateur": false,
+      "lastName": "Nyholm",
+      "playerId": "55851",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jackson",
+      "isAmateur": false,
+      "lastName": "Suber",
+      "playerId": "60019",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Haotong",
+      "isAmateur": false,
+      "lastName": "Li",
+      "playerId": "35296",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Seamus",
+      "isAmateur": false,
+      "lastName": "Power",
+      "playerId": "28252",
+      "position": "T31",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "68"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 14,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Hank",
+      "isAmateur": false,
+      "lastName": "Lebioda",
+      "playerId": "49766",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "6:45am",
+      "teeTimeTimestamp": "2026-07-24T11:45:00",
+      "thru": "5*",
       "total": "-2",
       "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Ben",
+      "isAmateur": false,
+      "lastName": "Silverman",
+      "playerId": "39327",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "4*",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 2,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Kevin",
       "isAmateur": false,
       "lastName": "Yu",
       "playerId": "45242",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Doug",
-      "isAmateur": false,
-      "lastName": "Ghim",
-      "playerId": "52375",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Jimmy",
-      "isAmateur": false,
-      "lastName": "Stanger",
-      "playerId": "51600",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Preston",
-      "isAmateur": true,
-      "lastName": "Stout",
-      "playerId": "66416",
-      "position": "T43",
-      "roundComplete": true,
+      "position": "T45",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -1787,976 +1316,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "John",
-      "isAmateur": false,
-      "lastName": "Parry",
-      "playerId": "28723",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Davis",
-      "isAmateur": false,
-      "lastName": "Chatfield",
-      "playerId": "59006",
-      "position": "T43",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F*",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "69"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Taylor",
-      "isAmateur": false,
-      "lastName": "Moore",
-      "playerId": "49947",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Tyler",
-      "isAmateur": false,
-      "lastName": "Duncan",
-      "playerId": "45609",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Mark",
-      "isAmateur": false,
-      "lastName": "Hubbard",
-      "playerId": "36801",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Taylor",
-      "isAmateur": false,
-      "lastName": "Pendrith",
-      "playerId": "40250",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Chris",
-      "isAmateur": false,
-      "lastName": "Kirk",
-      "playerId": "30926",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Corey",
-      "isAmateur": false,
-      "lastName": "Conners",
-      "playerId": "39997",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Hideki",
-      "isAmateur": false,
-      "lastName": "Matsuyama",
-      "playerId": "32839",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
+      "status": "active",
       "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Stephan",
-      "isAmateur": false,
-      "lastName": "Jaeger",
-      "playerId": "36799",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Steven",
-      "isAmateur": false,
-      "lastName": "Fisk",
-      "playerId": "57123",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Patrick",
-      "isAmateur": false,
-      "lastName": "Fishburn",
-      "playerId": "54576",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "James",
-      "playerId": "57869",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:24am",
-      "teeTimeTimestamp": "2026-07-23T13:24:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Zach",
-      "isAmateur": false,
-      "lastName": "Bauchou",
-      "playerId": "48001",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Adam",
-      "isAmateur": false,
-      "lastName": "Schenk",
-      "playerId": "47347",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Joel",
-      "isAmateur": false,
-      "lastName": "Dahmen",
-      "playerId": "34076",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "David",
-      "isAmateur": false,
-      "lastName": "Lipsky",
-      "playerId": "36326",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Lanto",
-      "isAmateur": false,
-      "lastName": "Griffin",
-      "playerId": "35310",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Justin",
-      "isAmateur": false,
-      "lastName": "Lower",
-      "playerId": "40162",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F*",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Christo",
-      "isAmateur": false,
-      "lastName": "Lamprecht",
-      "playerId": "54422",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Neal",
-      "isAmateur": false,
-      "lastName": "Shipley",
-      "playerId": "63807",
-      "position": "T67",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "70"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Mackenzie",
-      "isAmateur": false,
-      "lastName": "Hughes",
-      "playerId": "35506",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "6:45am",
-      "teeTimeTimestamp": "2026-07-23T11:45:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Jordan",
-      "isAmateur": false,
-      "lastName": "Smith",
-      "playerId": "46464",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Sudarshan",
-      "isAmateur": false,
-      "lastName": "Yellamaraju",
-      "playerId": "60386",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "William",
-      "isAmateur": false,
-      "lastName": "Mouw",
-      "playerId": "63121",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Joe",
-      "isAmateur": false,
-      "lastName": "Highsmith",
-      "playerId": "60067",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Sungjae",
-      "isAmateur": false,
-      "lastName": "Im",
-      "playerId": "39971",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:29am",
-      "teeTimeTimestamp": "2026-07-23T12:29:00",
-      "thru": "F*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Cam",
-      "isAmateur": false,
-      "lastName": "Davis",
-      "playerId": "45157",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Nick",
-      "isAmateur": false,
-      "lastName": "Hardy",
-      "playerId": "47988",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Luke",
-      "isAmateur": false,
-      "lastName": "List",
-      "playerId": "27129",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Jeevan",
-      "isAmateur": false,
-      "lastName": "Sihota",
-      "playerId": "62811",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Hayden",
-      "isAmateur": false,
-      "lastName": "Springer",
-      "playerId": "50484",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Cooper",
-      "isAmateur": false,
-      "lastName": "Schultz",
-      "playerId": "65140",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Ricky",
-      "isAmateur": false,
-      "lastName": "Castillo",
-      "playerId": "59440",
-      "position": "T86",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:33pm",
-      "teeTimeTimestamp": "2026-07-23T17:33:00",
-      "thru": "F*",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
       "firstName": "Maverick",
       "isAmateur": false,
       "lastName": "McNealy",
       "playerId": "46442",
-      "position": "T86",
-      "roundComplete": true,
+      "position": "T45",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -2766,25 +1343,1201 @@
           "strokes": 71
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F",
-      "total": "E",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2*",
+      "total": "-2",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "Greyserman",
+      "playerId": "51977",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Rasmus",
+      "isAmateur": false,
+      "lastName": "Højgaard",
+      "playerId": "52686",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Harry",
+      "isAmateur": false,
+      "lastName": "Higgs",
+      "playerId": "33597",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Thorbjørn",
+      "isAmateur": false,
+      "lastName": "Olesen",
+      "playerId": "33968",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Karl",
+      "isAmateur": false,
+      "lastName": "Vilips",
+      "playerId": "54304",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Brian",
+      "isAmateur": false,
+      "lastName": "Harman",
+      "playerId": "27644",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Andrew",
+      "isAmateur": false,
+      "lastName": "Putnam",
+      "playerId": "34256",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "lastName": "Hadwin",
+      "playerId": "33399",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Camilo",
+      "isAmateur": false,
+      "lastName": "Villegas",
+      "playerId": "27770",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:28pm",
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Beau",
+      "isAmateur": false,
+      "lastName": "Hossler",
+      "playerId": "35461",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:28pm",
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "A.J.",
+      "isAmateur": false,
+      "lastName": "Ewart",
+      "playerId": "50286",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Adrien",
+      "isAmateur": false,
+      "lastName": "Dumont de Chassart",
+      "playerId": "50497",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jimmy",
+      "isAmateur": false,
+      "lastName": "Stanger",
+      "playerId": "51600",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Preston",
+      "isAmateur": true,
+      "lastName": "Stout",
+      "playerId": "66416",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "John",
+      "isAmateur": false,
+      "lastName": "Parry",
+      "playerId": "28723",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Davis",
+      "isAmateur": false,
+      "lastName": "Chatfield",
+      "playerId": "59006",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Doug",
+      "isAmateur": false,
+      "lastName": "Ghim",
+      "playerId": "52375",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 13,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Pierceson",
+      "isAmateur": false,
+      "lastName": "Coody",
+      "playerId": "59836",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "4*",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "lastName": "Schenk",
+      "playerId": "47347",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Taylor",
+      "isAmateur": false,
+      "lastName": "Moore",
+      "playerId": "49947",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Tyler",
+      "isAmateur": false,
+      "lastName": "Duncan",
+      "playerId": "45609",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Mark",
+      "isAmateur": false,
+      "lastName": "Hubbard",
+      "playerId": "36801",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Taylor",
+      "isAmateur": false,
+      "lastName": "Pendrith",
+      "playerId": "40250",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Chris",
+      "isAmateur": false,
+      "lastName": "Kirk",
+      "playerId": "30926",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Corey",
+      "isAmateur": false,
+      "lastName": "Conners",
+      "playerId": "39997",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Hideki",
+      "isAmateur": false,
+      "lastName": "Matsuyama",
+      "playerId": "32839",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Stephan",
+      "isAmateur": false,
+      "lastName": "Jaeger",
+      "playerId": "36799",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Steven",
+      "isAmateur": false,
+      "lastName": "Fisk",
+      "playerId": "57123",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "lastName": "Fishburn",
+      "playerId": "54576",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Ben",
+      "isAmateur": false,
+      "lastName": "James",
+      "playerId": "57869",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:39pm",
+      "teeTimeTimestamp": "2026-07-24T18:39:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Zach",
+      "isAmateur": false,
+      "lastName": "Bauchou",
+      "playerId": "48001",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "David",
+      "isAmateur": false,
+      "lastName": "Lipsky",
+      "playerId": "36326",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Justin",
+      "isAmateur": false,
+      "lastName": "Lower",
+      "playerId": "40162",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Christo",
+      "isAmateur": false,
+      "lastName": "Lamprecht",
+      "playerId": "54422",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Neal",
+      "isAmateur": false,
+      "lastName": "Shipley",
+      "playerId": "63807",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Joel",
+      "isAmateur": false,
+      "lastName": "Dahmen",
+      "playerId": "34076",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Lanto",
+      "isAmateur": false,
+      "lastName": "Griffin",
+      "playerId": "35310",
+      "position": "T66",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
+      "total": "-1",
+      "totalStrokesFromCompletedRounds": "70"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 4,
+      "currentRound": 2,
+      "currentRoundScore": "-2",
+      "firstName": "Brice",
+      "isAmateur": false,
+      "lastName": "Garnett",
+      "playerId": "29535",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "4",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 2,
+      "currentRound": 2,
+      "currentRoundScore": "+2",
+      "firstName": "Brian",
+      "isAmateur": false,
+      "lastName": "Campbell",
+      "playerId": "46443",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 69
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "2",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "69"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Casey",
       "isAmateur": false,
       "lastName": "Jarvis",
       "playerId": "57688",
       "position": "T86",
-      "roundComplete": true,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1*",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Mackenzie",
+      "isAmateur": false,
+      "lastName": "Hughes",
+      "playerId": "35506",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:00pm",
+      "teeTimeTimestamp": "2026-07-24T17:00:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jordan",
+      "isAmateur": false,
+      "lastName": "Smith",
+      "playerId": "46464",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Sudarshan",
+      "isAmateur": false,
+      "lastName": "Yellamaraju",
+      "playerId": "60386",
+      "position": "T86",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -2795,24 +2548,276 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F",
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
       "total": "E",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "E",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "William",
+      "isAmateur": false,
+      "lastName": "Mouw",
+      "playerId": "63121",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Joe",
+      "isAmateur": false,
+      "lastName": "Highsmith",
+      "playerId": "60067",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Sungjae",
+      "isAmateur": false,
+      "lastName": "Im",
+      "playerId": "39971",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2026-07-24T17:44:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Cam",
+      "isAmateur": false,
+      "lastName": "Davis",
+      "playerId": "45157",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Hardy",
+      "playerId": "47988",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Luke",
+      "isAmateur": false,
+      "lastName": "List",
+      "playerId": "27129",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Jeevan",
+      "isAmateur": false,
+      "lastName": "Sihota",
+      "playerId": "62811",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Hayden",
+      "isAmateur": false,
+      "lastName": "Springer",
+      "playerId": "50484",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Cooper",
+      "isAmateur": false,
+      "lastName": "Schultz",
+      "playerId": "65140",
+      "position": "T86",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Fabián",
       "isAmateur": false,
       "lastName": "Gómez",
       "playerId": "28679",
       "position": "T86",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -2822,25 +2827,25 @@
           "strokes": 71
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:17pm",
-      "teeTimeTimestamp": "2026-07-23T18:17:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "8:02am",
+      "teeTimeTimestamp": "2026-07-24T13:02:00",
+      "thru": "",
       "total": "E",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "E",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Sihan",
       "isAmateur": true,
       "lastName": "Sandhu",
       "playerId": "70869",
       "position": "T86",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -2850,221 +2855,25 @@
           "strokes": 71
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
       "total": "E",
       "totalStrokesFromCompletedRounds": "71"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Rafael",
-      "isAmateur": false,
-      "lastName": "Campos",
-      "playerId": "32070",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "Homa",
-      "playerId": "39977",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F*",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Garrick",
-      "isAmateur": false,
-      "lastName": "Higgo",
-      "playerId": "54421",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:40am",
-      "teeTimeTimestamp": "2026-07-23T12:40:00",
-      "thru": "F",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Matthieu",
-      "isAmateur": false,
-      "lastName": "Pavon",
-      "playerId": "48153",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F*",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Chad",
-      "isAmateur": false,
-      "lastName": "Ramey",
-      "playerId": "47983",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Danny",
-      "isAmateur": false,
-      "lastName": "Walker",
-      "playerId": "54607",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:13am",
-      "teeTimeTimestamp": "2026-07-23T13:13:00",
-      "thru": "F",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Brannon",
-      "isAmateur": false,
-      "lastName": "Fahrny",
-      "playerId": "66776",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:46am",
-      "teeTimeTimestamp": "2026-07-23T13:46:00",
-      "thru": "F",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Peter",
       "isAmateur": false,
       "lastName": "Malnati",
       "playerId": "34466",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3074,81 +2883,25 @@
           "strokes": 72
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "6:45am",
+      "teeTimeTimestamp": "2026-07-24T11:45:00",
+      "thru": "5",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 5,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Champ",
       "playerId": "52372",
       "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:11pm",
-      "teeTimeTimestamp": "2026-07-23T17:11:00",
-      "thru": "F*",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Aaron",
-      "isAmateur": false,
-      "lastName": "Wise",
-      "playerId": "49964",
-      "position": "T103",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 72
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F*",
-      "total": "+1",
-      "totalStrokesFromCompletedRounds": "72"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
-      "firstName": "Ben",
-      "isAmateur": false,
-      "lastName": "Martin",
-      "playerId": "33413",
-      "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3159,24 +2912,304 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F",
+      "status": "active",
+      "teeTime": "6:56am",
+      "teeTimeTimestamp": "2026-07-24T11:56:00",
+      "thru": "5",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Dunlap",
+      "playerId": "59866",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "3*",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 12,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Takumi",
+      "isAmateur": false,
+      "lastName": "Kanaya",
+      "playerId": "47917",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:07am",
+      "teeTimeTimestamp": "2026-07-24T12:07:00",
+      "thru": "3*",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
+      "firstName": "Charley",
+      "isAmateur": false,
+      "lastName": "Hoffman",
+      "playerId": "12716",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1*",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "73"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Rafael",
+      "isAmateur": false,
+      "lastName": "Campos",
+      "playerId": "32070",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "Homa",
+      "playerId": "39977",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Garrick",
+      "isAmateur": false,
+      "lastName": "Higgo",
+      "playerId": "54421",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-07-24T17:55:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Matthieu",
+      "isAmateur": false,
+      "lastName": "Pavon",
+      "playerId": "48153",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Chad",
+      "isAmateur": false,
+      "lastName": "Ramey",
+      "playerId": "47983",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:28pm",
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Danny",
+      "isAmateur": false,
+      "lastName": "Walker",
+      "playerId": "54607",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:28pm",
+      "teeTimeTimestamp": "2026-07-24T18:28:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Brannon",
+      "isAmateur": false,
+      "lastName": "Fahrny",
+      "playerId": "66776",
+      "position": "T103",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "2:01pm",
+      "teeTimeTimestamp": "2026-07-24T19:01:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Luke",
       "isAmateur": false,
       "lastName": "Clanton",
       "playerId": "66743",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3186,25 +3219,25 @@
           "strokes": 72
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Paul",
       "isAmateur": false,
       "lastName": "Peterson",
       "playerId": "36824",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3214,25 +3247,25 @@
           "strokes": 72
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Thomas",
       "isAmateur": false,
       "lastName": "Campbell",
       "playerId": "46238",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3242,25 +3275,25 @@
           "strokes": 72
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:39pm",
-      "teeTimeTimestamp": "2026-07-23T18:39:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:24am",
+      "teeTimeTimestamp": "2026-07-24T13:24:00",
+      "thru": "",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Kristoffer",
       "isAmateur": false,
       "lastName": "Ventura",
       "playerId": "35658",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3270,25 +3303,53 @@
           "strokes": 72
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+1",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Griffin",
       "isAmateur": false,
       "lastName": "Wood",
       "playerId": "59685",
       "position": "T103",
-      "roundComplete": true,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2026-07-24T13:35:00",
+      "thru": "",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Ben",
+      "isAmateur": false,
+      "lastName": "Martin",
+      "playerId": "33413",
+      "position": "T103",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3299,24 +3360,52 @@
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:50pm",
-      "teeTimeTimestamp": "2026-07-23T18:50:00",
-      "thru": "F*",
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
+      "currentHole": 3,
+      "currentRound": 2,
       "currentRoundScore": "+2",
+      "firstName": "Ricky",
+      "isAmateur": false,
+      "lastName": "Castillo",
+      "playerId": "59440",
+      "position": "T121",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:18am",
+      "teeTimeTimestamp": "2026-07-24T12:18:00",
+      "thru": "3",
+      "total": "+2",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Mac",
       "isAmateur": false,
       "lastName": "Meissner",
       "playerId": "59143",
-      "position": "T119",
-      "roundComplete": true,
+      "position": "T121",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3326,53 +3415,25 @@
           "strokes": 73
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Ryder",
       "isAmateur": true,
       "lastName": "Cowan",
       "playerId": "70695",
-      "position": "T119",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F*",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
-      "firstName": "Nick",
-      "isAmateur": false,
-      "lastName": "Dunlap",
-      "playerId": "59866",
-      "position": "T119",
-      "roundComplete": true,
+      "position": "T121",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3383,108 +3444,24 @@
         }
       ],
       "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F",
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
-      "firstName": "Takumi",
-      "isAmateur": false,
-      "lastName": "Kanaya",
-      "playerId": "47917",
-      "position": "T119",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
-      "firstName": "Brice",
-      "isAmateur": false,
-      "lastName": "Garnett",
-      "playerId": "29535",
-      "position": "T119",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:22pm",
-      "teeTimeTimestamp": "2026-07-23T17:22:00",
-      "thru": "F*",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
-      "firstName": "Charley",
-      "isAmateur": false,
-      "lastName": "Hoffman",
-      "playerId": "12716",
-      "position": "T119",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+2",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F",
-      "total": "+2",
-      "totalStrokesFromCompletedRounds": "73"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Gordon",
       "isAmateur": false,
       "lastName": "Sargent",
       "playerId": "64442",
-      "position": "T119",
-      "roundComplete": true,
+      "position": "T121",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3494,25 +3471,25 @@
           "strokes": 73
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+2",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Muzzy",
       "isAmateur": false,
       "lastName": "Donohue",
       "playerId": "67287",
-      "position": "T119",
-      "roundComplete": true,
+      "position": "T121",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3522,249 +3499,221 @@
           "strokes": 73
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+3",
-      "firstName": "Erik",
-      "isAmateur": false,
-      "lastName": "van Rooyen",
-      "playerId": "40006",
-      "position": "T127",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+3",
-      "firstName": "Ryan",
-      "isAmateur": false,
-      "lastName": "Brehm",
-      "playerId": "28420",
-      "position": "T127",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:07am",
-      "teeTimeTimestamp": "2026-07-23T12:07:00",
-      "thru": "F",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+3",
-      "firstName": "Tony",
-      "isAmateur": false,
-      "lastName": "Finau",
-      "playerId": "29725",
-      "position": "T127",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+3",
-      "firstName": "Max",
-      "isAmateur": false,
-      "lastName": "McGreevy",
-      "playerId": "51950",
-      "position": "T127",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 74
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:06pm",
-      "teeTimeTimestamp": "2026-07-23T18:06:00",
-      "thru": "F",
-      "total": "+3",
-      "totalStrokesFromCompletedRounds": "74"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Dylan",
-      "isAmateur": false,
-      "lastName": "Wu",
-      "playerId": "54783",
-      "position": "T131",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "6:56am",
-      "teeTimeTimestamp": "2026-07-23T11:56:00",
-      "thru": "F*",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Matt",
-      "isAmateur": false,
-      "lastName": "Kuchar",
-      "playerId": "23108",
-      "position": "T131",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Alejandro",
-      "isAmateur": false,
-      "lastName": "Tosti",
-      "playerId": "38991",
-      "position": "T131",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
-      "firstName": "Nicholas",
-      "isAmateur": false,
-      "lastName": "Lindheim",
-      "playerId": "37278",
-      "position": "T131",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+4",
-          "strokes": 75
-        }
-      ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "8:35am",
-      "teeTimeTimestamp": "2026-07-23T13:35:00",
-      "thru": "F",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "75"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "-1",
       "firstName": "Stefano",
       "isAmateur": false,
       "lastName": "Mazzoli",
       "playerId": "49037",
-      "position": "T131",
-      "roundComplete": true,
+      "position": "T126",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2026-07-24T12:40:00",
+      "thru": "1",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Erik",
+      "isAmateur": false,
+      "lastName": "van Rooyen",
+      "playerId": "40006",
+      "position": "T126",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Ryan",
+      "isAmateur": false,
+      "lastName": "Brehm",
+      "playerId": "28420",
+      "position": "T126",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2026-07-24T17:22:00",
+      "thru": "",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Max",
+      "isAmateur": false,
+      "lastName": "McGreevy",
+      "playerId": "51950",
+      "position": "T126",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:51am",
+      "teeTimeTimestamp": "2026-07-24T12:51:00",
+      "thru": "",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 2,
+      "currentRound": 2,
+      "currentRoundScore": "+3",
+      "firstName": "Aaron",
+      "isAmateur": false,
+      "lastName": "Wise",
+      "playerId": "49964",
+      "position": "T130",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 11,
+      "currentRound": 2,
+      "currentRoundScore": "+1",
+      "firstName": "Tony",
+      "isAmateur": false,
+      "lastName": "Finau",
+      "playerId": "29725",
+      "position": "T130",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 74
+        }
+      ],
+      "startingHole": 10,
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2*",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "74"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Dylan",
+      "isAmateur": false,
+      "lastName": "Wu",
+      "playerId": "54783",
+      "position": "T130",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2026-07-24T17:11:00",
+      "thru": "",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "Kuchar",
+      "playerId": "23108",
+      "position": "T130",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3775,24 +3724,80 @@
         }
       ],
       "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-07-23T17:55:00",
-      "thru": "F*",
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Alejandro",
+      "isAmateur": false,
+      "lastName": "Tosti",
+      "playerId": "38991",
+      "position": "T130",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Nicholas",
+      "isAmateur": false,
+      "lastName": "Lindheim",
+      "playerId": "37278",
+      "position": "T130",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+4",
+          "strokes": 75
+        }
+      ],
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2026-07-24T18:50:00",
+      "thru": "",
+      "total": "+4",
+      "totalStrokesFromCompletedRounds": "75"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Jeremy",
       "isAmateur": false,
       "lastName": "Paul",
       "playerId": "50582",
-      "position": "T131",
-      "roundComplete": true,
+      "position": "T130",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3802,25 +3807,25 @@
           "strokes": 75
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+4",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "David",
       "isAmateur": false,
       "lastName": "Skinns",
       "playerId": "27139",
-      "position": "T131",
-      "roundComplete": true,
+      "position": "T130",
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3830,25 +3835,25 @@
           "strokes": 75
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "75"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+5",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Davis",
       "isAmateur": false,
       "lastName": "Riley",
       "playerId": "47995",
       "position": "T138",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3858,25 +3863,25 @@
           "strokes": 76
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:18am",
-      "teeTimeTimestamp": "2026-07-23T12:18:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2026-07-24T17:33:00",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+5",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Brandt",
       "isAmateur": false,
       "lastName": "Snedeker",
       "playerId": "27649",
       "position": "T138",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3886,25 +3891,25 @@
           "strokes": 76
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "7:51am",
-      "teeTimeTimestamp": "2026-07-23T12:51:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2026-07-24T18:06:00",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+5",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Johnny",
       "isAmateur": false,
       "lastName": "Keefer",
       "playerId": "63454",
       "position": "T138",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3914,53 +3919,25 @@
           "strokes": 76
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "1:28pm",
-      "teeTimeTimestamp": "2026-07-23T18:28:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:13am",
+      "teeTimeTimestamp": "2026-07-24T13:13:00",
+      "thru": "",
       "total": "+5",
       "totalStrokesFromCompletedRounds": "76"
     },
     {
       "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+6",
-      "firstName": "Patrick",
-      "isAmateur": false,
-      "lastName": "Rodgers",
-      "playerId": "36699",
-      "position": "T141",
-      "roundComplete": true,
-      "rounds": [
-        {
-          "courseId": "883",
-          "courseName": "TPC Twin Cities",
-          "roundId": 1,
-          "scoreToPar": "+6",
-          "strokes": 77
-        }
-      ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "8:02am",
-      "teeTimeTimestamp": "2026-07-23T13:02:00",
-      "thru": "F*",
-      "total": "+6",
-      "totalStrokesFromCompletedRounds": "77"
-    },
-    {
-      "courseId": "883",
-      "currentHole": 9,
-      "currentRound": 1,
-      "currentRoundScore": "+6",
+      "currentHole": 2,
+      "currentRound": 2,
+      "currentRoundScore": "E",
       "firstName": "Aldrich",
       "isAmateur": false,
       "lastName": "Potgieter",
       "playerId": "63343",
       "position": "T141",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3970,25 +3947,53 @@
           "strokes": 77
         }
       ],
-      "startingHole": 10,
-      "status": "complete",
-      "teeTime": "12:44pm",
-      "teeTimeTimestamp": "2026-07-23T17:44:00",
-      "thru": "F*",
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:29am",
+      "teeTimeTimestamp": "2026-07-24T12:29:00",
+      "thru": "2",
       "total": "+6",
       "totalStrokesFromCompletedRounds": "77"
     },
     {
       "courseId": "883",
-      "currentHole": 18,
-      "currentRound": 1,
-      "currentRoundScore": "+7",
+      "currentHole": 1,
+      "currentRound": 2,
+      "currentRoundScore": "",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "lastName": "Rodgers",
+      "playerId": "36699",
+      "position": "T141",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "883",
+          "courseName": "TPC Twin Cities",
+          "roundId": 1,
+          "scoreToPar": "+6",
+          "strokes": 77
+        }
+      ],
+      "startingHole": 1,
+      "status": "between rounds",
+      "teeTime": "1:17pm",
+      "teeTimeTimestamp": "2026-07-24T18:17:00",
+      "thru": "",
+      "total": "+6",
+      "totalStrokesFromCompletedRounds": "77"
+    },
+    {
+      "courseId": "883",
+      "currentHole": 10,
+      "currentRound": 2,
+      "currentRoundScore": "",
       "firstName": "Kensei",
       "isAmateur": false,
       "lastName": "Hirata",
       "playerId": "49120",
       "position": "143",
-      "roundComplete": true,
+      "roundComplete": false,
       "rounds": [
         {
           "courseId": "883",
@@ -3998,17 +4003,17 @@
           "strokes": 78
         }
       ],
-      "startingHole": 1,
-      "status": "complete",
-      "teeTime": "2:01pm",
-      "teeTimeTimestamp": "2026-07-23T19:01:00",
-      "thru": "F",
+      "startingHole": 10,
+      "status": "between rounds",
+      "teeTime": "8:46am",
+      "teeTimeTimestamp": "2026-07-24T13:46:00",
+      "thru": "",
       "total": "+7",
       "totalStrokesFromCompletedRounds": "78"
     },
     {
       "courseId": "883",
-      "currentHole": 1,
+      "currentHole": 10,
       "currentRound": 1,
       "currentRoundScore": "-",
       "firstName": "Patton",
@@ -4026,20 +4031,18 @@
           "strokes": 77
         }
       ],
-      "startingHole": 1,
+      "startingHole": 10,
       "status": "wd",
-      "teeTime": "12:00pm",
-      "teeTimeTimestamp": "2026-07-23T17:00:00",
       "thru": "-",
       "total": "-",
       "totalStrokesFromCompletedRounds": "77"
     }
   ],
   "orgId": "1",
-  "roundId": 1,
-  "roundStatus": "Official",
+  "roundId": 2,
+  "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-07-24T00:14:03.724000",
+  "timestamp": "2026-07-24T13:04:02.787000",
   "tournId": "525",
   "year": "2026"
 }
