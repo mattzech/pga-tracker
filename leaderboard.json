@@ -5,7 +5,7 @@
       "cutScore": "-3"
     }
   ],
-  "lastUpdated": "2026-08-08T13:30:03.650000",
+  "lastUpdated": "2026-08-08T14:12:42.791000",
   "leaderboardRows": [
     {
       "courseId": "752",
@@ -464,7 +464,7 @@
     },
     {
       "courseId": "752",
-      "currentHole": 15,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-5",
       "firstName": "Ben",
@@ -472,7 +472,7 @@
       "lastName": "Kohles",
       "playerId": "36884",
       "position": "T14",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "752",
@@ -487,15 +487,92 @@
           "roundId": 2,
           "scoreToPar": "+1",
           "strokes": 71
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 3,
+          "scoreToPar": "-5",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "7:00am",
+      "teeTimeTimestamp": "2026-08-08T11:00:00",
+      "thru": "F",
+      "total": "-8",
+      "totalStrokesFromCompletedRounds": "202"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 10,
+      "currentRound": 3,
+      "currentRoundScore": "-5",
+      "firstName": "Nico",
+      "isAmateur": false,
+      "lastName": "Echavarria",
+      "playerId": "51349",
+      "position": "T14",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "7:00am",
-      "teeTimeTimestamp": "2026-08-08T11:00:00",
-      "thru": "15",
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2026-08-08T12:05:00",
+      "thru": "10",
       "total": "-8",
       "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 6,
+      "currentRound": 3,
+      "currentRoundScore": "-4",
+      "firstName": "Justin",
+      "isAmateur": false,
+      "lastName": "Lower",
+      "playerId": "40162",
+      "position": "T14",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2026-08-08T12:50:00",
+      "thru": "6",
+      "total": "-8",
+      "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
@@ -744,6 +821,41 @@
     },
     {
       "courseId": "752",
+      "currentHole": 13,
+      "currentRound": 3,
+      "currentRoundScore": "-4",
+      "firstName": "Webb",
+      "isAmateur": false,
+      "lastName": "Simpson",
+      "playerId": "29221",
+      "position": "T24",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:25am",
+      "teeTimeTimestamp": "2026-08-08T11:25:00",
+      "thru": "13",
+      "total": "-7",
+      "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
       "currentHole": 1,
       "currentRound": 3,
       "currentRoundScore": "",
@@ -751,7 +863,7 @@
       "isAmateur": false,
       "lastName": "Bauchou",
       "playerId": "48001",
-      "position": "T22",
+      "position": "T24",
       "roundComplete": false,
       "rounds": [
         {
@@ -786,7 +898,7 @@
       "isAmateur": false,
       "lastName": "Yu",
       "playerId": "45242",
-      "position": "T22",
+      "position": "T24",
       "roundComplete": false,
       "rounds": [
         {
@@ -821,7 +933,7 @@
       "isAmateur": false,
       "lastName": "Koepka",
       "playerId": "36689",
-      "position": "T22",
+      "position": "T24",
       "roundComplete": false,
       "rounds": [
         {
@@ -856,7 +968,7 @@
       "isAmateur": false,
       "lastName": "Collet",
       "playerId": "59570",
-      "position": "T22",
+      "position": "T24",
       "roundComplete": false,
       "rounds": [
         {
@@ -891,7 +1003,7 @@
       "isAmateur": false,
       "lastName": "Springer",
       "playerId": "50484",
-      "position": "T22",
+      "position": "T24",
       "roundComplete": false,
       "rounds": [
         {
@@ -919,49 +1031,14 @@
     },
     {
       "courseId": "752",
-      "currentHole": 12,
-      "currentRound": 3,
-      "currentRoundScore": "-3",
-      "firstName": "Davis",
-      "isAmateur": false,
-      "lastName": "Chatfield",
-      "playerId": "59006",
-      "position": "T27",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "7:05am",
-      "teeTimeTimestamp": "2026-08-08T11:05:00",
-      "thru": "12",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 10,
+      "currentHole": 13,
       "currentRound": 3,
       "currentRoundScore": "-3",
       "firstName": "Tony",
       "isAmateur": false,
       "lastName": "Finau",
       "playerId": "29725",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -983,7 +1060,7 @@
       "status": "active",
       "teeTime": "7:25am",
       "teeTimeTimestamp": "2026-08-08T11:25:00",
-      "thru": "10",
+      "thru": "13",
       "total": "-6",
       "totalStrokesFromCompletedRounds": "137"
     },
@@ -992,46 +1069,11 @@
       "currentHole": 10,
       "currentRound": 3,
       "currentRoundScore": "-3",
-      "firstName": "Webb",
+      "firstName": "Jordan",
       "isAmateur": false,
-      "lastName": "Simpson",
-      "playerId": "29221",
-      "position": "T27",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "7:25am",
-      "teeTimeTimestamp": "2026-08-08T11:25:00",
-      "thru": "10",
-      "total": "-6",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 7,
-      "currentRound": 3,
-      "currentRoundScore": "-3",
-      "firstName": "Nico",
-      "isAmateur": false,
-      "lastName": "Echavarria",
-      "playerId": "51349",
-      "position": "T27",
+      "lastName": "Spieth",
+      "playerId": "34046",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1051,11 +1093,46 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "8:05am",
-      "teeTimeTimestamp": "2026-08-08T12:05:00",
-      "thru": "7",
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2026-08-08T11:55:00",
+      "thru": "10",
       "total": "-6",
       "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 4,
+      "currentRound": 3,
+      "currentRoundScore": "-2",
+      "firstName": "Justin",
+      "isAmateur": false,
+      "lastName": "Thomas",
+      "playerId": "33448",
+      "position": "T30",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 66
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "9:10am",
+      "teeTimeTimestamp": "2026-08-08T13:10:00",
+      "thru": "4",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
@@ -1066,7 +1143,7 @@
       "isAmateur": false,
       "lastName": "Walker",
       "playerId": "54607",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1101,7 +1178,7 @@
       "isAmateur": false,
       "lastName": "Phillips",
       "playerId": "57900",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1136,7 +1213,7 @@
       "isAmateur": false,
       "lastName": "Campos",
       "playerId": "32070",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1171,7 +1248,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1206,7 +1283,7 @@
       "isAmateur": false,
       "lastName": "Dahmen",
       "playerId": "34076",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1241,7 +1318,7 @@
       "isAmateur": false,
       "lastName": "Saddier",
       "playerId": "34371",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1276,7 +1353,7 @@
       "isAmateur": false,
       "lastName": "Crowe",
       "playerId": "52514",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1311,7 +1388,7 @@
       "isAmateur": false,
       "lastName": "van Rooyen",
       "playerId": "40006",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1346,7 +1423,7 @@
       "isAmateur": false,
       "lastName": "Roy",
       "playerId": "39335",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1381,7 +1458,7 @@
       "isAmateur": false,
       "lastName": "Highsmith",
       "playerId": "60067",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1416,7 +1493,7 @@
       "isAmateur": false,
       "lastName": "McNealy",
       "playerId": "46442",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1451,7 +1528,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "55721",
-      "position": "T27",
+      "position": "T30",
       "roundComplete": false,
       "rounds": [
         {
@@ -1479,14 +1556,14 @@
     },
     {
       "courseId": "752",
-      "currentHole": 12,
+      "currentHole": 14,
       "currentRound": 3,
       "currentRoundScore": "-2",
       "firstName": "Christiaan",
       "isAmateur": false,
       "lastName": "Bezuidenhout",
       "playerId": "45522",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1508,6 +1585,76 @@
       "status": "active",
       "teeTime": "7:05am",
       "teeTimeTimestamp": "2026-08-08T11:05:00",
+      "thru": "14",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 15,
+      "currentRound": 3,
+      "currentRoundScore": "-2",
+      "firstName": "Davis",
+      "isAmateur": false,
+      "lastName": "Chatfield",
+      "playerId": "59006",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:05am",
+      "teeTimeTimestamp": "2026-08-08T11:05:00",
+      "thru": "15",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 12,
+      "currentRound": 3,
+      "currentRoundScore": "-2",
+      "firstName": "Austin",
+      "isAmateur": false,
+      "lastName": "Smotherman",
+      "playerId": "50095",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 66
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:35am",
+      "teeTimeTimestamp": "2026-08-08T11:35:00",
       "thru": "12",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "137"
@@ -1517,81 +1664,46 @@
       "currentHole": 10,
       "currentRound": 3,
       "currentRoundScore": "-2",
-      "firstName": "Keegan",
+      "firstName": "Patton",
       "isAmateur": false,
-      "lastName": "Bradley",
-      "playerId": "33141",
-      "position": "T43",
+      "lastName": "Kizzire",
+      "playerId": "32757",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
+          "scoreToPar": "-1",
+          "strokes": 69
         },
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
+          "scoreToPar": "-2",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "7:15am",
-      "teeTimeTimestamp": "2026-08-08T11:15:00",
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2026-08-08T11:55:00",
       "thru": "10",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 7,
+      "currentHole": 8,
       "currentRound": 3,
       "currentRoundScore": "-2",
-      "firstName": "Jordan",
+      "firstName": "Andrew",
       "isAmateur": false,
-      "lastName": "Spieth",
-      "playerId": "34046",
-      "position": "T43",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 68
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "7:55am",
-      "teeTimeTimestamp": "2026-08-08T11:55:00",
-      "thru": "7",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 7,
-      "currentRound": 3,
-      "currentRoundScore": "-2",
-      "firstName": "Patton",
-      "isAmateur": false,
-      "lastName": "Kizzire",
-      "playerId": "32757",
-      "position": "T43",
+      "lastName": "Putnam",
+      "playerId": "34256",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1611,22 +1723,22 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "7:55am",
-      "teeTimeTimestamp": "2026-08-08T11:55:00",
-      "thru": "7",
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2026-08-08T12:30:00",
+      "thru": "8",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 4,
+      "currentHole": 5,
       "currentRound": 3,
       "currentRoundScore": "-1",
-      "firstName": "John",
+      "firstName": "Matt",
       "isAmateur": false,
-      "lastName": "Parry",
-      "playerId": "28723",
-      "position": "T43",
+      "lastName": "McCarty",
+      "playerId": "59141",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1646,22 +1758,22 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "8:30am",
-      "teeTimeTimestamp": "2026-08-08T12:30:00",
-      "thru": "4",
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2026-08-08T13:00:00",
+      "thru": "5",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 3,
+      "currentHole": 4,
       "currentRound": 3,
       "currentRoundScore": "-1",
-      "firstName": "Justin",
+      "firstName": "Neal",
       "isAmateur": false,
-      "lastName": "Lower",
-      "playerId": "40162",
-      "position": "T43",
+      "lastName": "Shipley",
+      "playerId": "63807",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1681,9 +1793,44 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "8:50am",
-      "teeTimeTimestamp": "2026-08-08T12:50:00",
-      "thru": "3",
+      "teeTime": "9:20am",
+      "teeTimeTimestamp": "2026-08-08T13:20:00",
+      "thru": "4",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "136"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 2,
+      "currentRound": 3,
+      "currentRoundScore": "-1",
+      "firstName": "Rasmus",
+      "isAmateur": false,
+      "lastName": "Højgaard",
+      "playerId": "52686",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2026-08-08T13:40:00",
+      "thru": "2",
       "total": "-5",
       "totalStrokesFromCompletedRounds": "136"
     },
@@ -1691,20 +1838,20 @@
       "courseId": "752",
       "currentHole": 1,
       "currentRound": 3,
-      "currentRoundScore": "-1",
-      "firstName": "Justin",
+      "currentRoundScore": "E",
+      "firstName": "Bud",
       "isAmateur": false,
-      "lastName": "Thomas",
-      "playerId": "33448",
-      "position": "T43",
+      "lastName": "Cauley",
+      "playerId": "34021",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
+          "scoreToPar": "-5",
+          "strokes": 65
         },
         {
           "courseId": "752",
@@ -1716,11 +1863,46 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "9:10am",
-      "teeTimeTimestamp": "2026-08-08T13:10:00",
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2026-08-08T13:55:00",
       "thru": "1",
       "total": "-5",
-      "totalStrokesFromCompletedRounds": "136"
+      "totalStrokesFromCompletedRounds": "135"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 1,
+      "currentRound": 3,
+      "currentRoundScore": "E",
+      "firstName": "Ricky",
+      "isAmateur": false,
+      "lastName": "Castillo",
+      "playerId": "59440",
+      "position": "T45",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2026-08-08T13:55:00",
+      "thru": "1",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "135"
     },
     {
       "courseId": "752",
@@ -1731,7 +1913,7 @@
       "isAmateur": false,
       "lastName": "Hughes",
       "playerId": "35506",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1766,7 +1948,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "39975",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1801,7 +1983,7 @@
       "isAmateur": false,
       "lastName": "Snedeker",
       "playerId": "27649",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1836,7 +2018,7 @@
       "isAmateur": false,
       "lastName": "Koivun",
       "playerId": "66701",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1871,7 +2053,7 @@
       "isAmateur": false,
       "lastName": "Hall",
       "playerId": "57975",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1906,7 +2088,7 @@
       "isAmateur": false,
       "lastName": "Eckroat",
       "playerId": "57362",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1941,7 +2123,7 @@
       "isAmateur": false,
       "lastName": "Pendrith",
       "playerId": "40250",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1976,7 +2158,7 @@
       "isAmateur": false,
       "lastName": "Im",
       "playerId": "39971",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -1995,7 +2177,7 @@
         }
       ],
       "startingHole": 1,
-      "status": "between rounds",
+      "status": "active",
       "teeTime": "10:05am",
       "teeTimeTimestamp": "2026-08-08T14:05:00",
       "thru": "",
@@ -2011,7 +2193,7 @@
       "isAmateur": false,
       "lastName": "Streelman",
       "playerId": "27214",
-      "position": "T43",
+      "position": "T45",
       "roundComplete": false,
       "rounds": [
         {
@@ -2030,7 +2212,7 @@
         }
       ],
       "startingHole": 1,
-      "status": "between rounds",
+      "status": "active",
       "teeTime": "10:05am",
       "teeTimeTimestamp": "2026-08-08T14:05:00",
       "thru": "",
@@ -2039,119 +2221,49 @@
     },
     {
       "courseId": "752",
-      "currentHole": 1,
+      "currentHole": 14,
       "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Bud",
+      "currentRoundScore": "-1",
+      "firstName": "Keegan",
       "isAmateur": false,
-      "lastName": "Cauley",
-      "playerId": "34021",
-      "position": "T43",
+      "lastName": "Bradley",
+      "playerId": "33141",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 65
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
           "scoreToPar": "E",
           "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "between rounds",
-      "teeTime": "9:55am",
-      "teeTimeTimestamp": "2026-08-08T13:55:00",
-      "thru": "",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "135"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 1,
-      "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Ricky",
-      "isAmateur": false,
-      "lastName": "Castillo",
-      "playerId": "59440",
-      "position": "T43",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 67
         },
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "scoreToPar": "-3",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "between rounds",
-      "teeTime": "9:55am",
-      "teeTimeTimestamp": "2026-08-08T13:55:00",
-      "thru": "",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "135"
+      "status": "active",
+      "teeTime": "7:15am",
+      "teeTimeTimestamp": "2026-08-08T11:15:00",
+      "thru": "14",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
       "currentHole": 9,
       "currentRound": 3,
       "currentRoundScore": "-1",
-      "firstName": "Austin",
-      "isAmateur": false,
-      "lastName": "Smotherman",
-      "playerId": "50095",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "+1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "7:35am",
-      "teeTimeTimestamp": "2026-08-08T11:35:00",
-      "thru": "9",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 5,
-      "currentRound": 3,
-      "currentRoundScore": "-1",
       "firstName": "Matt",
       "isAmateur": false,
       "lastName": "Wallace",
       "playerId": "48887",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2173,20 +2285,20 @@
       "status": "active",
       "teeTime": "8:15am",
       "teeTimeTimestamp": "2026-08-08T12:15:00",
-      "thru": "5",
+      "thru": "9",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 5,
+      "currentHole": 8,
       "currentRound": 3,
       "currentRoundScore": "-1",
       "firstName": "Keith",
       "isAmateur": false,
       "lastName": "Mitchell",
       "playerId": "39546",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2208,90 +2320,55 @@
       "status": "active",
       "teeTime": "8:15am",
       "teeTimeTimestamp": "2026-08-08T12:15:00",
-      "thru": "5",
+      "thru": "8",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 4,
+      "currentHole": 8,
       "currentRound": 3,
-      "currentRoundScore": "-1",
-      "firstName": "Andrew",
+      "currentRoundScore": "E",
+      "firstName": "John",
       "isAmateur": false,
-      "lastName": "Putnam",
-      "playerId": "34256",
-      "position": "T61",
+      "lastName": "Parry",
+      "playerId": "28723",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
+          "scoreToPar": "-4",
+          "strokes": 66
         },
         {
           "courseId": "752",
           "courseName": "Sedgefield Country Club",
           "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "scoreToPar": "E",
+          "strokes": 70
         }
       ],
       "startingHole": 1,
       "status": "active",
       "teeTime": "8:30am",
       "teeTimeTimestamp": "2026-08-08T12:30:00",
-      "thru": "4",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 4,
-      "currentRound": 3,
-      "currentRoundScore": "E",
-      "firstName": "Pontus",
-      "isAmateur": false,
-      "lastName": "Nyholm",
-      "playerId": "55851",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "8:40am",
-      "teeTimeTimestamp": "2026-08-08T12:40:00",
-      "thru": "4",
+      "thru": "8",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 4,
+      "currentHole": 7,
       "currentRound": 3,
       "currentRoundScore": "E",
       "firstName": "Kristoffer",
       "isAmateur": false,
       "lastName": "Ventura",
       "playerId": "35658",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2313,20 +2390,20 @@
       "status": "active",
       "teeTime": "8:40am",
       "teeTimeTimestamp": "2026-08-08T12:40:00",
-      "thru": "4",
+      "thru": "7",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 2,
+      "currentHole": 5,
       "currentRound": 3,
       "currentRoundScore": "E",
       "firstName": "Aaron",
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2348,20 +2425,20 @@
       "status": "active",
       "teeTime": "9:00am",
       "teeTimeTimestamp": "2026-08-08T13:00:00",
-      "thru": "2",
+      "thru": "5",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 1,
+      "currentHole": 4,
       "currentRound": 3,
       "currentRoundScore": "E",
       "firstName": "Thorbjørn",
       "isAmateur": false,
       "lastName": "Olesen",
       "playerId": "33968",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2383,90 +2460,20 @@
       "status": "active",
       "teeTime": "9:10am",
       "teeTimeTimestamp": "2026-08-08T13:10:00",
-      "thru": "1",
+      "thru": "4",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 1,
+      "currentHole": 3,
       "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Rasmus",
-      "isAmateur": false,
-      "lastName": "Højgaard",
-      "playerId": "52686",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 68
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "between rounds",
-      "teeTime": "9:40am",
-      "teeTimeTimestamp": "2026-08-08T13:40:00",
-      "thru": "",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "136"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 1,
-      "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Chris",
-      "isAmateur": false,
-      "lastName": "Kirk",
-      "playerId": "30926",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "between rounds",
-      "teeTime": "9:40am",
-      "teeTimeTimestamp": "2026-08-08T13:40:00",
-      "thru": "",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "136"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 1,
-      "currentRound": 3,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Andrew",
       "isAmateur": false,
       "lastName": "Novak",
       "playerId": "51997",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2485,23 +2492,23 @@
         }
       ],
       "startingHole": 1,
-      "status": "between rounds",
+      "status": "active",
       "teeTime": "9:30am",
       "teeTimeTimestamp": "2026-08-08T13:30:00",
-      "thru": "",
+      "thru": "3",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 1,
+      "currentHole": 3,
       "currentRound": 3,
-      "currentRoundScore": "",
+      "currentRoundScore": "E",
       "firstName": "Lee",
       "isAmateur": false,
       "lastName": "Hodges",
       "playerId": "54628",
-      "position": "T61",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2520,23 +2527,23 @@
         }
       ],
       "startingHole": 1,
-      "status": "between rounds",
+      "status": "active",
       "teeTime": "9:30am",
       "teeTimeTimestamp": "2026-08-08T13:30:00",
-      "thru": "",
+      "thru": "3",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 1,
+      "currentHole": 2,
       "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Neal",
+      "currentRoundScore": "E",
+      "firstName": "Chris",
       "isAmateur": false,
-      "lastName": "Shipley",
-      "playerId": "63807",
-      "position": "T61",
+      "lastName": "Kirk",
+      "playerId": "30926",
+      "position": "T64",
       "roundComplete": false,
       "rounds": [
         {
@@ -2556,57 +2563,22 @@
       ],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "9:20am",
-      "teeTimeTimestamp": "2026-08-08T13:20:00",
-      "thru": "",
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2026-08-08T13:40:00",
+      "thru": "2",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 1,
-      "currentRound": 3,
-      "currentRoundScore": "",
-      "firstName": "Patrick",
-      "isAmateur": false,
-      "lastName": "Fishburn",
-      "playerId": "54576",
-      "position": "T61",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-2",
-          "strokes": 68
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "9:20am",
-      "teeTimeTimestamp": "2026-08-08T13:20:00",
-      "thru": "",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "136"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 10,
+      "currentHole": 13,
       "currentRound": 3,
       "currentRoundScore": "E",
       "firstName": "Cameron",
       "isAmateur": false,
       "lastName": "Young",
       "playerId": "57366",
-      "position": "T75",
+      "position": "T74",
       "roundComplete": false,
       "rounds": [
         {
@@ -2628,125 +2600,20 @@
       "status": "active",
       "teeTime": "7:15am",
       "teeTimeTimestamp": "2026-08-08T11:15:00",
-      "thru": "10",
+      "thru": "13",
       "total": "-3",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 8,
+      "currentHole": 13,
       "currentRound": 3,
       "currentRoundScore": "E",
-      "firstName": "Kihei",
-      "isAmateur": true,
-      "lastName": "Akina",
-      "playerId": "67118",
-      "position": "T75",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 67
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "E",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "7:45am",
-      "teeTimeTimestamp": "2026-08-08T11:45:00",
-      "thru": "8",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 7,
-      "currentRound": 3,
-      "currentRoundScore": "E",
-      "firstName": "Nick",
-      "isAmateur": false,
-      "lastName": "Taylor",
-      "playerId": "25493",
-      "position": "T75",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-1",
-          "strokes": 69
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "8:05am",
-      "teeTimeTimestamp": "2026-08-08T12:05:00",
-      "thru": "7",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "137"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 2,
-      "currentRound": 3,
-      "currentRoundScore": "+1",
-      "firstName": "Matt",
-      "isAmateur": false,
-      "lastName": "McCarty",
-      "playerId": "59141",
-      "position": "T75",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
-        },
-        {
-          "courseId": "752",
-          "courseName": "Sedgefield Country Club",
-          "roundId": 2,
-          "scoreToPar": "E",
-          "strokes": 70
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "9:00am",
-      "teeTimeTimestamp": "2026-08-08T13:00:00",
-      "thru": "2",
-      "total": "-3",
-      "totalStrokesFromCompletedRounds": "136"
-    },
-    {
-      "courseId": "752",
-      "currentHole": 9,
-      "currentRound": 3,
-      "currentRoundScore": "+1",
       "firstName": "Kensei",
       "isAmateur": false,
       "lastName": "Hirata",
       "playerId": "49120",
-      "position": "T79",
+      "position": "T74",
       "roundComplete": false,
       "rounds": [
         {
@@ -2768,20 +2635,125 @@
       "status": "active",
       "teeTime": "7:35am",
       "teeTimeTimestamp": "2026-08-08T11:35:00",
-      "thru": "9",
-      "total": "-2",
+      "thru": "13",
+      "total": "-3",
       "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "752",
-      "currentHole": 3,
+      "currentHole": 10,
+      "currentRound": 3,
+      "currentRoundScore": "E",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "lastName": "Taylor",
+      "playerId": "25493",
+      "position": "T74",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2026-08-08T12:05:00",
+      "thru": "10",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 4,
+      "currentRound": 3,
+      "currentRoundScore": "+1",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "lastName": "Fishburn",
+      "playerId": "54576",
+      "position": "T74",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "9:20am",
+      "teeTimeTimestamp": "2026-08-08T13:20:00",
+      "thru": "4",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "136"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 7,
       "currentRound": 3,
       "currentRoundScore": "+2",
+      "firstName": "Pontus",
+      "isAmateur": false,
+      "lastName": "Nyholm",
+      "playerId": "55851",
+      "position": "78",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2026-08-08T12:40:00",
+      "thru": "7",
+      "total": "-2",
+      "totalStrokesFromCompletedRounds": "136"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 6,
+      "currentRound": 3,
+      "currentRoundScore": "+3",
       "firstName": "Marco",
       "isAmateur": false,
       "lastName": "Penge",
       "playerId": "51003",
-      "position": "T79",
+      "position": "79",
       "roundComplete": false,
       "rounds": [
         {
@@ -2803,13 +2775,48 @@
       "status": "active",
       "teeTime": "8:50am",
       "teeTimeTimestamp": "2026-08-08T12:50:00",
-      "thru": "3",
-      "total": "-2",
+      "thru": "6",
+      "total": "-1",
       "totalStrokesFromCompletedRounds": "136"
     },
     {
       "courseId": "752",
-      "currentHole": 8,
+      "currentHole": 12,
+      "currentRound": 3,
+      "currentRoundScore": "+3",
+      "firstName": "Kihei",
+      "isAmateur": true,
+      "lastName": "Akina",
+      "playerId": "67118",
+      "position": "80",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "7:45am",
+      "teeTimeTimestamp": "2026-08-08T11:45:00",
+      "thru": "12",
+      "total": "E",
+      "totalStrokesFromCompletedRounds": "137"
+    },
+    {
+      "courseId": "752",
+      "currentHole": 12,
       "currentRound": 3,
       "currentRoundScore": "+4",
       "firstName": "Peter",
@@ -2838,7 +2845,7 @@
       "status": "active",
       "teeTime": "7:45am",
       "teeTimeTimestamp": "2026-08-08T11:45:00",
-      "thru": "8",
+      "thru": "12",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "137"
     },
@@ -5004,7 +5011,7 @@
   "roundId": 3,
   "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-08-08T13:30:03.650000",
+  "timestamp": "2026-08-08T14:12:42.791000",
   "tournId": "013",
   "year": "2026"
 }
