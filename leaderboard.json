@@ -5,7 +5,7 @@
       "cutScore": "-3"
     }
   ],
-  "lastUpdated": "2026-08-08T23:42:22.707000",
+  "lastUpdated": "2026-08-08T23:59:43.046000",
   "leaderboardRows": [
     {
       "courseId": "752",
@@ -51,7 +51,7 @@
     },
     {
       "courseId": "752",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-4",
       "firstName": "Beau",
@@ -59,7 +59,7 @@
       "lastName": "Hossler",
       "playerId": "35461",
       "position": "T1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "752",
@@ -74,15 +74,22 @@
           "roundId": 2,
           "scoreToPar": "-3",
           "strokes": 67
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 66
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:55pm",
       "teeTimeTimestamp": "2026-08-08T17:55:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-16",
-      "totalStrokesFromCompletedRounds": "128"
+      "totalStrokesFromCompletedRounds": "194"
     },
     {
       "courseId": "752",
@@ -800,7 +807,7 @@
     },
     {
       "courseId": "752",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "+2",
       "firstName": "Ben",
@@ -808,7 +815,7 @@
       "lastName": "James",
       "playerId": "57869",
       "position": "T15",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "752",
@@ -823,15 +830,22 @@
           "roundId": 2,
           "scoreToPar": "-3",
           "strokes": 67
+        },
+        {
+          "courseId": "752",
+          "courseName": "Sedgefield Country Club",
+          "roundId": 3,
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:55pm",
       "teeTimeTimestamp": "2026-08-08T17:55:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-9",
-      "totalStrokesFromCompletedRounds": "129"
+      "totalStrokesFromCompletedRounds": "201"
     },
     {
       "courseId": "752",
@@ -5555,9 +5569,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-08-08T23:42:22.707000",
+  "timestamp": "2026-08-08T23:59:43.046000",
   "tournId": "013",
   "year": "2026"
 }
