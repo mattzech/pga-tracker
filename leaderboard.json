@@ -1,6 +1,6 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-13T22:02:22.714000",
+  "lastUpdated": "2026-08-13T22:25:03.333000",
   "leaderboardRows": [
     {
       "courseId": "513",
@@ -116,7 +116,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-5",
       "firstName": "Michael",
@@ -124,15 +124,23 @@
       "lastName": "Kim",
       "playerId": "39975",
       "position": "T1",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 65
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:55pm",
       "teeTimeTimestamp": "2026-08-13T17:55:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-5",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "65"
     },
     {
       "courseId": "513",
@@ -416,7 +424,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-3",
       "firstName": "Patrick",
@@ -424,15 +432,23 @@
       "lastName": "Rodgers",
       "playerId": "36699",
       "position": "T13",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:05pm",
       "teeTimeTimestamp": "2026-08-13T18:05:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "67"
     },
     {
       "courseId": "513",
@@ -968,7 +984,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Nick",
@@ -976,35 +992,23 @@
       "lastName": "Taylor",
       "playerId": "25493",
       "position": "T26",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:55pm",
       "teeTimeTimestamp": "2026-08-13T17:55:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "513",
-      "currentHole": 17,
-      "currentRound": 1,
-      "currentRoundScore": "-1",
-      "firstName": "Aldrich",
-      "isAmateur": false,
-      "lastName": "Potgieter",
-      "playerId": "63343",
-      "position": "T26",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:05pm",
-      "teeTimeTimestamp": "2026-08-13T18:05:00",
-      "thru": "17",
-      "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "513",
@@ -1015,7 +1019,7 @@
       "isAmateur": false,
       "lastName": "Gerard",
       "playerId": "59018",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1043,7 +1047,7 @@
       "isAmateur": false,
       "lastName": "Thomas",
       "playerId": "33448",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1071,7 +1075,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1099,7 +1103,7 @@
       "isAmateur": false,
       "lastName": "Harman",
       "playerId": "27644",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1127,7 +1131,7 @@
       "isAmateur": false,
       "lastName": "Yellamaraju",
       "playerId": "60386",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1155,7 +1159,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "40098",
-      "position": "T38",
+      "position": "T37",
       "roundComplete": true,
       "rounds": [
         {
@@ -1183,7 +1187,7 @@
       "isAmateur": false,
       "lastName": "Koivun",
       "playerId": "66701",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1211,7 +1215,7 @@
       "isAmateur": false,
       "lastName": "Coody",
       "playerId": "59836",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1239,7 +1243,7 @@
       "isAmateur": false,
       "lastName": "Noren",
       "playerId": "27349",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1267,7 +1271,7 @@
       "isAmateur": false,
       "lastName": "Poston",
       "playerId": "49771",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1295,7 +1299,7 @@
       "isAmateur": false,
       "lastName": "Henley",
       "playerId": "34098",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1323,7 +1327,7 @@
       "isAmateur": false,
       "lastName": "Smith",
       "playerId": "46464",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1351,7 +1355,7 @@
       "isAmateur": false,
       "lastName": "Conners",
       "playerId": "39997",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1379,7 +1383,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "55721",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1407,7 +1411,7 @@
       "isAmateur": false,
       "lastName": "Spaun",
       "playerId": "39324",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1435,7 +1439,7 @@
       "isAmateur": false,
       "lastName": "Morikawa",
       "playerId": "50525",
-      "position": "T44",
+      "position": "T43",
       "roundComplete": true,
       "rounds": [
         {
@@ -1450,6 +1454,34 @@
       "status": "complete",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-08-13T17:45:00",
+      "thru": "F",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "513",
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "+1",
+      "firstName": "Aldrich",
+      "isAmateur": false,
+      "lastName": "Potgieter",
+      "playerId": "63343",
+      "position": "T43",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2026-08-13T18:05:00",
       "thru": "F",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "71"
@@ -1905,9 +1937,9 @@
   ],
   "orgId": "1",
   "roundId": 1,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-08-13T22:02:22.714000",
+  "timestamp": "2026-08-13T22:25:03.333000",
   "tournId": "027",
   "year": "2026"
 }
