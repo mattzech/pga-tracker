@@ -1,6 +1,6 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-14T21:29:22.743000",
+  "lastUpdated": "2026-08-14T21:52:42.745000",
   "leaderboardRows": [
     {
       "courseId": "513",
@@ -74,7 +74,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-6",
       "firstName": "Viktor",
@@ -82,7 +82,7 @@
       "lastName": "Hovland",
       "playerId": "46717",
       "position": "T2",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -90,15 +90,22 @@
           "roundId": 1,
           "scoreToPar": "-2",
           "strokes": 68
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "-6",
+          "strokes": 64
         }
       ],
       "startingHole": 1,
       "status": "active",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-08-14T17:45:00",
-      "thru": "16",
+      "thru": "F",
       "total": "-8",
-      "totalStrokesFromCompletedRounds": "68"
+      "totalStrokesFromCompletedRounds": "132"
     },
     {
       "courseId": "513",
@@ -242,7 +249,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 15,
+      "currentHole": 17,
       "currentRound": 2,
       "currentRoundScore": "-6",
       "firstName": "Brian",
@@ -264,7 +271,7 @@
       "status": "active",
       "teeTime": "12:55pm",
       "teeTimeTimestamp": "2026-08-14T17:55:00",
-      "thru": "15",
+      "thru": "17",
       "total": "-6",
       "totalStrokesFromCompletedRounds": "70"
     },
@@ -445,34 +452,6 @@
     },
     {
       "courseId": "513",
-      "currentHole": 16,
-      "currentRound": 2,
-      "currentRoundScore": "-1",
-      "firstName": "Hideki",
-      "isAmateur": false,
-      "lastName": "Matsuyama",
-      "playerId": "32839",
-      "position": "T9",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "513",
-          "courseName": "TPC Southwind",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:45pm",
-      "teeTimeTimestamp": "2026-08-14T17:45:00",
-      "thru": "16",
-      "total": "-5",
-      "totalStrokesFromCompletedRounds": "66"
-    },
-    {
-      "courseId": "513",
       "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "E",
@@ -480,7 +459,7 @@
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T15",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -515,7 +494,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T15",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -550,7 +529,7 @@
       "isAmateur": false,
       "lastName": "Rodgers",
       "playerId": "36699",
-      "position": "T15",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -585,7 +564,7 @@
       "isAmateur": false,
       "lastName": "Smalley",
       "playerId": "46340",
-      "position": "T15",
+      "position": "T14",
       "roundComplete": true,
       "rounds": [
         {
@@ -607,6 +586,41 @@
       "status": "complete",
       "teeTime": "11:40am",
       "teeTimeTimestamp": "2026-08-14T16:40:00",
+      "thru": "F",
+      "total": "-4",
+      "totalStrokesFromCompletedRounds": "136"
+    },
+    {
+      "courseId": "513",
+      "currentHole": 18,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Hideki",
+      "isAmateur": false,
+      "lastName": "Matsuyama",
+      "playerId": "32839",
+      "position": "T14",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 66
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2026-08-14T17:45:00",
       "thru": "F",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "136"
@@ -858,7 +872,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-3",
       "firstName": "Justin",
@@ -866,7 +880,7 @@
       "lastName": "Thomas",
       "playerId": "33448",
       "position": "T19",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -874,15 +888,22 @@
           "roundId": 1,
           "scoreToPar": "E",
           "strokes": 70
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:35pm",
       "teeTimeTimestamp": "2026-08-14T17:35:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "70"
+      "totalStrokesFromCompletedRounds": "137"
     },
     {
       "courseId": "513",
@@ -1096,7 +1117,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "-2",
       "firstName": "Si Woo",
@@ -1104,7 +1125,7 @@
       "lastName": "Kim",
       "playerId": "37455",
       "position": "T27",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -1112,15 +1133,22 @@
           "roundId": 1,
           "scoreToPar": "E",
           "strokes": 70
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:35pm",
       "teeTimeTimestamp": "2026-08-14T17:35:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-2",
-      "totalStrokesFromCompletedRounds": "70"
+      "totalStrokesFromCompletedRounds": "138"
     },
     {
       "courseId": "513",
@@ -1684,7 +1712,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "E",
       "firstName": "Russell",
@@ -1692,7 +1720,7 @@
       "lastName": "Henley",
       "playerId": "34098",
       "position": "T45",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -1700,19 +1728,26 @@
           "roundId": 1,
           "scoreToPar": "+1",
           "strokes": 71
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "E",
+          "strokes": 70
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:25pm",
       "teeTimeTimestamp": "2026-08-14T17:25:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "71"
+      "totalStrokesFromCompletedRounds": "141"
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 2,
       "currentRoundScore": "+3",
       "firstName": "Rickie",
@@ -1720,7 +1755,7 @@
       "lastName": "Fowler",
       "playerId": "32102",
       "position": "T45",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -1728,15 +1763,22 @@
           "roundId": 1,
           "scoreToPar": "-2",
           "strokes": 68
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 2,
+          "scoreToPar": "+3",
+          "strokes": 73
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:25pm",
       "teeTimeTimestamp": "2026-08-14T17:25:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+1",
-      "totalStrokesFromCompletedRounds": "68"
+      "totalStrokesFromCompletedRounds": "141"
     },
     {
       "courseId": "513",
@@ -1985,7 +2027,35 @@
     },
     {
       "courseId": "513",
-      "currentHole": 15,
+      "currentHole": 17,
+      "currentRound": 2,
+      "currentRoundScore": "+2",
+      "firstName": "Jordan",
+      "isAmateur": false,
+      "lastName": "Smith",
+      "playerId": "46464",
+      "position": "T54",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2026-08-14T17:55:00",
+      "thru": "17",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "513",
+      "currentHole": 16,
       "currentRound": 2,
       "currentRoundScore": "+1",
       "firstName": "Ricky",
@@ -2007,9 +2077,37 @@
       "status": "active",
       "teeTime": "1:05pm",
       "teeTimeTimestamp": "2026-08-14T18:05:00",
-      "thru": "15",
+      "thru": "16",
       "total": "+3",
       "totalStrokesFromCompletedRounds": "72"
+    },
+    {
+      "courseId": "513",
+      "currentHole": 16,
+      "currentRound": 2,
+      "currentRoundScore": "E",
+      "firstName": "Matti",
+      "isAmateur": false,
+      "lastName": "Schmid",
+      "playerId": "48867",
+      "position": "T54",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 1,
+          "scoreToPar": "+3",
+          "strokes": 73
+        }
+      ],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2026-08-14T18:05:00",
+      "thru": "16",
+      "total": "+3",
+      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "513",
@@ -2020,7 +2118,7 @@
       "isAmateur": false,
       "lastName": "Griffin",
       "playerId": "54591",
-      "position": "T60",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -2055,7 +2153,7 @@
       "isAmateur": false,
       "lastName": "Bhatia",
       "playerId": "56630",
-      "position": "T60",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -2090,7 +2188,7 @@
       "isAmateur": false,
       "lastName": "Cole",
       "playerId": "47591",
-      "position": "T60",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -2125,7 +2223,7 @@
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
-      "position": "T60",
+      "position": "T62",
       "roundComplete": true,
       "rounds": [
         {
@@ -2150,62 +2248,6 @@
       "thru": "F",
       "total": "+4",
       "totalStrokesFromCompletedRounds": "144"
-    },
-    {
-      "courseId": "513",
-      "currentHole": 15,
-      "currentRound": 2,
-      "currentRoundScore": "+3",
-      "firstName": "Jordan",
-      "isAmateur": false,
-      "lastName": "Smith",
-      "playerId": "46464",
-      "position": "T60",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "513",
-          "courseName": "TPC Southwind",
-          "roundId": 1,
-          "scoreToPar": "+1",
-          "strokes": 71
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:55pm",
-      "teeTimeTimestamp": "2026-08-14T17:55:00",
-      "thru": "15",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "71"
-    },
-    {
-      "courseId": "513",
-      "currentHole": 15,
-      "currentRound": 2,
-      "currentRoundScore": "+1",
-      "firstName": "Matti",
-      "isAmateur": false,
-      "lastName": "Schmid",
-      "playerId": "48867",
-      "position": "T60",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "513",
-          "courseName": "TPC Southwind",
-          "roundId": 1,
-          "scoreToPar": "+3",
-          "strokes": 73
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:05pm",
-      "teeTimeTimestamp": "2026-08-14T18:05:00",
-      "thru": "15",
-      "total": "+4",
-      "totalStrokesFromCompletedRounds": "73"
     },
     {
       "courseId": "513",
@@ -2343,7 +2385,7 @@
   "roundId": 2,
   "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-08-14T21:29:22.743000",
+  "timestamp": "2026-08-14T21:52:42.745000",
   "tournId": "027",
   "year": "2026"
 }
