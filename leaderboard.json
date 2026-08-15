@@ -1,10 +1,10 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-15T21:53:03.314000",
+  "lastUpdated": "2026-08-15T22:02:22.199000",
   "leaderboardRows": [
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-2",
       "firstName": "Scottie",
@@ -12,7 +12,7 @@
       "lastName": "Scheffler",
       "playerId": "46046",
       "position": "1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -27,15 +27,22 @@
           "roundId": 2,
           "scoreToPar": "-9",
           "strokes": 61
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 3,
+          "scoreToPar": "-2",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-08-15T17:45:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-13",
-      "totalStrokesFromCompletedRounds": "129"
+      "totalStrokesFromCompletedRounds": "197"
     },
     {
       "courseId": "513",
@@ -81,7 +88,7 @@
     },
     {
       "courseId": "513",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-3",
       "firstName": "Sungjae",
@@ -89,7 +96,7 @@
       "lastName": "Im",
       "playerId": "39971",
       "position": "T2",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "513",
@@ -104,15 +111,22 @@
           "roundId": 2,
           "scoreToPar": "-4",
           "strokes": 66
+        },
+        {
+          "courseId": "513",
+          "courseName": "TPC Southwind",
+          "roundId": 3,
+          "scoreToPar": "-3",
+          "strokes": 67
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:45pm",
       "teeTimeTimestamp": "2026-08-15T17:45:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-11",
-      "totalStrokesFromCompletedRounds": "132"
+      "totalStrokesFromCompletedRounds": "199"
     },
     {
       "courseId": "513",
@@ -2873,9 +2887,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-08-15T21:53:03.314000",
+  "timestamp": "2026-08-15T22:02:22.199000",
   "tournId": "027",
   "year": "2026"
 }
