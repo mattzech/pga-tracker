@@ -1,27 +1,7 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-20T21:45:42.463000",
+  "lastUpdated": "2026-08-20T22:15:42.854000",
   "leaderboardRows": [
-    {
-      "courseId": "679",
-      "currentHole": 17,
-      "currentRound": 1,
-      "currentRoundScore": "-7",
-      "firstName": "J.J.",
-      "isAmateur": false,
-      "lastName": "Spaun",
-      "playerId": "39324",
-      "position": "1",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:42pm",
-      "teeTimeTimestamp": "2026-08-20T17:42:00",
-      "thru": "17",
-      "total": "-7",
-      "totalStrokesFromCompletedRounds": "-"
-    },
     {
       "courseId": "679",
       "currentHole": 18,
@@ -31,7 +11,7 @@
       "isAmateur": false,
       "lastName": "Woodland",
       "playerId": "31323",
-      "position": "T2",
+      "position": "T1",
       "roundComplete": true,
       "rounds": [
         {
@@ -59,7 +39,7 @@
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
-      "position": "T2",
+      "position": "T1",
       "roundComplete": true,
       "rounds": [
         {
@@ -87,7 +67,7 @@
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
-      "position": "T2",
+      "position": "T1",
       "roundComplete": true,
       "rounds": [
         {
@@ -108,21 +88,49 @@
     },
     {
       "courseId": "679",
-      "currentHole": 16,
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "-6",
+      "firstName": "J.J.",
+      "isAmateur": false,
+      "lastName": "Spaun",
+      "playerId": "39324",
+      "position": "T1",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 64
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2026-08-20T17:42:00",
+      "thru": "F",
+      "total": "-6",
+      "totalStrokesFromCompletedRounds": "64"
+    },
+    {
+      "courseId": "679",
+      "currentHole": 17,
       "currentRound": 1,
       "currentRoundScore": "-6",
       "firstName": "Chris",
       "isAmateur": false,
       "lastName": "Gotterup",
       "playerId": "59095",
-      "position": "T2",
+      "position": "T1",
       "roundComplete": false,
       "rounds": [],
       "startingHole": 1,
       "status": "active",
       "teeTime": "1:22pm",
       "teeTimeTimestamp": "2026-08-20T18:22:00",
-      "thru": "16",
+      "thru": "17",
       "total": "-6",
       "totalStrokesFromCompletedRounds": "-"
     },
@@ -240,21 +248,21 @@
     },
     {
       "courseId": "679",
-      "currentHole": 14,
+      "currentHole": 16,
       "currentRound": 1,
       "currentRoundScore": "-4",
-      "firstName": "Matt",
+      "firstName": "Jacob",
       "isAmateur": false,
-      "lastName": "Fitzpatrick",
-      "playerId": "40098",
+      "lastName": "Bridgeman",
+      "playerId": "60004",
       "position": "T7",
       "roundComplete": false,
       "rounds": [],
       "startingHole": 1,
       "status": "active",
-      "teeTime": "1:33pm",
-      "teeTimeTimestamp": "2026-08-20T18:33:00",
-      "thru": "14",
+      "teeTime": "1:44pm",
+      "teeTimeTimestamp": "2026-08-20T18:44:00",
+      "thru": "16",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "-"
     },
@@ -456,6 +464,46 @@
     },
     {
       "courseId": "679",
+      "currentHole": 16,
+      "currentRound": 1,
+      "currentRoundScore": "-3",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "lastName": "Fitzpatrick",
+      "playerId": "40098",
+      "position": "T11",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:33pm",
+      "teeTimeTimestamp": "2026-08-20T18:33:00",
+      "thru": "16",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "-"
+    },
+    {
+      "courseId": "679",
+      "currentHole": 16,
+      "currentRound": 1,
+      "currentRoundScore": "-3",
+      "firstName": "Russell",
+      "isAmateur": false,
+      "lastName": "Henley",
+      "playerId": "34098",
+      "position": "T11",
+      "roundComplete": false,
+      "rounds": [],
+      "startingHole": 1,
+      "status": "active",
+      "teeTime": "1:44pm",
+      "teeTimeTimestamp": "2026-08-20T18:44:00",
+      "thru": "16",
+      "total": "-3",
+      "totalStrokesFromCompletedRounds": "-"
+    },
+    {
+      "courseId": "679",
       "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-2",
@@ -463,7 +511,7 @@
       "isAmateur": false,
       "lastName": "Rai",
       "playerId": "46414",
-      "position": "T18",
+      "position": "T20",
       "roundComplete": true,
       "rounds": [
         {
@@ -491,7 +539,7 @@
       "isAmateur": false,
       "lastName": "Griffin",
       "playerId": "54591",
-      "position": "T18",
+      "position": "T20",
       "roundComplete": true,
       "rounds": [
         {
@@ -519,7 +567,7 @@
       "isAmateur": false,
       "lastName": "Scott",
       "playerId": "24502",
-      "position": "T18",
+      "position": "T20",
       "roundComplete": true,
       "rounds": [
         {
@@ -547,7 +595,7 @@
       "isAmateur": false,
       "lastName": "Morikawa",
       "playerId": "50525",
-      "position": "T18",
+      "position": "T20",
       "roundComplete": true,
       "rounds": [
         {
@@ -575,7 +623,7 @@
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T18",
+      "position": "T20",
       "roundComplete": true,
       "rounds": [
         {
@@ -593,46 +641,6 @@
       "thru": "F",
       "total": "-2",
       "totalStrokesFromCompletedRounds": "68"
-    },
-    {
-      "courseId": "679",
-      "currentHole": 13,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Russell",
-      "isAmateur": false,
-      "lastName": "Henley",
-      "playerId": "34098",
-      "position": "T18",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:44pm",
-      "teeTimeTimestamp": "2026-08-20T18:44:00",
-      "thru": "13",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "679",
-      "currentHole": 13,
-      "currentRound": 1,
-      "currentRoundScore": "-2",
-      "firstName": "Jacob",
-      "isAmateur": false,
-      "lastName": "Bridgeman",
-      "playerId": "60004",
-      "position": "T18",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:44pm",
-      "teeTimeTimestamp": "2026-08-20T18:44:00",
-      "thru": "13",
-      "total": "-2",
-      "totalStrokesFromCompletedRounds": "-"
     },
     {
       "courseId": "679",
@@ -748,7 +756,7 @@
     },
     {
       "courseId": "679",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Min Woo",
@@ -756,19 +764,27 @@
       "lastName": "Lee",
       "playerId": "37378",
       "position": "T25",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "-1",
+          "strokes": 69
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:11pm",
       "teeTimeTimestamp": "2026-08-20T18:11:00",
-      "thru": "16",
+      "thru": "F",
       "total": "-1",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "69"
     },
     {
       "courseId": "679",
-      "currentHole": 15,
+      "currentHole": 17,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Tommy",
@@ -782,13 +798,13 @@
       "status": "active",
       "teeTime": "1:22pm",
       "teeTimeTimestamp": "2026-08-20T18:22:00",
-      "thru": "15",
+      "thru": "17",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "-"
     },
     {
       "courseId": "679",
-      "currentHole": 13,
+      "currentHole": 15,
       "currentRound": 1,
       "currentRoundScore": "-1",
       "firstName": "Maverick",
@@ -802,7 +818,7 @@
       "status": "active",
       "teeTime": "1:55pm",
       "teeTimeTimestamp": "2026-08-20T18:55:00",
-      "thru": "13",
+      "thru": "15",
       "total": "-1",
       "totalStrokesFromCompletedRounds": "-"
     },
@@ -864,27 +880,7 @@
     },
     {
       "courseId": "679",
-      "currentHole": 17,
-      "currentRound": 1,
-      "currentRoundScore": "E",
-      "firstName": "Viktor",
-      "isAmateur": false,
-      "lastName": "Hovland",
-      "playerId": "46717",
-      "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "12:42pm",
-      "teeTimeTimestamp": "2026-08-20T17:42:00",
-      "thru": "17",
-      "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
-    },
-    {
-      "courseId": "679",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "J.T.",
@@ -892,19 +888,27 @@
       "lastName": "Poston",
       "playerId": "49771",
       "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:53pm",
       "teeTimeTimestamp": "2026-08-20T17:53:00",
-      "thru": "16",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "679",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "E",
       "firstName": "Ryan",
@@ -912,15 +916,23 @@
       "lastName": "Gerard",
       "playerId": "59018",
       "position": "T32",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:11pm",
       "teeTimeTimestamp": "2026-08-20T18:11:00",
-      "thru": "16",
+      "thru": "F",
       "total": "E",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "70"
     },
     {
       "courseId": "679",
@@ -931,7 +943,7 @@
       "isAmateur": false,
       "lastName": "Theegala",
       "playerId": "51634",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -959,7 +971,7 @@
       "isAmateur": false,
       "lastName": "Fox",
       "playerId": "29936",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -987,7 +999,7 @@
       "isAmateur": false,
       "lastName": "Burns",
       "playerId": "47504",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -1015,7 +1027,7 @@
       "isAmateur": false,
       "lastName": "Young",
       "playerId": "57366",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -1043,7 +1055,7 @@
       "isAmateur": false,
       "lastName": "Noren",
       "playerId": "27349",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -1071,7 +1083,7 @@
       "isAmateur": false,
       "lastName": "Fowler",
       "playerId": "32102",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": true,
       "rounds": [
         {
@@ -1092,21 +1104,49 @@
     },
     {
       "courseId": "679",
-      "currentHole": 13,
+      "currentHole": 18,
+      "currentRound": 1,
+      "currentRoundScore": "+1",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "lastName": "Hovland",
+      "playerId": "46717",
+      "position": "T36",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2026-08-20T17:42:00",
+      "thru": "F",
+      "total": "+1",
+      "totalStrokesFromCompletedRounds": "71"
+    },
+    {
+      "courseId": "679",
+      "currentHole": 15,
       "currentRound": 1,
       "currentRoundScore": "+1",
       "firstName": "Matt",
       "isAmateur": false,
       "lastName": "McCarty",
       "playerId": "59141",
-      "position": "T37",
+      "position": "T36",
       "roundComplete": false,
       "rounds": [],
       "startingHole": 1,
       "status": "active",
       "teeTime": "1:55pm",
       "teeTimeTimestamp": "2026-08-20T18:55:00",
-      "thru": "13",
+      "thru": "15",
       "total": "+1",
       "totalStrokesFromCompletedRounds": "-"
     },
@@ -1168,7 +1208,7 @@
     },
     {
       "courseId": "679",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 1,
       "currentRoundScore": "+2",
       "firstName": "Kurt",
@@ -1176,19 +1216,27 @@
       "lastName": "Kitayama",
       "playerId": "48117",
       "position": "T44",
-      "roundComplete": false,
-      "rounds": [],
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 1,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:53pm",
       "teeTimeTimestamp": "2026-08-20T17:53:00",
-      "thru": "17",
+      "thru": "F",
       "total": "+2",
-      "totalStrokesFromCompletedRounds": "-"
+      "totalStrokesFromCompletedRounds": "72"
     },
     {
       "courseId": "679",
-      "currentHole": 14,
+      "currentHole": 16,
       "currentRound": 1,
       "currentRoundScore": "+2",
       "firstName": "Scottie",
@@ -1202,7 +1250,7 @@
       "status": "active",
       "teeTime": "1:33pm",
       "teeTimeTimestamp": "2026-08-20T18:33:00",
-      "thru": "14",
+      "thru": "16",
       "total": "+2",
       "totalStrokesFromCompletedRounds": "-"
     },
@@ -1295,7 +1343,7 @@
   "roundId": 1,
   "roundStatus": "In Progress",
   "status": "In Progress",
-  "timestamp": "2026-08-20T21:45:42.463000",
+  "timestamp": "2026-08-20T22:15:42.854000",
   "tournId": "028",
   "year": "2026"
 }
