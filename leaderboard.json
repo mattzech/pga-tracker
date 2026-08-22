@@ -1,18 +1,18 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-22T21:55:03.447000",
+  "lastUpdated": "2026-08-22T22:03:03.522000",
   "leaderboardRows": [
     {
       "courseId": "679",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-6",
+      "currentRoundScore": "-5",
       "firstName": "Wyndham",
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
       "position": "1",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "679",
@@ -27,15 +27,22 @@
           "roundId": 2,
           "scoreToPar": "-6",
           "strokes": 64
+        },
+        {
+          "courseId": "679",
+          "courseName": "Bellerive Country Club",
+          "roundId": 3,
+          "scoreToPar": "-5",
+          "strokes": 65
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:50pm",
       "teeTimeTimestamp": "2026-08-22T17:50:00",
-      "thru": "17",
-      "total": "-18",
-      "totalStrokesFromCompletedRounds": "128"
+      "thru": "F",
+      "total": "-17",
+      "totalStrokesFromCompletedRounds": "193"
     },
     {
       "courseId": "679",
@@ -198,7 +205,7 @@
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "12:50pm",
       "teeTimeTimestamp": "2026-08-22T17:50:00",
       "thru": "F",
@@ -2098,9 +2105,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-08-22T21:55:03.447000",
+  "timestamp": "2026-08-22T22:03:03.522000",
   "tournId": "028",
   "year": "2026"
 }
