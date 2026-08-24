@@ -8,7 +8,7 @@ jobs:
   update-leaderboard:
     runs-on: ubuntu-latest
     env:
-      RAPID_GOLF_API_KEY: ${{ secrets.RAPID_GOLF_API_KEY }}
+      RAPID_GOLF_API_KEY: ${{ secrets.RAPID_GOLF_API_KEY2 }}
       GITHUB_TOKEN: ${{ secrets.PGA_TRACKER_AUTOMATION}}
     steps:
       - name: Checkout repository
