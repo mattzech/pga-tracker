@@ -1,88 +1,18 @@
 {
   "cutLines": [],
-  "lastUpdated": "2026-08-29T20:57:42.773000",
+  "lastUpdated": "2026-08-29T22:57:03.689000",
   "leaderboardRows": [
     {
       "courseId": "688",
-      "currentHole": 9,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-2",
-      "firstName": "Ryan",
-      "isAmateur": false,
-      "lastName": "Gerard",
-      "playerId": "59018",
-      "position": "1",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 65
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-5",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:55pm",
-      "teeTimeTimestamp": "2026-08-29T18:55:00",
-      "thru": "9",
-      "total": "-12",
-      "totalStrokesFromCompletedRounds": "130"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 10,
-      "currentRound": 3,
-      "currentRoundScore": "-2",
-      "firstName": "Chris",
-      "isAmateur": false,
-      "lastName": "Gotterup",
-      "playerId": "59095",
-      "position": "T2",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 64
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:43pm",
-      "teeTimeTimestamp": "2026-08-29T18:43:00",
-      "thru": "10",
-      "total": "-11",
-      "totalStrokesFromCompletedRounds": "131"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 9,
-      "currentRound": 3,
-      "currentRoundScore": "-1",
+      "currentRoundScore": "-5",
       "firstName": "Viktor",
       "isAmateur": false,
       "lastName": "Hovland",
       "playerId": "46717",
-      "position": "T2",
-      "roundComplete": false,
+      "position": "1",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -97,15 +27,232 @@
           "roundId": 2,
           "scoreToPar": "-4",
           "strokes": 66
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-5",
+          "strokes": 65
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:55pm",
       "teeTimeTimestamp": "2026-08-29T18:55:00",
-      "thru": "9",
-      "total": "-11",
-      "totalStrokesFromCompletedRounds": "130"
+      "thru": "F",
+      "total": "-15",
+      "totalStrokesFromCompletedRounds": "195"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-4",
+      "firstName": "Ryan",
+      "isAmateur": false,
+      "lastName": "Gerard",
+      "playerId": "59018",
+      "position": "2",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 66
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:55pm",
+      "teeTimeTimestamp": "2026-08-29T18:55:00",
+      "thru": "F",
+      "total": "-14",
+      "totalStrokesFromCompletedRounds": "196"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-5",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "lastName": "Scott",
+      "playerId": "24502",
+      "position": "T3",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 66
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-5",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:07pm",
+      "teeTimeTimestamp": "2026-08-29T18:07:00",
+      "thru": "F",
+      "total": "-12",
+      "totalStrokesFromCompletedRounds": "198"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-5",
+      "firstName": "Ludvig",
+      "isAmateur": false,
+      "lastName": "Åberg",
+      "playerId": "52955",
+      "position": "T3",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-5",
+          "strokes": 65
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:07pm",
+      "teeTimeTimestamp": "2026-08-29T18:07:00",
+      "thru": "F",
+      "total": "-12",
+      "totalStrokesFromCompletedRounds": "198"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-4",
+      "firstName": "Scottie",
+      "isAmateur": false,
+      "lastName": "Scheffler",
+      "playerId": "46046",
+      "position": "T3",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 66
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:31pm",
+      "teeTimeTimestamp": "2026-08-29T18:31:00",
+      "thru": "F",
+      "total": "-12",
+      "totalStrokesFromCompletedRounds": "198"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-3",
+      "firstName": "Chris",
+      "isAmateur": false,
+      "lastName": "Gotterup",
+      "playerId": "59095",
+      "position": "T3",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 64
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:43pm",
+      "teeTimeTimestamp": "2026-08-29T18:43:00",
+      "thru": "F",
+      "total": "-12",
+      "totalStrokesFromCompletedRounds": "198"
     },
     {
       "courseId": "688",
@@ -116,7 +263,7 @@
       "isAmateur": false,
       "lastName": "McIlroy",
       "playerId": "28237",
-      "position": "T4",
+      "position": "T7",
       "roundComplete": true,
       "rounds": [
         {
@@ -151,73 +298,45 @@
     },
     {
       "courseId": "688",
-      "currentHole": 13,
-      "currentRound": 3,
-      "currentRoundScore": "-3",
-      "firstName": "Adam",
-      "isAmateur": false,
-      "lastName": "Scott",
-      "playerId": "24502",
-      "position": "T4",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:07pm",
-      "teeTimeTimestamp": "2026-08-29T18:07:00",
-      "thru": "13",
-      "total": "-10",
-      "totalStrokesFromCompletedRounds": "133"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 11,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "-2",
-      "firstName": "Scottie",
+      "firstName": "Cameron",
       "isAmateur": false,
-      "lastName": "Scheffler",
-      "playerId": "46046",
-      "position": "T4",
-      "roundComplete": false,
+      "lastName": "Young",
+      "playerId": "57366",
+      "position": "T7",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 65
+          "scoreToPar": "E",
+          "strokes": 70
         },
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
+          "scoreToPar": "-8",
+          "strokes": 62
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-2",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "2:31pm",
       "teeTimeTimestamp": "2026-08-29T18:31:00",
-      "thru": "11",
+      "thru": "F",
       "total": "-10",
-      "totalStrokesFromCompletedRounds": "132"
+      "totalStrokesFromCompletedRounds": "200"
     },
     {
       "courseId": "688",
@@ -228,7 +347,7 @@
       "isAmateur": false,
       "lastName": "Lee",
       "playerId": "37378",
-      "position": "T7",
+      "position": "T9",
       "roundComplete": true,
       "rounds": [
         {
@@ -263,57 +382,64 @@
     },
     {
       "courseId": "688",
-      "currentHole": 13,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-2",
-      "firstName": "Ludvig",
+      "currentRoundScore": "-4",
+      "firstName": "Russell",
       "isAmateur": false,
-      "lastName": "Åberg",
-      "playerId": "52955",
-      "position": "T7",
-      "roundComplete": false,
+      "lastName": "Henley",
+      "playerId": "34098",
+      "position": "T9",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 1,
+          "scoreToPar": "E",
+          "strokes": 70
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
           "scoreToPar": "-5",
           "strokes": 65
         },
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 66
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:07pm",
-      "teeTimeTimestamp": "2026-08-29T18:07:00",
-      "thru": "13",
+      "status": "complete",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2026-08-29T17:25:00",
+      "thru": "F",
       "total": "-9",
-      "totalStrokesFromCompletedRounds": "133"
+      "totalStrokesFromCompletedRounds": "201"
     },
     {
       "courseId": "688",
-      "currentHole": 10,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "E",
-      "firstName": "Collin",
+      "currentRoundScore": "-4",
+      "firstName": "Jacob",
       "isAmateur": false,
-      "lastName": "Morikawa",
-      "playerId": "50525",
-      "position": "T7",
-      "roundComplete": false,
+      "lastName": "Bridgeman",
+      "playerId": "60004",
+      "position": "T9",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 1,
-          "scoreToPar": "-6",
-          "strokes": 64
+          "scoreToPar": "-2",
+          "strokes": 68
         },
         {
           "courseId": "688",
@@ -321,15 +447,64 @@
           "roundId": 2,
           "scoreToPar": "-3",
           "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-4",
+          "strokes": 66
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:43pm",
-      "teeTimeTimestamp": "2026-08-29T18:43:00",
-      "thru": "10",
+      "status": "complete",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2026-08-29T17:25:00",
+      "thru": "F",
       "total": "-9",
-      "totalStrokesFromCompletedRounds": "131"
+      "totalStrokesFromCompletedRounds": "201"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "-3",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "lastName": "Burns",
+      "playerId": "47504",
+      "position": "T9",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-4",
+          "strokes": 66
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-2",
+          "strokes": 68
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-3",
+          "strokes": 67
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:49pm",
+      "teeTimeTimestamp": "2026-08-29T17:49:00",
+      "thru": "F",
+      "total": "-9",
+      "totalStrokesFromCompletedRounds": "201"
     },
     {
       "courseId": "688",
@@ -340,7 +515,7 @@
       "isAmateur": false,
       "lastName": "Kim",
       "playerId": "37455",
-      "position": "T10",
+      "position": "T13",
       "roundComplete": true,
       "rounds": [
         {
@@ -375,50 +550,15 @@
     },
     {
       "courseId": "688",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-3",
-      "firstName": "Russell",
+      "currentRoundScore": "-1",
+      "firstName": "Justin",
       "isAmateur": false,
-      "lastName": "Henley",
-      "playerId": "34098",
-      "position": "T10",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-5",
-          "strokes": 65
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": "2026-08-29T17:25:00",
-      "thru": "16",
-      "total": "-8",
-      "totalStrokesFromCompletedRounds": "135"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 16,
-      "currentRound": 3,
-      "currentRoundScore": "-3",
-      "firstName": "Jacob",
-      "isAmateur": false,
-      "lastName": "Bridgeman",
-      "playerId": "60004",
-      "position": "T10",
-      "roundComplete": false,
+      "lastName": "Rose",
+      "playerId": "22405",
+      "position": "T13",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -431,29 +571,36 @@
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "-1",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:25pm",
-      "teeTimeTimestamp": "2026-08-29T17:25:00",
-      "thru": "16",
+      "status": "complete",
+      "teeTime": "2:19pm",
+      "teeTimeTimestamp": "2026-08-29T18:19:00",
+      "thru": "F",
       "total": "-8",
-      "totalStrokesFromCompletedRounds": "135"
+      "totalStrokesFromCompletedRounds": "202"
     },
     {
       "courseId": "688",
-      "currentHole": 15,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "-2",
-      "firstName": "Sam",
+      "currentRoundScore": "-1",
+      "firstName": "Matt",
       "isAmateur": false,
-      "lastName": "Burns",
-      "playerId": "47504",
-      "position": "T10",
-      "roundComplete": false,
+      "lastName": "Fitzpatrick",
+      "playerId": "40098",
+      "position": "T13",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -466,52 +613,24 @@
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:49pm",
-      "teeTimeTimestamp": "2026-08-29T17:49:00",
-      "thru": "15",
-      "total": "-8",
-      "totalStrokesFromCompletedRounds": "134"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 11,
-      "currentRound": 3,
-      "currentRoundScore": "E",
-      "firstName": "Cameron",
-      "isAmateur": false,
-      "lastName": "Young",
-      "playerId": "57366",
-      "position": "T10",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "E",
-          "strokes": 70
+          "scoreToPar": "-3",
+          "strokes": 67
         },
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-8",
-          "strokes": 62
+          "roundId": 3,
+          "scoreToPar": "-1",
+          "strokes": 69
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:31pm",
-      "teeTimeTimestamp": "2026-08-29T18:31:00",
-      "thru": "11",
+      "status": "complete",
+      "teeTime": "2:19pm",
+      "teeTimeTimestamp": "2026-08-29T18:19:00",
+      "thru": "F",
       "total": "-8",
-      "totalStrokesFromCompletedRounds": "132"
+      "totalStrokesFromCompletedRounds": "202"
     },
     {
       "courseId": "688",
@@ -522,7 +641,7 @@
       "isAmateur": false,
       "lastName": "Clark",
       "playerId": "51766",
-      "position": "T15",
+      "position": "T16",
       "roundComplete": true,
       "rounds": [
         {
@@ -564,7 +683,7 @@
       "isAmateur": false,
       "lastName": "Fleetwood",
       "playerId": "30911",
-      "position": "T15",
+      "position": "T16",
       "roundComplete": true,
       "rounds": [
         {
@@ -606,7 +725,7 @@
       "isAmateur": false,
       "lastName": "Fitzpatrick",
       "playerId": "55721",
-      "position": "T15",
+      "position": "T16",
       "roundComplete": true,
       "rounds": [
         {
@@ -641,50 +760,99 @@
     },
     {
       "courseId": "688",
-      "currentHole": 12,
+      "currentHole": 18,
       "currentRound": 3,
-      "currentRoundScore": "E",
-      "firstName": "Justin",
+      "currentRoundScore": "-2",
+      "firstName": "Tom",
       "isAmateur": false,
-      "lastName": "Rose",
-      "playerId": "22405",
-      "position": "T15",
-      "roundComplete": false,
+      "lastName": "Kim",
+      "playerId": "55182",
+      "position": "T16",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 1,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
           "scoreToPar": "-2",
           "strokes": 68
         },
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-5",
-          "strokes": 65
+          "roundId": 3,
+          "scoreToPar": "-2",
+          "strokes": 68
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:19pm",
-      "teeTimeTimestamp": "2026-08-29T18:19:00",
-      "thru": "12",
+      "status": "complete",
+      "teeTime": "1:13pm",
+      "teeTimeTimestamp": "2026-08-29T17:13:00",
+      "thru": "F",
       "total": "-7",
-      "totalStrokesFromCompletedRounds": "133"
+      "totalStrokesFromCompletedRounds": "203"
     },
     {
       "courseId": "688",
-      "currentHole": 12,
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "+2",
+      "firstName": "Collin",
+      "isAmateur": false,
+      "lastName": "Morikawa",
+      "playerId": "50525",
+      "position": "T16",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-6",
+          "strokes": 64
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-3",
+          "strokes": 67
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "+2",
+          "strokes": 72
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "2:43pm",
+      "teeTimeTimestamp": "2026-08-29T18:43:00",
+      "thru": "F",
+      "total": "-7",
+      "totalStrokesFromCompletedRounds": "203"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "E",
-      "firstName": "Matt",
+      "firstName": "Ryan",
       "isAmateur": false,
-      "lastName": "Fitzpatrick",
-      "playerId": "40098",
-      "position": "T15",
-      "roundComplete": false,
+      "lastName": "Fox",
+      "playerId": "29936",
+      "position": "21",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -697,52 +865,24 @@
           "courseId": "688",
           "courseName": "East Lake Golf Club",
           "roundId": 2,
-          "scoreToPar": "-3",
-          "strokes": 67
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "2:19pm",
-      "teeTimeTimestamp": "2026-08-29T18:19:00",
-      "thru": "12",
-      "total": "-7",
-      "totalStrokesFromCompletedRounds": "133"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 17,
-      "currentRound": 3,
-      "currentRoundScore": "-1",
-      "firstName": "Tom",
-      "isAmateur": false,
-      "lastName": "Kim",
-      "playerId": "55182",
-      "position": "20",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-3",
-          "strokes": 67
+          "scoreToPar": "-2",
+          "strokes": 68
         },
         {
           "courseId": "688",
           "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
+          "roundId": 3,
+          "scoreToPar": "E",
+          "strokes": 70
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:13pm",
-      "teeTimeTimestamp": "2026-08-29T17:13:00",
-      "thru": "17",
+      "status": "complete",
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": "2026-08-29T17:37:00",
+      "thru": "F",
       "total": "-6",
-      "totalStrokesFromCompletedRounds": "135"
+      "totalStrokesFromCompletedRounds": "204"
     },
     {
       "courseId": "688",
@@ -753,7 +893,7 @@
       "isAmateur": false,
       "lastName": "Schauffele",
       "playerId": "48081",
-      "position": "T21",
+      "position": "T22",
       "roundComplete": true,
       "rounds": [
         {
@@ -788,15 +928,57 @@
     },
     {
       "courseId": "688",
-      "currentHole": 16,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "+1",
-      "firstName": "Ryan",
+      "firstName": "Akshay",
       "isAmateur": false,
-      "lastName": "Fox",
-      "playerId": "29936",
-      "position": "T21",
-      "roundComplete": false,
+      "lastName": "Bhatia",
+      "playerId": "56630",
+      "position": "T22",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 1,
+          "scoreToPar": "-5",
+          "strokes": 65
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 2,
+          "scoreToPar": "-1",
+          "strokes": 69
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "+1",
+          "strokes": 71
+        }
+      ],
+      "startingHole": 1,
+      "status": "complete",
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": "2026-08-29T17:37:00",
+      "thru": "F",
+      "total": "-5",
+      "totalStrokesFromCompletedRounds": "205"
+    },
+    {
+      "courseId": "688",
+      "currentHole": 18,
+      "currentRound": 3,
+      "currentRoundScore": "+1",
+      "firstName": "Gary",
+      "isAmateur": false,
+      "lastName": "Woodland",
+      "playerId": "31323",
+      "position": "T22",
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -811,15 +993,22 @@
           "roundId": 2,
           "scoreToPar": "-2",
           "strokes": 68
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "+1",
+          "strokes": 71
         }
       ],
       "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:37pm",
-      "teeTimeTimestamp": "2026-08-29T17:37:00",
-      "thru": "16",
+      "status": "complete",
+      "teeTime": "1:49pm",
+      "teeTimeTimestamp": "2026-08-29T17:49:00",
+      "thru": "F",
       "total": "-5",
-      "totalStrokesFromCompletedRounds": "134"
+      "totalStrokesFromCompletedRounds": "205"
     },
     {
       "courseId": "688",
@@ -830,7 +1019,7 @@
       "isAmateur": false,
       "lastName": "MacIntyre",
       "playerId": "52215",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -872,7 +1061,7 @@
       "isAmateur": false,
       "lastName": "Matsuyama",
       "playerId": "32839",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -914,7 +1103,7 @@
       "isAmateur": false,
       "lastName": "Cantlay",
       "playerId": "35450",
-      "position": "T23",
+      "position": "T25",
       "roundComplete": true,
       "rounds": [
         {
@@ -946,76 +1135,6 @@
       "thru": "F",
       "total": "-4",
       "totalStrokesFromCompletedRounds": "206"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 16,
-      "currentRound": 3,
-      "currentRoundScore": "+2",
-      "firstName": "Akshay",
-      "isAmateur": false,
-      "lastName": "Bhatia",
-      "playerId": "56630",
-      "position": "T23",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-5",
-          "strokes": 65
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-1",
-          "strokes": 69
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:37pm",
-      "teeTimeTimestamp": "2026-08-29T17:37:00",
-      "thru": "16",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "134"
-    },
-    {
-      "courseId": "688",
-      "currentHole": 15,
-      "currentRound": 3,
-      "currentRoundScore": "+2",
-      "firstName": "Gary",
-      "isAmateur": false,
-      "lastName": "Woodland",
-      "playerId": "31323",
-      "position": "T23",
-      "roundComplete": false,
-      "rounds": [
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 1,
-          "scoreToPar": "-4",
-          "strokes": 66
-        },
-        {
-          "courseId": "688",
-          "courseName": "East Lake Golf Club",
-          "roundId": 2,
-          "scoreToPar": "-2",
-          "strokes": 68
-        }
-      ],
-      "startingHole": 1,
-      "status": "active",
-      "teeTime": "1:49pm",
-      "teeTimeTimestamp": "2026-08-29T17:49:00",
-      "thru": "15",
-      "total": "-4",
-      "totalStrokesFromCompletedRounds": "134"
     },
     {
       "courseId": "688",
@@ -1061,7 +1180,7 @@
     },
     {
       "courseId": "688",
-      "currentHole": 17,
+      "currentHole": 18,
       "currentRound": 3,
       "currentRoundScore": "+2",
       "firstName": "Alex",
@@ -1069,7 +1188,7 @@
       "lastName": "Smalley",
       "playerId": "46340",
       "position": "T28",
-      "roundComplete": false,
+      "roundComplete": true,
       "rounds": [
         {
           "courseId": "688",
@@ -1084,15 +1203,22 @@
           "roundId": 2,
           "scoreToPar": "-2",
           "strokes": 68
+        },
+        {
+          "courseId": "688",
+          "courseName": "East Lake Golf Club",
+          "roundId": 3,
+          "scoreToPar": "+2",
+          "strokes": 72
         }
       ],
       "startingHole": 1,
-      "status": "active",
+      "status": "complete",
       "teeTime": "1:13pm",
       "teeTimeTimestamp": "2026-08-29T17:13:00",
-      "thru": "17",
+      "thru": "F",
       "total": "-3",
-      "totalStrokesFromCompletedRounds": "135"
+      "totalStrokesFromCompletedRounds": "207"
     },
     {
       "courseId": "688",
@@ -1115,9 +1241,9 @@
   ],
   "orgId": "1",
   "roundId": 3,
-  "roundStatus": "In Progress",
+  "roundStatus": "Official",
   "status": "In Progress",
-  "timestamp": "2026-08-29T20:57:42.773000",
+  "timestamp": "2026-08-29T22:57:03.689000",
   "tournId": "060",
   "year": "2026"
 }
